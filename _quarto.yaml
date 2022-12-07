@@ -3,14 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "FishMIP"
+  title: "Fish-MIP"
   navbar:
     background: primary
     left:
       - href: index.qmd
         text: Home
-      - href: approach.qmd
-        text: Approach
+      - text: Approach
+        file: about.qmd
+      - text: Protocols
+        file: protocols.qmd
+      - text: Publications
+        file: publications.qmd
+      - text: Models and Members
+        file: models_members.qmd
+   
+    right:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/fishmip
+    - icon: github
+      text: GitHub
+      href: https://github.com/Fish-MIP
+      
+      
+
+
+        
+        
+
+        
+        
 
         
       

@@ -1,0 +1,136 @@
+---
+title: "Models and Members"
+editor: visual
+---
+
+# Models and members
+
+### CURRENT FISH-MIP MODELS:
+
+------------------------------------------------------------------------
+
+**Global:**
+
+ApeCOSM
+
+BOATS
+
+DBEM
+
+DPBM
+
+EcoOcean
+
+EcoTroph
+
+FEISTY
+
+Macroecological
+
+SS-DBEM
+
+**Regional:**
+
+Atlantis
+
+Ecopath
+
+OSMOSE
+
+mizer
+
+### CURRENT FISH-MIP MEMBERS:
+
+------------------------------------------------------------------------
+
+Manuel Barange (FAO, Italy)
+
+Nicolas Barrier (IRD, France)
+
+Daniele Bianchi (UCLA, US)
+
+Julia Blanchard (University of Tasmania, Australia)
+
+Laurent Bopp (IPSL, France)
+
+Daniel Boyce (Dalhousie University, Canada)
+
+Andrea Buchholz (Dalhousie University, Canada)
+
+Cathy Bulman (CSIRO, Australia)
+
+William Cheung (UBC, Canada)
+
+Villy Christensen (UBC, Canada)
+
+Marta Coll (ICM-CSIC, Spain)
+
+David Carozza (UQAM, Canada)
+
+Tyler Eddy (Dalhousie University)
+
+Jason Everett (University of Queensland)
+
+Jose Fernandes (AZTI, Spain)
+
+Beth Fulton (CSIRO, Australia)
+
+Eric Galbraith (McGill, Canada)
+
+Didier Gascuel (Agrocampus Ouest, France)
+
+Jerome Guiet (UCLA, US)
+
+Cheryl Harrison (University of Texas Rio Grand Valley, US)
+
+Ryan Heneghan (Universitat Autonoma de Barcelona, Spain)
+
+Alistair Hobday (CSIRO, Australia)
+
+Simon Jennings (ICES, Denmark)
+
+Miranda Jones (UBC, Canada)
+
+Isaac Kaplan (NOAA, US)
+
+Lester Kwiatkowski (CNRS, France)
+
+Patrick Lehodey (CLS, France)
+
+Jason Link (NOAA, US)
+
+Heike Lotze (Dalhousie University, Canada)
+
+Chris Lynam (CEFAS, UK)
+
+Olivier Maury (IRD, France)
+
+Susa Niiranen (Stockholm Resilience Centre, Sweden)
+
+Ricardo Oliveros-Ramos (IATTC, US)
+
+Kelly Ortega-Cisneros (Rhodes University, South Africa)
+
+Colleen Petrik (Texas A&M)
+
+Hubert du Pontavice (Agrocampus Ouest, France)
+
+Jonathan Reum (NOAA, US)
+
+Anthony Richardson (CSIRO, Australia)
+
+Lynne Shannon (University of Cape Town, South Africa)
+
+Yunne-Jai Shin (IRD, France)
+
+Tiago Silva (CEFAS, UK)
+
+Jeroen Steenbeek (Ecopath International Initiative, Spain)
+
+Derek Tittensor (Dalhousie University, Canada)
+
+Nicola Walker (CEFAS)
+
+James Watson (Oregon State University, US)
+
+Phoebe Woodworth-Jefcoats (NOAA, US)
