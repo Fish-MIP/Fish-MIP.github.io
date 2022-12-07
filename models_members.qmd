@@ -5,6 +5,8 @@ editor: visual
 
 # Models and members
 
+For a comprehensive list of models and contact details please consult [ISIMIP Impact Models](https://www.isimip.org/impactmodels/).
+
 ### CURRENT FISH-MIP MODELS:
 
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ We use an ensemble modelling approach to combine the results from multiple ecosy
 
 ![](FISHMIP.max-1200x1200.png)
 
-## **FishMIP is a network of more than 40 marine ecosystem modellers from around the world.**
+## **FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.**
 
 #### **Ongoing studies**
 

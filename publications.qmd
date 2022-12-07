@@ -11,7 +11,7 @@ editor: visual
 
 3.  Tittensor, D.P., Novaglio, C., Harrison, C.S. et al.,(2021) [**Next-generation ensemble projections reveal higher climate risks for marine ecosystems**](https://doi.org/10.1038/s41558-021-01173-9), ***Nature Climate Change***, 11, 973--981
 
-4.  Heneghan, R.F., Galbraith, E., Blanchard, J.L, Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D, Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., Palacios-Abrantes, J., Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P. 2021. [**Disentangling diverse responses to climate change among global marine ecosystem models**](doi:10.1016/j.pocean.2021.102659). ***Progress in Oceanography*** 198. \
+4.  Heneghan, R.F., Galbraith, E., Blanchard, J.L, Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D, Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., Palacios-Abrantes, J., Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P. 2021. [**Disentangling diverse responses to climate change among global marine ecosystem models**](doi:10.1016/j.pocean.2021.102659). ***Progress in Oceanography*** 198.\
 
 5.  Boyce, D. G., Lotze, H. K., Tittensor, D. P., Carozza, D. A., Worm, B. (2020). [**Future ocean biomass losses may widen socioeconomic equity gaps**](https://www.nature.com/articles/s41467-020-15708-9). ***Nature Communications***, 11: 1-11.\
 

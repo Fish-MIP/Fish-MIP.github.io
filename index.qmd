@@ -42,4 +42,6 @@ is to bring together disparate marine ecosystem models to help better understand
 
 -   William Cheung (global model coordinator, 2014-2016)
 
-## 
+## Part of the wider ISIMIP community
+
+FishMIP contributes to the [Intersectoral Impact Model Intercomparison Project (ISIMIP)](www.isimip.org).
