@@ -1,0 +1,13 @@
+---
+title: "Approach"
+---
+
+## **FishMIP is a network of more than 40 marine ecosystem modellers from around the world.**
+
+#### **Our Approach**
+
+We use an ensemble modelling approach to combine the results from multiple ecosystem models, all forced by standardized inputs and scenarios. We use combinations of earth-system models (ESMs) and representative concentration pathways (RCPs) to provide model inputs, along with simplified fishing scenarios. Our marine ecosystem models are both at global and regional scales, and vary widely in terms of how they represent food-web or ecosystem components and the links between them. Ecosystem components can be represented by size classes, functional groups, trophic levels, species groups, and life-history stages, whereas links can be represented by who-eats-whom networks, diet composition or energy transfer.
+
+#### **Ongoing studies**
+
+We are currently (a) using simulation experiments to examine and separate the relative influence of temperature and net primary productivity on future projections, and (b) beginning simulations for the ISIMIP 3a/b simulation round, using CMIP6 forcing data. Fish-MIP model outputs from simulation round 2(a) are publicly available and can be found [**here**](http://doi.org/10.5880/PIK.2018.005). You are welcome to use these data in your projects, but we encourage you to contact the Fish-MIP modellers and coordinators whose work you have been using, and to reference the [**publications**](https://www.isimip.org/about/marine-ecosystems-fisheries/publications) which provide further details.

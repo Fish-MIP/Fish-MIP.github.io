@@ -9,10 +9,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: approach.qmd
+        text: Approach
+
+        
+      
+
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
-    toc: true
+    toc: false

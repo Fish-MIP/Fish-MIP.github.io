@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Fisheries and Marine Ecosystems Model Intercomparison Project",
+    "objectID": "index.html#we-answer-questions-about-the-future-of",
+    "href": "index.html#we-answer-questions-about-the-future-of",
+    "title": "FishMIP",
+    "section": "We answer questions about the future of:",
+    "text": "We answer questions about the future of:\n\nFish & Fisheries\nSeafood supply\nMarine biodiversity\nMarine ecosystem functioning"
+  },
+  {
+    "objectID": "index.html#our-goal",
+    "href": "index.html#our-goal",
+    "title": "FishMIP",
+    "section": "Our goal",
+    "text": "Our goal\nis to bring together disparate marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy.\n\n\nThe Fish-MIP team:\nFish-MIP overall lead: Julia Blanchard (julia.blanchard@utas.edu.au)\nCoordinator for regional models: Tyler Eddy (t.eddy@oceans.ubc.ca) and Kelly Ortega Cisneros (kelly.ortegacisneros@uct.ac.za)\nCoordinator for global models: Colleen Petrik (colleenpetrik@gmail.com) and Camilla Novaglio (camilla.novaglio@utas.edu.au)\nEarth-system model coordinators: Cheryl Harrison (chsharrison@gmail.com) and Ryan Heneghan (ryan.heneghan@gmail.com)\nScenarios working group coordinators: Olivier Maury (olivier.maury@ird.fr); Tyler Eddy (t.eddy@oceans.ubc.ca); Derek Tittensor (derek.tittensor@dal.ca)\n\n\nPrevious Fish-MIP leadership:\n\nDerek Tittensor (lead coordinator, 2017-2020)\nEric Galbraith (global model coordinator, 2014-2020)\nHeike Lotze (lead coordinator, 2014-2016)\nWilliam Cheung (global model coordinator, 2014-2016)"
+  },
+  {
+    "objectID": "index.html#fishmip-is-a-network-of-more-than-40-marine-ecosystem-modellers-from-around-the-world.",
+    "href": "index.html#fishmip-is-a-network-of-more-than-40-marine-ecosystem-modellers-from-around-the-world.",
+    "title": "FishMIP",
+    "section": "FishMIP is a network of more than 40 marine ecosystem modellers from around the world.",
+    "text": "FishMIP is a network of more than 40 marine ecosystem modellers from around the world.\n\nOur Approach\nWe use an ensemble modelling approach to combine the results from multiple ecosystem models, all forced by standardized inputs and scenarios. We use combinations of earth-system models (ESMs) and representative concentration pathways (RCPs) to provide model inputs, along with simplified fishing scenarios. Our marine ecosystem models are both at global and regional scales, and vary widely in terms of how they represent food-web or ecosystem components and the links between them. Ecosystem components can be represented by size classes, functional groups, trophic levels, species groups, and life-history stages, whereas links can be represented by who-eats-whom networks, diet composition or energy transfer.\n\n\nOngoing studies\nWe are currently (a) using simulation experiments to examine and separate the relative influence of temperature and net primary productivity on future projections, and (b) beginning simulations for the ISIMIP 3a/b simulation round, using CMIP6 forcing data. Fish-MIP model outputs from simulation round 2(a) are publicly available and can be found here. You are welcome to use these data in your projects, but we encourage you to contact the Fish-MIP modellers and coordinators whose work you have been using, and to reference the publications which provide further details.\n\n\n\nThe Fish-MIP team:\nFish-MIP overall lead: Julia Blanchard (julia.blanchard@utas.edu.au)\nCoordinator for regional models: Tyler Eddy (t.eddy@oceans.ubc.ca) and Kelly Ortega Cisneros (kelly.ortegacisneros@uct.ac.za)\nCoordinator for global models: Colleen Petrik (colleenpetrik@gmail.com) and Camilla Novaglio (camilla.novaglio@utas.edu.au)\nEarth-system model coordinators: Cheryl Harrison (chsharrison@gmail.com) and Ryan Heneghan (ryan.heneghan@gmail.com)\nScenarios working group coordinators: Olivier Maury (olivier.maury@ird.fr); Tyler Eddy (t.eddy@oceans.ubc.ca); Derek Tittensor (derek.tittensor@dal.ca)\n\n\nPrevious Fish-MIP leadership:\n\nDerek Tittensor (lead coordinator, 2017-2020)\nEric Galbraith (global model coordinator, 2014-2020)\nHeike Lotze (lead coordinator, 2014-2016)\nWilliam Cheung (global model coordinator, 2014-2016)"
+  },
+  {
+    "objectID": "approach.html",
+    "href": "approach.html",
+    "title": "Approach",
     "section": "",
-    "text": "Oct. 3-7th 2022"
-  },
-  {
-    "objectID": "index.html#fishmip-2022-hybrid-workshop-st-johns",
-    "href": "index.html#fishmip-2022-hybrid-workshop-st-johns",
-    "title": "The Fisheries and Marine Ecosystems Model Intercomparison Project",
-    "section": "FishMIP 2022 Hybrid Workshop St/ John’s",
-    "text": "FishMIP 2022 Hybrid Workshop St/ John’s\nParticipation is free."
-  },
-  {
-    "objectID": "index.html#programme",
-    "href": "index.html#programme",
-    "title": "The Fisheries and Marine Ecosystems Model Intercomparison Project",
-    "section": "Programme",
-    "text": "Programme\n\nDay 1: Model Evaluation, Detection, and Attribution - Global Models\n\nDay 2: Model Evaluation, Detection, and Attribution - Regional Models\n\nDay 3: Improving Models\n\nDay 4: Future Directions and Scenarios"
+    "text": "We use an ensemble modelling approach to combine the results from multiple ecosystem models, all forced by standardized inputs and scenarios. We use combinations of earth-system models (ESMs) and representative concentration pathways (RCPs) to provide model inputs, along with simplified fishing scenarios. Our marine ecosystem models are both at global and regional scales, and vary widely in terms of how they represent food-web or ecosystem components and the links between them. Ecosystem components can be represented by size classes, functional groups, trophic levels, species groups, and life-history stages, whereas links can be represented by who-eats-whom networks, diet composition or energy transfer.\n\n\n\nWe are currently (a) using simulation experiments to examine and separate the relative influence of temperature and net primary productivity on future projections, and (b) beginning simulations for the ISIMIP 3a/b simulation round, using CMIP6 forcing data. Fish-MIP model outputs from simulation round 2(a) are publicly available and can be found here. You are welcome to use these data in your projects, but we encourage you to contact the Fish-MIP modellers and coordinators whose work you have been using, and to reference the publications which provide further details."
   }
 ]
