@@ -44,4 +44,4 @@ is to bring together disparate marine ecosystem models to help better understand
 
 ## Part of the wider ISIMIP community
 
-FishMIP contributes to the [Intersectoral Impact Model Intercomparison Project (ISIMIP)](www.isimip.org).
+FishMIP contributes to the [Intersectoral Impact Model Intercomparison Project (ISIMIP)](http://isimip.org).
