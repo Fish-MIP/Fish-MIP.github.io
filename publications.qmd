@@ -5,13 +5,13 @@ editor: visual
 
 #### **Peer-reviewed literature**
 
-1.  Cinner, J.E., Thiault, L., Caldwell, I., Ben, J., Blanchard, J.L., Coll, M., Diedrich, A., Eddy, T.D., Everett, J.D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G.G., Heneghan, R., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Müller, C., Novaglio, C., Palacios-Abrantes, J., Petrik, C.M., Rabearisoa, A., Steenbeek, J., Tittensor, D.P., Wamukota, A., Pollnac, R. 2022. [**The potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities**](doi:10.1038/s41467-022-30991-4). ***Nature Communications***, 13, 11.
+1.  Cinner, J.E., Thiault, L., Caldwell, I., Ben, J., Blanchard, J.L., Coll, M., Diedrich, A., Eddy, T.D., Everett, J.D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G.G., Heneghan, R., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Müller, C., Novaglio, C., Palacios-Abrantes, J., Petrik, C.M., Rabearisoa, A., Steenbeek, J., Tittensor, D.P., Wamukota, A., Pollnac, R. 2022. [**The potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities**](https://doi:10.1038/s41467-022-30991-4). ***Nature Communications***, 13, 11.
 
-2.  Petrik, C.M., Luo, J.Y., Heneghan, R.F., Everett, J.D., Harrison, C.S., Richardson, A.J. 2022. [**Assessment and constraint of mesozooplankton in CMIP6 Earth system models**.](doi:10.1029/2022GB007367) ***Global Biogeochemical Cycles***, 36, e2022GB007367.
+2.  Petrik, C.M., Luo, J.Y., Heneghan, R.F., Everett, J.D., Harrison, C.S., Richardson, A.J. 2022. [**Assessment and constraint of mesozooplankton in CMIP6 Earth system models**.](http://doi:10.1029/2022GB007367) ***Global Biogeochemical Cycles***, 36, e2022GB007367.
 
 3.  Tittensor, D.P., Novaglio, C., Harrison, C.S. et al.,(2021) [**Next-generation ensemble projections reveal higher climate risks for marine ecosystems**](https://doi.org/10.1038/s41558-021-01173-9), ***Nature Climate Change***, 11, 973--981
 
-4.  Heneghan, R.F., Galbraith, E., Blanchard, J.L, Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D, Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., Palacios-Abrantes, J., Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P. 2021. [**Disentangling diverse responses to climate change among global marine ecosystem models**](doi:10.1016/j.pocean.2021.102659). ***Progress in Oceanography*** 198.\
+4.  Heneghan, R.F., Galbraith, E., Blanchard, J.L, Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D, Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., Palacios-Abrantes, J., Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P. 2021. [**Disentangling diverse responses to climate change among global marine ecosystem models**](https://doi:10.1016/j.pocean.2021.102659). ***Progress in Oceanography*** 198.\
 
 5.  Boyce, D. G., Lotze, H. K., Tittensor, D. P., Carozza, D. A., Worm, B. (2020). [**Future ocean biomass losses may widen socioeconomic equity gaps**](https://www.nature.com/articles/s41467-020-15708-9). ***Nature Communications***, 11: 1-11.\
 
@@ -27,7 +27,7 @@ editor: visual
 
 #### **Fish-MIP contributions to policy documents**
 
-1.  IPCC, (2022): [**Climate Change 2022: Impacts, Adaptation, and Vulnerability.**](doi:10.1017/9781009325844.)Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change \[H.-O. Pörtner, D.C. Roberts, M. Tignor, E.S. Poloczanska, K. Mintenbeck, A. Alegría, M. Craig, S. Langsdorf, S. Löschke, V. Möller, A. Okem, B. Rama (eds.)\]. Cambridge University Press. Cambridge University Press, Cambridge, UK and New York, NY, USA, 3056 pp.,
+1.  IPCC, (2022): [**Climate Change 2022: Impacts, Adaptation, and Vulnerability.**](https://doi:10.1017/9781009325844.)Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change \[H.-O. Pörtner, D.C. Roberts, M. Tignor, E.S. Poloczanska, K. Mintenbeck, A. Alegría, M. Craig, S. Langsdorf, S. Löschke, V. Möller, A. Okem, B. Rama (eds.)\]. Cambridge University Press. Cambridge University Press, Cambridge, UK and New York, NY, USA, 3056 pp.,
 
 2.  IPCC (2019). [**IPCC Special Report on the Ocean and Cryosphere in a Changing Climate.**](https://www.ipcc.ch/srocc/home/) Pörtner, H. O., Roberts, D. C., Masson-Delmotte, V., Zhai, P., Tignor, M., Poloczanska, E., Mintenbeck, K., Nicolai, M., Okem, A., Petzold, J., Rama, B., Weyer, N. (eds.). IPCC, Geneva, Switzerland.
 
