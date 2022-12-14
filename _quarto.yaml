@@ -17,13 +17,15 @@ website:
         file: publications.qmd
       - text: Models and Members
         file: models_members.qmd
+      - text: Data Tools
+        file: tools.qmd
+      - text: Events
+        file: events.qmd
    
     right:
     - icon: twitter
-      text: Twitter
       href: https://twitter.com/fishmip
     - icon: github
-      text: GitHub
       href: https://github.com/Fish-MIP
       
       

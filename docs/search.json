@@ -96,5 +96,19 @@
     "title": "The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP)",
     "section": "Part of a wider climate impact model community",
     "text": "Part of a wider climate impact model community\nFishMIP contributes to the Intersectoral Impact Model Intercomparison Project (ISIMIP)."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Upcoming:\nFishMIP Community Virtual Meeting, January 27th (7-9 am AEDT)\nISIMIP Proclias Workshop - Prague, June 2023, - more soon!\nJoint FishMIP-NOAA workshop -  Honolulu, Hawai'i - more soon!\nRegular online modeller meetings - To assist with simulation rounds we meet regularly with modellers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to join these.\n\n\nRecent past events:\nThe FishMIP 2022 International Workshop took place in St John's, Newoundland Canada and online, Oct 3-7th.\n\nThe workshop was co-funded by the SOMBEE project, The Fisheries and Marine Institute of memorial University of Newfoundland and The Institute for Marine and Antarctic Studies, University of Tasmania. We supported travel for seven Early Career Researchers were supported to attend this meeting.\nFull programme including abstracts here.\nAccess to slides and recordings are available on request.\nThe ISIMIP-Proclias cross-sectoral workshop took place 16-19th May 2022. See summary here."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Data and Tools",
+    "section": "",
+    "text": "Please check our publication policy if you would like to use these data for peer-reviewed research.\n\nFishMIP Explorer\nCheck out this Shiny app to visualise gridded or spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.\n\n\nRegional Ecosystem Model Tools\nR/Python tutorials for extracting regional-scale model inputs from global gridded Earth System Model outputs, using a regional shapefiles."
   }
 ]
