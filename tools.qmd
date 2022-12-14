@@ -2,14 +2,20 @@
 title: "Data and Tools"
 ---
 
-We are developing a wide range of community tools and apps for ecosystem modellers and policy end-users our simulation data.
+We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.
 
 Please check our publication policy if you would like to use these data for peer-reviewed research.
 
 #### FishMIP Explorer
 
-Check out this Shiny app to visualise gridded or spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.
+Coming soon! Check out this Shiny app to visualise gridded or spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.
 
-#### Regional Ecosystem Model Tools
+#### Tutorials
 
-R/Python tutorials for extracting regional-scale model inputs from global gridded Earth System Model outputs, using a regional shapefiles.
+R/Python tutorials for extracting data from ISIMIP servers, regional-scale model inputs from global gridded Earth System Models, or plotting outputs from FishMIP, using a regional shapefiles.
+
+-   [Accessing ISIMIP data](https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Accessing_ISIMIP_data.md)
+
+-   [Creating regional model masks from shapefiles](https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Creating_Your_Own_Mask_From_Shapefiles.md)
+
+-   [Extracting data using regional mask](https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Extracting_FishMIP_data.md)
