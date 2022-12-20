@@ -24,9 +24,11 @@ is to bring together disparate marine ecosystem models to help better understand
 
 **Fish-MIP overall lead: Julia Blanchard ([julia.blanchard\@utas.edu.au](mailto:julia.blanchard@utas.edu.au))**
 
-**Coordinator for regional models: Tyler Eddy ([t.eddy\@oceans.ubc.ca](mailto:Tyler.Eddy@dal.ca)) and Kelly Ortega Cisneros ([kelly.ortegacisneros\@uct.ac.za](mailto:kelly.ortegacisneros@uct.ac.za))**
+**Science communication and outreach coordinator: Andrea Bryndum-Buchholz ([andrea.buchholz\@mi.mun.ca](mailto:andrea.buchholz@mi.mun.ca))**
 
-**Coordinator for global models: Colleen Petrik ([colleenpetrik\@gmail.com](mailto:colleenpetrik@gmail.com)) and Camilla Novaglio ([camilla.novaglio\@utas.edu.au](mailto:camilla.novaglio@utas.edu.au))**
+**Coordinators for regional models: Tyler Eddy ([t.eddy\@oceans.ubc.ca](mailto:Tyler.Eddy@dal.ca)) and Kelly Ortega Cisneros ([kelly.ortegacisneros\@uct.ac.za](mailto:kelly.ortegacisneros@uct.ac.za))**
+
+**Coordinators for global models: Colleen Petrik ([colleenpetrik\@gmail.com](mailto:colleenpetrik@gmail.com)) and Camilla Novaglio ([camilla.novaglio\@utas.edu.au](mailto:camilla.novaglio@utas.edu.au))**
 
 **Earth-system model coordinators: Cheryl Harrison ([chsharrison\@gmail.com](mailto:chsharrison@gmail.com)) and Ryan Heneghan ([ryan.heneghan\@gmail.com](mailto:ryan.heneghan@gmail.com))**
 
@@ -41,8 +43,6 @@ is to bring together disparate marine ecosystem models to help better understand
 -   Heike Lotze (lead coordinator, 2014-2016)
 
 -   William Cheung (global model coordinator, 2014-2016)
-
-
 
 ## Part of a wider climate impact model community
 
