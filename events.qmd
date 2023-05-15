@@ -6,17 +6,35 @@ Check out our upcoming and recent past events on this page.
 
 ### Upcoming:
 
-**FishMIP Community Virtual Meeting**, January 27th, 2023 (7-9 am AEDT)
-
 **ISIMIP Proclias Workshop** - Prague, June 2023, - more soon!
 
-**Joint FishMIP-NOAA workshop** -  Honolulu, Hawai'i - more soon!
+**Joint FishMIP-NOAA Workshop** -  Tuesday, August 29th - Friday, September 1,2023 Honolulu, Hawai'i, USA
+
+Location: TBD, likely in Waikiki area of Honolulu
+
+NOAA's National Ecosystem Modeling Workshop (NEMoW) and FishMIP are coordinating a joint meeting to assess and expand regional climate-ecosystem modeling capacity. The meeting will include a mixture of presentations, discussions and hands-on tutorials. Workshop sessions will visit key topics including: 
+
+(1) understanding attribution and advancing skill testing in ecosystem models; 
+
+(2) representing temperature-dependencies and other climate forcings in ecosystem models; 
+
+(3) improving methods for downscaling climate projections in both data-rich and data-limited regions; 
+
+(4) evaluating whether global climate projections represent important regional-scale ecosystem processes. 
+
+
+The general format Tuesday through Thursday will include presentations and discussions in the morning followed by interactive activities in the afternoon. Friday will be dedicated to FishMIP business and focus on preparing regional modelers for contributing to FishMIP simulations. Virtual attendance will be facilitated.  
+
+
+Limited travel support is available for non-US citizen early career scientists and scientists from developing nations. Applications for travel support must be obtained by May 15, 2023.   
+
 
 **Regular online modeller meetings** - To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to join these.
 
 ### Recent past events:
+**FishMIP Community Virtual Meeting**, January 27th, 2023 (7-9 am AEDT)
 
-**The FishMIP 2022 International Workshop** took place in St John's, Newoundland Canada and online, Oct 3-7th.
+**The FishMIP 2022 International Workshop** took place in St John's, Newfoundland Canada and online, Oct 3-7th.
 
 ![](stjohnspic.png)
 

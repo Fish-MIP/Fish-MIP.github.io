@@ -21,6 +21,8 @@ website:
         file: tools.qmd
       - text: Events
         file: events.qmd
+      - text: Blogs
+        file: blogs.qmd
    
     right:
     - icon: twitter
