@@ -24,7 +24,7 @@ NOAA's National Ecosystem Modeling Workshop (NEMoW) and FishMIP are coordinating
 
 The general format Tuesday through Thursday will include presentations and discussions in the morning followed by interactive activities in the afternoon. Friday will be dedicated to FishMIP business and focus on preparing regional modelers for contributing to FishMIP simulations. Virtual attendance will be facilitated.
 
-Limited travel support is available for non-US citizen early career scientists and scientists from developing nations. Applications for travel support must be obtained by May 15, 2023.
+Limited travel support is available for non-US citizen early career scientists and scientists from developing nations. Applications for travel support must be obtained by May 23rd, 2023. Use [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=VV3rFZEZvEaNp6slI03uCIO3rXPo2ElDlBTBXAspLLxUOFRPQU1EWVo0WjBHOTJDN0hJRFdBVUZPSi4u) to apply for travel support
 
 **Regular online modeller meetings** - To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to join these.
 
