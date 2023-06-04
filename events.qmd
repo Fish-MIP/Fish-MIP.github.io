@@ -28,7 +28,9 @@ Limited travel support is available for non-US citizen early career scientists a
 
 **Regular online modeller meetings** - To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to join these.
 
-### Recent past events:
+### Past events:
+
+**Fish-MIP at ECCWO5, Bergen, Norway,** April 16th- 21st 2023
 
 **FishMIP Community Virtual Meeting**, January 27th, 2023 (7-9 am AEDT)
 
