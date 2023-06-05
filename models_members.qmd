@@ -57,7 +57,7 @@ Laurent Bopp (IPSL, France)
 
 Daniel Boyce (Dalhousie University, Canada)
 
-Andrea Buchholz (Dalhousie University, Canada)
+Andrea Bryndum-Buchholz (Memorial University of Newfoundland and Labrador, Canada)
 
 Cathy Bulman (CSIRO, Australia)
 
@@ -69,9 +69,9 @@ Marta Coll (ICM-CSIC, Spain)
 
 David Carozza (UQAM, Canada)
 
-Tyler Eddy (Dalhousie University)
+Tyler Eddy (Memorial University of Newfoundland and Labrador, Canada)
 
-Jason Everett (University of Queensland)
+Jason Everett (University of Queensland, Australia)
 
 Jose Fernandes (AZTI, Spain)
 
