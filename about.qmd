@@ -6,7 +6,7 @@ We use an ensemble modelling approach to combine the results from multiple ecosy
 
 ![](FISHMIP.max-1200x1200.png)
 
-###### *Image credit:  [Boyce, D.G. 2021. Incorporating climate change into fisheries management in Atlantic Canada and the Eastern Arctic.](https://www.oceansnorth.org/wp-content/uploads/2021/05/Incorporating-climate-change-into-fisheries-management-in-Atlantic-Canada-and-the-Eastern-Arctic.pdf)*
+###### *Image credit:* [Boyce, D. G., Schleit, K. & Fuller, S. Incorporating climate change into fisheries management in Atlantic Canada and the Eastern Arctic. Oceans North Report. (2021).](https://www.oceansnorth.org/wp-content/uploads/2021/05/Incorporating-climate-change-into-fisheries-management-in-Atlantic-Canada-and-the-Eastern-Arctic.pdf)
 
 ## **FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.**
 

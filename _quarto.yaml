@@ -21,7 +21,7 @@ website:
         file: tools.qmd
       - text: Events
         file: events.qmd
-      - text: Blogs
+      - text: Blog
         file: blogs.qmd
    
     right:
