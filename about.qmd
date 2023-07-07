@@ -4,9 +4,7 @@ title: "Our Approach"
 
 We use an ensemble modelling approach to combine the results from multiple ecosystem models, all forced by standardized inputs and scenarios. We use combinations of earth-system models (ESMs) and representative concentration pathways (RCPs) to provide model inputs, along with simplified fishing scenarios. Our marine ecosystem models are both at global and regional scales, and vary widely in terms of how they represent food-web or ecosystem components and the links between them. Ecosystem components can be represented by size classes, functional groups, trophic levels, species groups, and life-history stages, whereas links can be represented by who-eats-whom networks, diet composition or energy transfer.
 
-![](FISHMIP.max-1200x1200.png)
-
-###### *Image credit:* [Boyce, D. G., Schleit, K. & Fuller, S. Incorporating climate change into fisheries management in Atlantic Canada and the Eastern Arctic. Oceans North Report. (2021).](https://www.oceansnorth.org/wp-content/uploads/2021/05/Incorporating-climate-change-into-fisheries-management-in-Atlantic-Canada-and-the-Eastern-Arctic.pdf)
+![Image credit: Boyce, D. G., Schleit, K. & Fuller, S. Incorporating climate change into fisheries management in Atlantic Canada and the Eastern Arctic. Oceans North Report. (2021).](FISHMIP.max-1200x1200.png){style="text-color:light-grey;text-font:0.25px"}
 
 ## **FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.**
 
