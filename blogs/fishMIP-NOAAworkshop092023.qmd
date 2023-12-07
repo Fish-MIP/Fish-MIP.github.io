@@ -1,0 +1,15 @@
+---
+date: 09/01/2023
+---
+
+**Joint FishMIP-NOAA Workshop** -  Tuesday, August 29th - Friday, September 1,2023 Honolulu, Hawai\'i, USA
+
+NOAA's National Ecosystem Modeling Workshop (NEMoW) and FishMIP coordinated a joint meeting to assess and expand regional climate-ecosystem modeling capacity. The meeting included a mixture of presentations, discussions and hands-on tutorials. Workshop sessions visited key topics including:
+
+(1) understanding attribution and advancing skill testing in ecosystem models;
+
+(2) representing temperature-dependencies and other climate forcings in ecosystem models;
+
+(3) improving methods for downscaling climate projections in both data-rich and data-limited regions;
+
+(4) evaluating whether global climate projections represent important regional-scale ecosystem processes.
