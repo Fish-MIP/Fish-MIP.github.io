@@ -4,8 +4,4 @@ title: "Events"
 
 Check out our upcoming events on this page.
 
-### Upcoming:
-
-**Regular online modeller meetings** - To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to join these.
-
-\
+**Regular online modeller meetings** - To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to join these.\
