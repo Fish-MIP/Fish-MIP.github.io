@@ -4,8 +4,10 @@ project:
 
 website:
   title: "Fish-MIP"
+  image: "logo_test.png"
   navbar:
     background: primary
+    logo: "logo_test.png"
     left:
       - href: index.qmd
         text: Home
@@ -45,6 +47,6 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: sandstone
     css: styles.css
     toc: false

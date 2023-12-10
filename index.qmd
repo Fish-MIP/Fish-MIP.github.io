@@ -1,8 +1,10 @@
 ---
-title: "The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP)"
+page-layout: custom
 ---
 
-![](FISH-IMP_Logo_original_smaller.max-1200x1200.jpg)
+![](images/shutterstock_169126697 (2).jpeg){.column-screen fig-align="center"}
+
+# The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP)
 
 ## We answer questions about the future of:
 
