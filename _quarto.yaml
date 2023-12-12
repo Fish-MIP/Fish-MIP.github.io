@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Fish-MIP"
+#  title: "Fish-MIP"
   image: "logo_test.png"
   navbar:
     background: primary
