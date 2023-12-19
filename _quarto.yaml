@@ -4,27 +4,31 @@ project:
 
 website:
 #  title: "Fish-MIP"
-  image: "logo_test.png"
+  #image: "logo_test.png"
   navbar:
     background: primary
-    logo: "logo_test.png"
+    logo: "one-line-colour-logo_transparent_background.png"
     left:
       - href: index.qmd
         text: Home
       - text: Approach
         file: about.qmd
-      - text: Protocols
-        file: protocols.qmd
-      - text: Publications
-        file: publications.qmd
-      - text: Models and Members
+      - text: People
         file: models_members.qmd
+      - text: Models
+        file: models.qmd
+      - text: Protocols
+        file: protocolsv2.qmd
+      - text: Publications
+        file: publicationsv2.qmd
       - text: Data Tools
         file: tools.qmd
-      - text: Events
-        file: events.qmd
-      - text: Blog
-        file: blogs.qmd
+      - text: News
+        menu: 
+          - text: Events
+            href: events.qmd
+          - text: Blog
+            href: blogs.qmd
    
     right:
     - icon: twitter
@@ -32,12 +36,7 @@ website:
     - icon: github
       href: https://github.com/Fish-MIP
       
-      
-
-
-        
-        
-
+  
         
         
 
@@ -47,6 +46,7 @@ website:
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: [sandstone, custom.scss]
+    #css: styles.css
     toc: false
+    editor: visual

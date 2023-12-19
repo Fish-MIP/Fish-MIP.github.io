@@ -2,7 +2,7 @@
 page-layout: custom
 ---
 
-![](images/shutterstock_169126697 (2).jpeg){.column-screen fig-align="center"}
+![](images/shutterstock_169126697%20(2).jpeg){.column-screen fig-align="center"}
 
 # The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP)
 
