@@ -31,9 +31,10 @@ $cyan:    #1f9bcf !default;
 $sblue: #658C9F !default;
 $sblue2: #094867 !default;
 $navyblue2: #00165a !default;
+$gray-custom: #c0deef !default;
 
 // changed from grey to black 
-$primary:       $gray-300 !default; 
+$primary:       $gray-custom !default; 
 $secondary:     $white !default;
 $success:       $green !default;
 $info:          $cyan !default;
