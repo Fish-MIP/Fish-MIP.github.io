@@ -1,45 +1,7 @@
 ---
-title: "Models and Members"
+title: "Members"
 editor: visual
 ---
-
-# Models and members
-
-For a comprehensive list of models and contact details please consult [ISIMIP Impact Models](https://www.isimip.org/impactmodels/).
-
-### CURRENT FISH-MIP MODELS:
-
-------------------------------------------------------------------------
-
-**Global:**
-
-ApeCOSM
-
-BOATS
-
-DBEM
-
-DPBM
-
-EcoOcean
-
-EcoTroph
-
-FEISTY
-
-Macroecological
-
-SS-DBEM
-
-**Regional:**
-
-Atlantis
-
-Ecopath
-
-OSMOSE
-
-mizer
 
 ### CURRENT FISH-MIP MEMBERS:
 

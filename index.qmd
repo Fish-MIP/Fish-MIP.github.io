@@ -2,9 +2,12 @@
 page-layout: custom
 ---
 
-![](images/shutterstock_169126697%20(2).jpeg){.column-screen fig-align="center"}
+![](images/fush!.jpeg){.column-screen fig-align="center"}
 
+::: {style="margin:2em"}
+::: {style="text-align: center"}
 # The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP)
+:::
 
 ## We answer questions about the future of:
 
@@ -19,9 +22,11 @@ page-layout: custom
 ## Our goal
 
 is to bring together disparate marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy.
+:::
 
 ------------------------------------------------------------------------
 
+::: {style="margin: 2em"}
 ## **The Fish-MIP Coordination Team:**
 
 **Fish-MIP overall lead: Julia Blanchard ([julia.blanchard\@utas.edu.au](mailto:julia.blanchard@utas.edu.au))**
@@ -51,3 +56,4 @@ For general inquiries please contact us on fishmip.coordinators\@gmail.com
 ## Part of a wider climate impact model community
 
 FishMIP contributes to the [**Intersectoral Impact Model Intercomparison Project (ISIMIP)**](https://www.isimip.org/).
+:::
