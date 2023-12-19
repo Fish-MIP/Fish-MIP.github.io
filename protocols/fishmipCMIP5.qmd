@@ -1,0 +1,9 @@
+---
+title: "FishMIP CMIP5 (ISIMIP2)"
+date: 06/02/2023
+categories:
+---
+
+#### **FishMIP CMIP5 (ISIMIP2)**
+
+The first two rounds of FishMIP simulation protocols were aligned with CMIP5 under the ISIMIP 2 Simulation Round. The [**ISIMIP2a simulation protocol**](https://www.isimip.org/protocol/2a) represents the choices we have made in order to compare as many global and regional models as possible. These include common inputs with respect to climate, physical and chemical data (temperature, currents, salinity, pH, oxygen), biological data (e.g. primary production, phyto- and zooplankton), and fisheries data (effort, catch, fisheries mortality) as well as common outputs including fish biomass and catch as well as other ecosystem parameters.

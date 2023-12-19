@@ -12,17 +12,17 @@ website:
       - href: index.qmd
         text: Home
       - text: Approach
-        file: about.qmd
+        href: about.qmd
       - text: People
-        file: models_members.qmd
+        href: models_members.qmd
       - text: Models
         file: models.qmd
       - text: Protocols
-        file: protocolsv2.qmd
+        href: protocols2.qmd
       - text: Publications
-        file: publicationsv2.qmd
+        href: publicationsv2.qmd
       - text: Data Tools
-        file: tools.qmd
+        href: tools.qmd
       - text: News
         menu: 
           - text: Events

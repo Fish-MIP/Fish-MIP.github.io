@@ -1,0 +1,13 @@
+---
+title: "FishMIP CMIP6 Phase 1"
+date: 06/02/2023
+categories:
+---
+
+#### **FishMIP CMIP6 Phase 1**
+
+The goal of FishMIP CMIP6 Phase 1 (commenced in 2020) is to provide input to the IPCC WGII AR6 report. This necessitates submitting a manuscript by November 1st 2020. The focus of this simulation round will be on (a) new FishMIP outputs using climate scenarios from the CMIP6 earth-system model forcings; (b) exploring fishing impacts in addition to those of climate; (c) comparison to a no-climate change pre-industrial control baseline (which was not available for the last round of simulations), and (d) if possible, validation against observed catches.
+
+Note that this FishMIP CMIP6 Phase 1 protocol represents only a subset of the full ISIMIP3b protocol with a smaller set of scenarios considered. The FishMIP CMIP6 Phase 2 protocol will build upon these experiments in 2023.
+
+The FishMIP CMIP6 Phase 1 (contributing to ISIMIP3b) protocol can be downloaded [**here**](https://www.isimip.org/documents/483/FishMIP_Phase1_2020_CMIP6_runs_protocol_v1.0.pdf) while the official ISIMIP3 protocol is located [**on this website**](https://protocol.isimip.org/).

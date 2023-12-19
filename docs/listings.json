@@ -14,5 +14,13 @@
   {
     "listing": "/publicationsv2.html",
     "items": []
+  },
+  {
+    "listing": "/protocols2.html",
+    "items": [
+      "/protocols/fishmipCMIP5.html",
+      "/protocols/CMIP6phase1.html",
+      "/protocols/isimip3a.html"
+    ]
   }
 ]
