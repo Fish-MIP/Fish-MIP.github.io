@@ -1,13 +1,13 @@
 ---
 page-layout: custom
-backgroundcolor: "#9FD0D7"
+backgroundcolor: "#f8f9fa"
 ---
 
 ![](images/fush!.jpeg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
 
 ::: {style="margin:2em"}
-::: {style="text-align: center"}
-# The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP)
+::: {style="text-align: center; font-weight: bold"}
+# **The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP)**
 :::
 
 ## We answer questions about the future of:
@@ -30,19 +30,19 @@ is to bring together disparate marine ecosystem models to help better understand
 ::: {style="margin: 2em"}
 ## **The Fish-MIP Coordination Team:**
 
-**Fish-MIP overall lead: Julia Blanchard ([julia.blanchard\@utas.edu.au](mailto:julia.blanchard@utas.edu.au))**
+**Fish-MIP overall lead: Julia Blanchard ([julia.blanchard\@utas.edu.au](mailto:julia.blanchard@utas.edu.au){.email-link})**
 
-**Science communication and outreach coordinator: Andrea Bryndum-Buchholz ([andrea.buchholz\@mi.mun.ca](mailto:andrea.buchholz@mi.mun.ca))**
+**Science communication and outreach coordinator: Andrea Bryndum-Buchholz ([andrea.buchholz\@mi.mun.ca](mailto:andrea.buchholz@mi.mun.ca){.email-link})**
 
-**Coordinators for regional models: Tyler Eddy ([t.eddy\@oceans.ubc.ca](mailto:Tyler.Eddy@dal.ca)) and Kelly Ortega Cisneros ([kelly.ortegacisneros\@uct.ac.za](mailto:kelly.ortegacisneros@uct.ac.za))**
+**Coordinators for regional models: Tyler Eddy ([t.eddy\@oceans.ubc.ca](mailto:Tyler.Eddy@dal.ca){.email-link}) and Kelly Ortega Cisneros ([kelly.ortegacisneros\@uct.ac.za](mailto:kelly.ortegacisneros@uct.ac.za){.email-link})**
 
-**Coordinators for global models: Colleen Petrik ([colleenpetrik\@gmail.com](mailto:colleenpetrik@gmail.com)) and Camilla Novaglio ([camilla.novaglio\@utas.edu.au](mailto:camilla.novaglio@utas.edu.au))**
+**Coordinators for global models: Colleen Petrik ([colleenpetrik\@gmail.com](mailto:colleenpetrik@gmail.com){.email-link}) and Camilla Novaglio ([camilla.novaglio\@utas.edu.au](mailto:camilla.novaglio@utas.edu.au){.email-link})**
 
-**Earth-system model coordinators: Cheryl Harrison ([chsharrison\@gmail.com](mailto:chsharrison@gmail.com)) and Ryan Heneghan ([ryan.heneghan\@gmail.com](mailto:ryan.heneghan@gmail.com))**
+**Earth-system model coordinators: Cheryl Harrison ([chsharrison\@gmail.com](mailto:chsharrison@gmail.com){.email-link}) and Ryan Heneghan ([ryan.heneghan\@gmail.com](mailto:ryan.heneghan@gmail.com){.email-link})**
 
-**Scenarios working group coordinators: Olivier Maury ([olivier.maury\@ird.fr](mailto:olivier.maury@ird.fr)); Tyler Eddy ([t.eddy\@oceans.ubc.ca](mailto:Tyler.Eddy@dal.ca)); Derek Tittensor ([derek.tittensor\@dal.ca](mailto:derek.tittensor@dal.ca))**
+**Scenarios working group coordinators: Olivier Maury ([olivier.maury\@ird.fr](mailto:olivier.maury@ird.fr){.email-link}); Tyler Eddy ([t.eddy\@oceans.ubc.ca](mailto:Tyler.Eddy@dal.ca){.email-link}); Derek Tittensor ([derek.tittensor\@dal.ca](mailto:derek.tittensor@dal.ca){.email-link})**
 
-For general inquiries please contact us on fishmip.coordinators\@gmail.com
+For general inquiries please contact us on [fishmip.coordinators\@gmail.com](mailto:fishmip.coordinators@gmail.com){.email-link}
 
 ##### Previous Fish-MIP leadership:
 
@@ -56,5 +56,5 @@ For general inquiries please contact us on fishmip.coordinators\@gmail.com
 
 ## Part of a wider climate impact model community
 
-FishMIP contributes to the [**Intersectoral Impact Model Intercomparison Project (ISIMIP)**](https://www.isimip.org/).
+FishMIP contributes to the [**Intersectoral Impact Model Intercomparison Project (ISIMIP)**](https://www.isimip.org/){.email-link}.
 :::
