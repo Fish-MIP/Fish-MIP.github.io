@@ -8,7 +8,7 @@ website:
   navbar:
     background: primary
     logo: "one-line-colour-logo_transparent_background.png"
-    left:
+    right:
       - href: index.qmd
         text: Home
       - text: Approach
@@ -29,12 +29,10 @@ website:
             href: events.qmd
           - text: Blog
             href: blogs.qmd
-   
-    right:
-    - icon: twitter
-      href: https://twitter.com/fishmip
-    - icon: github
-      href: https://github.com/Fish-MIP
+      - icon: twitter
+        href: https://twitter.com/fishmip
+      - icon: github
+        href: https://github.com/Fish-MIP
       
   
         
@@ -46,7 +44,7 @@ website:
 
 format:
   html:
-    theme: [sandstone, custom.scss]
+    theme: custom.scss
     #css: styles.css
     toc: false
     editor: visual
