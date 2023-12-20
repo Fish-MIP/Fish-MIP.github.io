@@ -34,14 +34,6 @@ website:
       - icon: github
         href: https://github.com/Fish-MIP
       
-  
-        
-        
-
-        
-      
-
-
 format:
   html:
     theme: custom.scss

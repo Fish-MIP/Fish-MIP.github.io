@@ -31,7 +31,7 @@ $cyan:    #1f9bcf !default;
 $sblue: #658C9F !default;
 $sblue2: #094867 !default;
 $navyblue2: #00165a !default;
-$gray-custom: #c0deef !default;
+$gray-custom: #9FD0D7 !default;
 
 // changed from grey to black 
 $primary:       $gray-custom !default; 
@@ -118,24 +118,37 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 
 // Navbar
 
+// Navbar
 .navbar {
-  font-size: $font-size-sm;
-  text-transform: uppercase;
-  font-weight: 600;
+  padding-top: 1em; /* Add some padding to the top of the navbar */
+  padding-bottom: 0.5em; /* Add some padding to the bottom of the navbar */
+
+  @media (max-width: 768px) {
+    padding-top: 0.5em; /* Adjust padding for smaller screens */
+    padding-bottom: 0.5em; /* Adjust padding for smaller screens */
+  }
 
   &-nav {
     .nav-link {
-      padding-top: -1rem;
-      padding-bottom: -1rem;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
       color: $navyblue2 !important;
+
+      @media (max-width: 768px) {
+        padding-top: 0.25rem; /* Adjust padding for smaller screens */
+        padding-bottom: 0.25rem; /* Adjust padding for smaller screens */
+      }
     }
   }
 
   &-brand {
-    margin-right: 2rem;
+    margin-right: 1rem;
+
+    @media (max-width: 768px) {
+      margin-right: 0.5rem; /* Adjust margin for smaller screens */
+    }
   }
 }
-
 .bg-primary {
   background-color: $gray-custom !important;
 }
@@ -334,7 +347,3 @@ th {
   }
 }
 
-/*CUSTOM NAVBAR */
-.custom-navbar {
-  background-color: $black;
-}

@@ -1,6 +1,6 @@
 ---
 page-layout: custom
-navbar_bg_color: #fff
+backgroundcolor: "#9FD0D7"
 ---
 
 ![](images/fush!.jpeg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
