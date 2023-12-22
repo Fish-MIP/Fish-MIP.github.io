@@ -121,7 +121,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 
 // Navbar
 .navbar {
-  padding-top: 1em; /* Add some padding to the top of the navbar */
+  padding-top: 0em; /* Add some padding to the top of the navbar */
   padding-bottom: 0.5em; /* Add some padding to the bottom of the navbar */
 
   @media (max-width: 768px) {

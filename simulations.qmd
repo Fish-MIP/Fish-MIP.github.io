@@ -1,7 +1,7 @@
 ---
 listing: 
-  contents: protocols
-  type: grid
+  contents: simulations
+  type: default
   sort: "date desc"
   categories: true
 ---

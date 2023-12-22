@@ -14,15 +14,30 @@ website:
       - text: Approach
         href: about.qmd
       - text: People
-        href: models_members.qmd
+        menu: 
+          - text: Science Coordination Group
+            href: sciencegroup.qmd
+          - text: Working Groups
+            href: workinggroups.qmd
+          - text: Modelling Teams
+            href: modellingteams.qmd
       - text: Models
-        file: models.qmd
-      - text: Protocols
-        href: protocols2.qmd
+        menu: 
+          - text: Global
+            href: globalmodels.qmd
+          - text: Regional
+            href: regionalmodels.qmd
+        #file: models.qmd
+      - text: Simulations
+        href: simulations.qmd
       - text: Publications
         href: publicationsv2.qmd
-      - text: Data Tools
-        href: tools.qmd
+      - text: Data
+        menu: 
+          - text: Outputs
+            href: outputs.qmd
+          - text: Tools
+            href: tools.qmd
       - text: News
         menu: 
           - text: Events
@@ -33,6 +48,10 @@ website:
         href: https://twitter.com/fishmip
       - icon: github
         href: https://github.com/Fish-MIP
+  page-footer:
+      background: "#9FD0D7" 
+      left:  Copyright &copy; 2023 [Fish-MIP](https://github.com/Fish-MIP)
+      right: "Built using [Quarto](https://quarto.org/)"
       
 format:
   html:
