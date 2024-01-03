@@ -7,7 +7,7 @@ website:
   #image: "logo_test.png"
   navbar:
     background: primary
-    logo: "one-line-colour-logo_transparent_background.png"
+    logo: "one_line_colour_logo.png"
     right:
       - href: index.qmd
         text: Home

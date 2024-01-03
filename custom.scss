@@ -163,7 +163,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 }
 
 .nav-item {
-  margin-right: 2rem;
+  margin-right: 1rem;
 }
 
 // Buttons
@@ -304,9 +304,10 @@ th {
 }
 /*-- navbar --*/
 .navbar-logo {
-  max-height: 75px;
-  width: auto;
-  align-items: baseline;
+      height: 100%;
+      max-height: 70px;
+      width: auto;
+      align-items: baseline;
 }
 
 .navbar {

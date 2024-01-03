@@ -151,7 +151,7 @@
     "href": "about.html#fishmip-is-a-network-of-more-than-100-marine-ecosystem-modellers-and-researchers-from-around-the-world.",
     "title": "Our Approach",
     "section": "FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.",
-    "text": "FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.\n\nOngoing studies\nWe are currently (a) using simulation experiments to examine and separate the relative influence of temperature and net primary productivity on future projections, and (b) beginning simulations for the ISIMIP 3a/b simulation round, using CMIP6 forcing data. Fish-MIP model outputs from simulation round 2(a) are publicly available and can be found here. You are welcome to use these data in your projects, but we encourage you to contact the Fish-MIP modellers and coordinators whose work you have been using, and to reference the publications which provide further details."
+    "text": "FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.\n\nOngoing studies\nWe are currently (a) using simulation experiments to examine and separate the relative influence of temperature and net primary productivity on future projections, and (b) beginning simulations for the ISIMIP 3a/b simulation round, using CMIP6 forcing data. FishMIP model outputs from simulation round 2(a) are publicly available and can be found here. You are welcome to use these data in your projects, but we encourage you to contact the FishMIP modellers and coordinators whose work you have been using, and to reference the publications which provide further details."
   },
   {
     "objectID": "simulations/fishmipCMIP5.html",
