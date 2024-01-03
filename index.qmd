@@ -3,14 +3,12 @@ page-layout: custom
 backgroundcolor: "#f8f9fa"
 ---
 
-![](images/fushcropped.jpeg.jpg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
+![](images/fush!.jpeg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
 
 ::: {style="margin:2em"}
-::: {style="text-align: center; font-weight: bold"}
-# **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)**
-:::
+## **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)**
 
-FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.
+> | FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.
 
 ## We answer questions about the future of:
 
@@ -21,6 +19,9 @@ FishMIP is a network of more than 100 marine ecosystem modellers and researchers
 -   Marine biodiversity
 
 -   Marine ecosystem functioning
+
+------------------------------------------------------------------------
+![](nemow.jpg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
 
 ## Our goal
 
