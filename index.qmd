@@ -3,35 +3,26 @@ page-layout: custom
 backgroundcolor: "#f8f9fa"
 ---
 
-![](images/fush!.jpeg.jpg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
+![](images/fush!.jpeg.jpg){.column-screen style="padding: 0em;margin: 0 em" fig-align="center" width="1489"}
 
 ::: {style="margin:2em"}
-## **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)**
+#### **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)**
 
-> | FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.
+FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.
 
-## We answer questions about the future of:
+#### We answer questions about the future of:
 
 -   Fish & Fisheries
-
 -   Seafood supply
-
 -   Marine biodiversity
-
 -   Marine ecosystem functioning
 
-------------------------------------------------------------------------
-![](nemow.jpg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
+|                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------|
+| ![](nemow.jpg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}                                                                                                                              |
+| Our goal is to bring together diverse marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy. |
 
-## Our goal
-
-is to bring together diverse marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy.
-:::
-
-------------------------------------------------------------------------
-
-::: {style="margin: 2em"}
-## Part of a wider climate impact model community
+#### Part of a wider climate impact model community
 
 FishMIP contributes to the [**Intersectoral Impact Model Intercomparison Project (ISIMIP)**](https://www.isimip.org/){.email-link}.
 :::
