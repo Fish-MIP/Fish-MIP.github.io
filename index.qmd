@@ -3,7 +3,7 @@ page-layout: custom
 backgroundcolor: "#f8f9fa"
 ---
 
-![](images/fush!.jpeg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
+![](images/fush!.jpeg.jpg){.column-screen style="padding: 0em;margin: -2 em" fig-align="center" width="1489"}
 
 ::: {style="margin:2em"}
 ## **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)**
