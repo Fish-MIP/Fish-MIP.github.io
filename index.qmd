@@ -7,7 +7,7 @@ backgroundcolor: "#f8f9fa"
 
 ::: {style="margin:2em"}
 ::: {style="text-align: center; font-weight: bold"}
-# **The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP)**
+# **The Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)**
 :::
 
 ## We answer questions about the future of:
