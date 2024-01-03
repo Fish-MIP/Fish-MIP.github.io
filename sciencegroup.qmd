@@ -1,0 +1,26 @@
+---
+title: "Science Coordination"
+---
+
+All FishMIP activities and simulation experiments are designed and led by a dedicated group of coordinators. For general inquiries please contact us on fishmip.coordinators\@gmail.com
+
+For more specific help or requests you may wish to contact the relevant coordinator(s) below:
+
+|                                      |                                                                                                                      |
+|-------------------|-----------------------------------------------------|
+| *Project Leader*                     | Julia Blanchard (julia.blanchard\@utas.edu.au)                                                                       |
+| *Science communication and outreach* | Andrea Bryndum-Buchholz (andrea.buchholz\@mi.mun.ca)                                                                 |
+| *Global Marine Ecosystem Models*     | Camilla Novaglio (camilla.novaglio\@utas.edu.au) and Ryan Heneghan (ryan.heneghan\@gmail.com)                        |
+| *Regional Marine Ecosystem Models*   | Kelly Ortega Cisneros (kelly.ortegacisneros\@uct.ac.za)                                                              |
+| *Earth System Models forcings*:      | Colleen Petrik (colleenpetrik\@gmail.com) and Cheryl Harrison (chsharrison\@gmail.com)                               |
+| *Future Socioeconomic Scenarios:*    | Olivier Maury (olivier.maury\@ird.fr); Tyler Eddy (t.eddy\@oceans.ubc.ca); Derek Tittensor (derek.tittensor\@dal.ca) |
+
+#### Previous FishMIP leadership:
+
+Derek Tittensor (lead coordinator, 2017-2020)
+
+Eric Galbraith (global model coordinator, 2014-2020)
+
+Heike Lotze (lead coordinator, 2014-2016)
+
+William Cheung (global model coordinator, 2014-2016)

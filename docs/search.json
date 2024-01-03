@@ -46,7 +46,7 @@
     "href": "index.html#our-goal",
     "title": "",
     "section": "Our goal",
-    "text": "Our goal\nis to bring together disparate marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy."
+    "text": "Our goal\nis to bring together diverse marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy."
   },
   {
     "objectID": "index.html#the-fish-mip-coordination-team",
@@ -144,7 +144,7 @@
     "href": "about.html",
     "title": "Our Approach",
     "section": "",
-    "text": "We use an ensemble modelling approach to combine the results from multiple ecosystem models, all forced by standardized inputs and scenarios. We use combinations of earth-system models (ESMs) and representative concentration pathways (RCPs) to provide model inputs, along with simplified fishing scenarios. Our marine ecosystem models are both at global and regional scales, and vary widely in terms of how they represent food-web or ecosystem components and the links between them. Ecosystem components can be represented by size classes, functional groups, trophic levels, species groups, and life-history stages, whereas links can be represented by who-eats-whom networks, diet composition or energy transfer."
+    "text": "We use an ensemble modelling approach to combine the results from multiple ecosystem models, all forced by standardized inputs and scenarios. We use combinations of earth-system models (ESMs) and representative concentration pathways (RCPs) to provide model inputs, along with simplified fishing scenarios. Our marine ecosystem models are both at global and regional scales, and vary widely in terms of how they represent food-web or ecosystem components and the links between them. Ecosystem components can be represented by size classes, functional groups, trophic levels, species groups, and life-history stages, whereas links can be represented by who-eats-whom networks, diet composition or energy transfer.\n\n\n\nImage credit: Boyce, D. G., Schleit, K. & Fuller, S. Incorporating climate change into fisheries management in Atlantic Canada and the Eastern Arctic. Oceans North Report. (2021).\n\n\n\nOngoing studies\nWe are currently (a) using simulation experiments to examine and separate the relative influence of temperature and net primary productivity on future projections, and (b) beginning simulations for the ISIMIP 3a/b simulation round, using CMIP6 forcing data. FishMIP model outputs from simulation round 2(a) are publicly available and can be found here. You are welcome to use these data in your projects, but we encourage you to contact the FishMIP modellers and coordinators whose work you have been using, and to reference the publications which provide further details."
   },
   {
     "objectID": "about.html#fishmip-is-a-network-of-more-than-100-marine-ecosystem-modellers-and-researchers-from-around-the-world.",
@@ -173,5 +173,54 @@
     "title": "",
     "section": "",
     "text": "Under construction"
+  },
+  {
+    "objectID": "sciencegroup.html#the-fishmip-coordination-team",
+    "href": "sciencegroup.html#the-fishmip-coordination-team",
+    "title": "",
+    "section": "The FishMIP Coordination Team:",
+    "text": "The FishMIP Coordination Team:\nOverall project lead: Julia Blanchard (julia.blanchard@utas.edu.au)\nScience communication and outreach: Andrea Bryndum-Buchholz (andrea.buchholz@mi.mun.ca)\nFor general inquiries please contact us on fishmip.coordinators@gmail.com\nFor more specific requests please contact relevant coordinator below:\nGlobal Marine Ecosystem Models: Camilla Novaglio (camilla.novaglio@utas.edu.au) and Ryan Heneghan (ryan.heneghan@gmail.com)\nRegional Marine Ecosystem Models: Kelly Ortega Cisneros (kelly.ortegacisneros@uct.ac.za)\nEarth System Models forcings: Colleen Petrik (colleenpetrik@gmail.com) and Cheryl Harrison (chsharrison@gmail.com)\n\nPrevious FishMIP leadership:\nDerek Tittensor (lead coordinator, 2017-2020)\nEric Galbraith (global model coordinator, 2014-2020)\nHeike Lotze (lead coordinator, 2014-2016)\nWilliam Cheung (global model coordinator, 2014-2016)"
+  },
+  {
+    "objectID": "workinggroups.html",
+    "href": "workinggroups.html",
+    "title": "Working Groups",
+    "section": "",
+    "text": "To advance FishMIP 2.0, we are in the process of establishing several Working Group Projects with specific objectives:\n\nImprove Reliability of Our Model Ensembles\nPromote Climate-Resilient Food Security\nProtect Ecosystems & Biodiversity\nTest Climate Solutions\n\nIf you are interested in finding out more please contact us: fishmip.coordinators@googlemail.com"
+  },
+  {
+    "objectID": "workinggroups.html#working-groups",
+    "href": "workinggroups.html#working-groups",
+    "title": "",
+    "section": "",
+    "text": "Scenarios Working Group: Olivier Maury (olivier.maury@ird.fr); Tyler Eddy (t.eddy@oceans.ubc.ca); Derek Tittensor (derek.tittensor@dal.ca)\nClimate Mitigation"
+  },
+  {
+    "objectID": "index.html#fishmip-is-a-network-of-more-than-100-marine-ecosystem-modellers-and-researchers-from-around-the-world.",
+    "href": "index.html#fishmip-is-a-network-of-more-than-100-marine-ecosystem-modellers-and-researchers-from-around-the-world.",
+    "title": "",
+    "section": "FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.",
+    "text": "FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world."
+  },
+  {
+    "objectID": "sciencegroup.html",
+    "href": "sciencegroup.html",
+    "title": "Science Coordination",
+    "section": "",
+    "text": "All FishMIP activities and simulation experiments are designed and led by a dedicated group of coordinators. For general inquiries please contact us on fishmip.coordinators@gmail.com\nFor more specific help or requests you may wish to contact the relevant coordinator(s) below:\n\n\n\n\n\n\n\nProject Leader\nJulia Blanchard (julia.blanchard@utas.edu.au)\n\n\nScience communication and outreach\nAndrea Bryndum-Buchholz (andrea.buchholz@mi.mun.ca)\n\n\nGlobal Marine Ecosystem Models\nCamilla Novaglio (camilla.novaglio@utas.edu.au) and Ryan Heneghan (ryan.heneghan@gmail.com)\n\n\nRegional Marine Ecosystem Models\nKelly Ortega Cisneros (kelly.ortegacisneros@uct.ac.za)\n\n\nEarth System Models forcings:\nColleen Petrik (colleenpetrik@gmail.com) and Cheryl Harrison (chsharrison@gmail.com)\n\n\nFuture Socioeconomic Scenarios:\nOlivier Maury (olivier.maury@ird.fr); Tyler Eddy (t.eddy@oceans.ubc.ca); Derek Tittensor (derek.tittensor@dal.ca)\n\n\n\n\nPrevious FishMIP leadership:\nDerek Tittensor (lead coordinator, 2017-2020)\nEric Galbraith (global model coordinator, 2014-2020)\nHeike Lotze (lead coordinator, 2014-2016)\nWilliam Cheung (global model coordinator, 2014-2016)"
+  },
+  {
+    "objectID": "sciencegroup.html#previous-fishmip-leadership",
+    "href": "sciencegroup.html#previous-fishmip-leadership",
+    "title": "Science Coordination",
+    "section": "Previous FishMIP leadership:",
+    "text": "Previous FishMIP leadership:\nDerek Tittensor (lead coordinator, 2017-2020)\nEric Galbraith (global model coordinator, 2014-2020)\nHeike Lotze (lead coordinator, 2014-2016)\nWilliam Cheung (global model coordinator, 2014-2016)"
+  },
+  {
+    "objectID": "modellingteams.html",
+    "href": "modellingteams.html",
+    "title": "Modeling Teams",
+    "section": "",
+    "text": "FishMIP simulations would not happen without the contributions of many marine ecosystem modellers working together from different regions of the world.\nPlease refer to our Protocol Page to participate in our Simulation Rounds.\n\nFor more detailed information on each modelling team’s past contributions to ISIMIP simulations and how to cite their outputs please see here.\n\n\nGlobal Modelling Teams\nCoordinators: Camilla Novaglio & Ryan Heneghan\n\n\n\n\n\n\n\nModel\nModelers\n\n\n\n\nAPECOSM\nOlivier Maury, Nicholas Barrier\n\n\nBOATS\nDaniele Bianchi, Jerome Giet, Kim Scherrer\n\n\nDBEM\nWilliam Cheung, Juliano Palacios Abrantes\n\n\nDBPM\nJulia Blanchard, Camilla Novaglio, Ryan Heneghan\n\n\nEcoOcean\n\n\n\nEcoTroph\n\n\n\nFEISTY\n\n\n\nMACROECOLOGICAL\n\n\n\nZOOMS\n\n\n\n\n\n\nRegional Modelling Teams\nKelly Ortega Cisneros (lead coordinator)\nModel sub-group leads:\n\n\n\nEwE\nMarta Coll\n\n\nMizer\nPhoebe Woodworth-Jefcoats\n\n\nOSMOSE\nYunne Shin\n\n\nAtlantis\nKelly Ortega\n\n\n\nWe are excited to currently have over 30 regional marine ecosystem modelers, who have contributed shapefiles to our map below and are planning to contribute to our FishMIP 2.0 simulations. We also welcome variants or these or bespoke model types provided they are published and skill assessed. To ensure consistency and standardisation of our simulations please follow our specific regional model implementation guidelines. Or contact the relevant coordinators above for any questions.\n\n\n\nmap created by Denisse Fierro Arcos\n\n\nWe are striving towards regional model ensembles - case studies with more than one model per region (identified regional case study leaders in bold).\n\n\n\n\n\n\n\n\n\n\nRegion\nEwE\nMizer\nOsmose\nAtlantis\n\n\nNorth Sea\nChris Lynam\nMike Spence\nMorgane Travers\n\n\n\nMediterranean\nMarta Coll\n\nMarta Coll\n\n\n\nBenguela\nLynne Shannon\n\nRicardo Oliveros-Ramos\nKelly Ortega\n\n\nPeru/Chile\n\n\nRicardo Oliveros-Ramos\n\n\n\nSoutheast Australia\nJavier Porobic\nCamilla Novaglio\n\nBeth Fulton\n\n\nEast Antarctica/Prydz Bay/Kerguelen\nRoshni Subramaniamoshni\nKieran Murphy,\nRomain Forestier\n\nIlaria Stollberg , Javier Porobic\n\n\nChatham Rise\nSamik Datta (RPath)\nSamik Datta & Alice Rogers\n\nVidetteMcGregor\n\n\nTasman/Goldern Bays\nSamik Datta (RPath)\nSamik Datta & Alice Rogers\n\nVidetteMcGregor\n\n\nBering Sea\nAndy Whitehouse (RPath)\nJon Reum\n\n\n\n\nBaltic Sea\nSusa Niiranen\nMax Lindmark\n\n\n\n\nNordi and Barents Sea\n\n\n\nBérengère Husson\n\n\nHawaii Longline\n\nPhoebe Woodworth-Jefcoats\n\nJames Ruzicka & Caren Barcelo(ECOTRAN)\n\n\nEastern Scotian Shelf\n\nEzekiel Adekoya\n\n\n\n\nCalifornia Current\nLaura Koehn\n\n\nIsaac Kaplan\n\n\nPuget Sound\n\n\n\nHem Morzaria-Luna\n\n\nCook Strait\nTyler Eddy\n\n\n\n\n\nNE Brazil\nLeonardo Capitani\n\n\n\n\n\nGulf of Alaska\nBia Dias\nCheryl Barnes"
   }
 ]

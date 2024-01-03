@@ -21,23 +21,25 @@ website:
             href: workinggroups.qmd
           - text: Modelling Teams
             href: modellingteams.qmd
-      - text: Models
-        menu: 
-          - text: Global
-            href: globalmodels.qmd
-          - text: Regional
-            href: regionalmodels.qmd
+     # - text: Models
+     #   menu: 
+     #     - text: Global
+     #       href: globalmodels.qmd
+     #     - text: Regional
+     #       href: regionalmodels.qmd
         #file: models.qmd
-      - text: Simulations
-        href: simulations.qmd
+      - text: Protocols
+        href: protocols.qmd
       - text: Publications
-        href: publicationsv2.qmd
+        href: publications.qmd
+      # - text: Data
+      #   menu: 
+      #     - text: Outputs
+      #       href: outputs.qmd
+      #     - text: Tools
+      #       href: tools.qmd
       - text: Data
-        menu: 
-          - text: Outputs
-            href: outputs.qmd
-          - text: Tools
-            href: tools.qmd
+        href: tools.qmd
       - text: News
         menu: 
           - text: Events
