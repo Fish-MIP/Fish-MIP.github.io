@@ -12,27 +12,17 @@ Please refer to our Protocol Page to participate in our Simulation Rounds.
 
 Coordinators: Camilla Novaglio & Ryan Heneghan
 
-+---------------------+---------------------------------------------------+
-| Model               | Modelers                                          |
-+=====================+===================================================+
-| APECOSM             | Olivier Maury, Nicholas Barrier                   |
-+---------------------+---------------------------------------------------+
-| BOATS               | Daniele Bianchi, Jerome Giet, Kim Scherrer        |
-+---------------------+---------------------------------------------------+
-| DBEM                | William Cheung, Juliano Palacios Abrantes         |
-+---------------------+---------------------------------------------------+
-| DBPM                | Julia Blanchard, Camilla Novaglio, Ryan Heneghan  |
-+---------------------+---------------------------------------------------+
-| EcoOcean            | Marta Coll, Jeroen Steenbeek, Villy Christensen   |
-+---------------------+---------------------------------------------------+
-| EcoTroph            | Didier Gascuel, Vianney Guibourd de Luzinais      |
-+---------------------+---------------------------------------------------+
-| FEISTY              | Colleen Petrik, Daniel van Denderen, Ken Andersen |
-+---------------------+---------------------------------------------------+
-| MACROECOLOGICAL     | Ryan Heneghan, Simon Jennnings                    |
-+---------------------+---------------------------------------------------+
-| ZOOMS               | Jason Everett, Anthony Richardson                 |
-+---------------------+---------------------------------------------------+
+| Model           | Modelers                                          |
+|-----------------|---------------------------------------------------|
+| APECOSM         | Olivier Maury, Nicholas Barrier                   |
+| BOATS           | Daniele Bianchi, Jerome Giet, Kim Scherrer        |
+| DBEM            | William Cheung, Juliano Palacios Abrantes         |
+| DBPM            | Julia Blanchard, Camilla Novaglio, Ryan Heneghan  |
+| EcoOcean        | Marta Coll, Jeroen Steenbeek, Villy Christensen   |
+| EcoTroph        | Didier Gascuel, Vianney Guibourd de Luzinais      |
+| FEISTY          | Colleen Petrik, Daniel van Denderen, Ken Andersen |
+| MACROECOLOGICAL | Ryan Heneghan, Simon Jennnings                    |
+| ZOOMS           | Jason Everett, Anthony Richardson                 |
 
 #### Regional Modelling Teams
 
@@ -94,4 +84,3 @@ We are striving towards regional model ensembles - case studies with more than o
 +-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
 | Gulf of Alaska                      | Bia Dias                | Cheryl Barnes              |                            |                                        |
 +-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
-
