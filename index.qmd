@@ -5,9 +5,9 @@ backgroundcolor: "#f8f9fa"
 
 ![](images/fush!.jpeg.jpg){.column-screen style="padding: 0em;margin: 0 em" fig-align="center" width="1489"}
 
-::: {style="margin:2em"}
-#### **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)**
+#### **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)** {style="margin-left:1em"}
 
+::: {style="padding:0;margin-left:1em"}
 FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.
 
 #### We answer questions about the future of:
