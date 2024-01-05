@@ -8,8 +8,8 @@ Please refer to our Protocol Page to participate in our Simulation Rounds.
 
 > For more detailed information on each modelling team's past contributions to ISIMIP simulations and how to cite their outputs please see [here.](https://www.isimip.org/impactmodels/)
 
-+-----------------------------------+----------------------------------+
-| [Global](globalmodels.html)       | [Regional](regionalmodels.html)  |
-|                                   |                                  |
-| *insert image*                    | *insert image*                   |
-+-----------------------------------+----------------------------------+
++-----------------------------------------------------------------+-------------------------------------------------------------------------------+
+| [Global](globalmodels.html)                                     | [Regional](regionalmodels.html)                                               |
+|                                                                 |                                                                               |
+| ![Boyce et al. 2020](images/testimage_global.jpeg){width="980"} | ![Bryndrum-Buchholz et al. 2023](images/testimage_regional.jpeg){width="518"} |
++-----------------------------------------------------------------+-------------------------------------------------------------------------------+
