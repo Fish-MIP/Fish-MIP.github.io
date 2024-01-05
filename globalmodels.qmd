@@ -1,1 +1,18 @@
-Under construction
+---
+title: Global models
+editor: visual
+---
+
+Coordinators: Camilla Novaglio & Ryan Heneghan
+
+| Model           | Modelers                                          |
+|-----------------|---------------------------------------------------|
+| APECOSM         | Olivier Maury, Nicholas Barrier                   |
+| BOATS           | Daniele Bianchi, Jerome Giet, Kim Scherrer        |
+| DBEM            | William Cheung, Juliano Palacios Abrantes         |
+| DBPM            | Julia Blanchard, Camilla Novaglio, Ryan Heneghan  |
+| EcoOcean        | Marta Coll, Jeroen Steenbeek, Villy Christensen   |
+| EcoTroph        | Didier Gascuel, Vianney Guibourd de Luzinais      |
+| FEISTY          | Colleen Petrik, Daniel van Denderen, Ken Andersen |
+| MACROECOLOGICAL | Ryan Heneghan, Simon Jennnings                    |
+| ZOOMS           | Jason Everett, Anthony Richardson                 |

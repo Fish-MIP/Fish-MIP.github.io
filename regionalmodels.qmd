@@ -1,0 +1,65 @@
+---
+title: Regional models
+editor: visual
+---
+
+#### Regional Modelling Teams
+
+Kelly Ortega Cisneros (lead coordinator)
+
+Model sub-group leads:
+
+|          |                           |
+|----------|---------------------------|
+| EwE      | Marta Coll                |
+| Mizer    | Phoebe Woodworth-Jefcoats |
+| OSMOSE   | Yunne Shin                |
+| Atlantis | Kelly Ortega              |
+
+We are excited to currently have over 30 regional marine ecosystem modelers, who have contributed shapefiles to our map below and are planning to contribute to our FishMIP 2.0 simulations. We also welcome variants or these or bespoke model types provided they are published and skill assessed. To ensure consistency and standardisation of our simulations please follow our specific regional model implementation guidelines. Or contact the relevant coordinators above for any questions.
+
+![Figure created by Denisse Fierro Arcos](FishMIP_regional_models.png){alt="Figure created by Denisse Fierro Arcos"}
+
+We are striving towards regional model ensembles - case studies with more than one model per region (identified regional case study leaders in **bold**).
+
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| **Region**                          | **EwE**                 | **Mizer**                  | **Osmose**                 | **Atlantis**                           |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| North Sea                           | **Chris Lynam**         | Mike Spence                | Morgane Travers            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Mediterranean                       | **Marta Coll**          |                            | Marta Coll                 |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Benguela                            | Lynne Shannon           |                            | Ricardo Oliveros-Ramos     | **Kelly Ortega**                       |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Peru/Chile                          |                         |                            | **Ricardo Oliveros-Ramos** |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Southeast Australia                 | Javier Porobic          | Camilla Novaglio           |                            | Beth Fulton                            |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| East Antarctica/Prydz Bay/Kerguelen | Roshni Subramaniamoshni | **Kieran Murphy,**         |                            | Ilaria Stollberg , Javier Porobic      |
+|                                     |                         |                            |                            |                                        |
+|                                     |                         | Romain Forestier           |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Chatham Rise                        | Samik Datta (RPath)     | Samik Datta & Alice Rogers |                            | VidetteMcGregor                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Tasman/Goldern Bays                 | Samik Datta (RPath)     | Samik Datta & Alice Rogers |                            | VidetteMcGregor                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Bering Sea                          | Andy Whitehouse (RPath) | Jon Reum                   |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Baltic Sea                          | Susa Niiranen           | Max Lindmark               |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Nordi and Barents Sea               |                         |                            |                            | Bérengère Husson                       |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Hawaii Longline                     |                         | Phoebe Woodworth-Jefcoats  |                            | James Ruzicka & Caren Barcelo(ECOTRAN) |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Eastern Scotian Shelf               |                         | Ezekiel Adekoya            |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| California Current                  | Laura Koehn             |                            |                            | Isaac Kaplan                           |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Puget Sound                         |                         |                            |                            | Hem Morzaria-Luna                      |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Cook Strait                         | Tyler Eddy              |                            |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| NE Brazil                           | Leonardo Capitani       |                            |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Gulf of Alaska                      | Bia Dias                | Cheryl Barnes              |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
