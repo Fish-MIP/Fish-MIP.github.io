@@ -48,8 +48,10 @@ website:
             href: blogs.qmd
       - icon: twitter
         href: https://twitter.com/fishmip
+        target: _blank
       - icon: github
         href: https://github.com/Fish-MIP
+        target: _blank
   page-footer:
       background: "#9FD0D7" 
       left:  Copyright &copy; 2023 [Fish-MIP](https://github.com/Fish-MIP)
