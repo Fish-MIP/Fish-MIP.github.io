@@ -8,45 +8,100 @@ For more detailed information on each modelling team's past contributions to ISI
 
 FishMIP is an open community and continues to grow. Currently our ensemble comprises up to 9 global models and over 30 regional marine ecosystem models. Please refer to our Protocol Page to participate in our Simulation Rounds.
 
-![Tittensor et al. 2021](images/tittensoretal2021.png){alt="Tittensor et al. 2021"}
-
-#### Global Modelling Teams
+### Global Modelling Teams
 
 Coordinators: Camilla Novaglio & Ryan Heneghan
 
+![Tittensor et al. 2021](images/tittensoretal2021.png)
+
 Our global model ensemble has evolved through time and has supported a wide range of [studies](publications.html), including policy reports on long-term climate impacts for the IPCC 5th and 6th assessments.
 
-Oor current global model members are listed below.
+Our current global model members are listed below.
 
-| Model           | Modelers                                          |
-|-----------------|---------------------------------------------------|
-| APECOSM         | Olivier Maury, Nicholas Barrier                   |
-| BOATS           | Daniele Bianchi, Jerome Giet, Kim Scherrer        |
-| DBEM            | William Cheung, Juliano Palacios Abrantes         |
-| DBPM            | Julia Blanchard, Camilla Novaglio, Ryan Heneghan  |
-| EcoOcean        | Marta Coll, Jeroen Steenbeek, Villy Christensen   |
-| EcoTroph        | Didier Gascuel, Vianney Guibourd de Luzinais      |
-| FEISTY          | Colleen Petrik, Daniel van Denderen, Ken Andersen |
-| MACROECOLOGICAL | Ryan Heneghan, Simon Jennnings                    |
-| ZOOMS           | Jason Everett, Anthony Richardson                 |
++--------------------------------------------------------------+---------------------------------------------------+
+| Model                                                        | Modelers                                          |
++==============================================================+===================================================+
+| [APECOSM](https://apecosm.org/)                              | Olivier Maury, Nicholas Barrier                   |
++--------------------------------------------------------------+---------------------------------------------------+
+| [BOATS](https://earthsystemdynamics.org/models/boats/)       | Daniele Bianchi, Jerome Giet, Kim Scherrer        |
++--------------------------------------------------------------+---------------------------------------------------+
+| [DBEM](https://coru.oceans.ubc.ca/research/)                 | William Cheung, Juliano Palacios Abrantes         |
++--------------------------------------------------------------+---------------------------------------------------+
+| DBPM                                                         | Julia Blanchard, Camilla Novaglio, Ryan Heneghan  |
++--------------------------------------------------------------+---------------------------------------------------+
+| [EcoOcean](https://ecopathinternational.org/ecoocean/)       | Marta Coll, Jeroen Steenbeek, Villy Christensen   |
++--------------------------------------------------------------+---------------------------------------------------+
+| EcoTroph                                                     | Didier Gascuel, Vianney Guibourd de Luzinais      |
++--------------------------------------------------------------+---------------------------------------------------+
+| FEISTY                                                       | Colleen Petrik, Daniel van Denderen, Ken Andersen |
++--------------------------------------------------------------+---------------------------------------------------+
+| MACROECOLOGICAL                                              | Ryan Heneghan, Simon Jennnings                    |
++--------------------------------------------------------------+---------------------------------------------------+
+| [ZOOMS](https://github.com/MathMarEcol/ZoopModelSizeSpectra) | Jason Everett, Anthony Richardson                 |
++--------------------------------------------------------------+---------------------------------------------------+
 
-#### Regional Modelling Teams
+### Regional Modelling Teams
 
-Lead coordinator: Kelly Ortega Cisneros
+#### Lead coordinator: Kelly Ortega Cisneros
 
 Model sub-group leads:
 
-|          |                           |
-|----------|---------------------------|
-| EwE      | Marta Coll                |
-| Mizer    | Phoebe Woodworth-Jefcoats |
-| OSMOSE   | Yunne Shin                |
-| Atlantis | Kelly Ortega              |
++----------------+-----------------------------------+
+| EwE            | Marta Coll                        |
++----------------+-----------------------------------+
+| Mizer          | Phoebe Woodworth-Jefcoats         |
++----------------+-----------------------------------+
+| OSMOSE         | Yunne Shin                        |
++----------------+-----------------------------------+
+| Atlantis       | Kelly Ortega                      |
++----------------+-----------------------------------+
+
+![Figure created by Denisse Fierro Arcos](FishMIP_regional_models.png)
 
 We are excited to currently have over 30 regional marine ecosystem modelers, who have contributed shapefiles to our map below and are planning to contribute to our FishMIP 2.0 simulations. We also welcome variants or these or bespoke model types provided they are published and skill assessed. To ensure consistency and standardisation of our simulations please follow our specific regional model implementation guidelines. Or contact the relevant coordinators above for any questions.
 
-![Figure created by Denisse Fierro Arcos](FishMIP_regional_models.png){alt="Figure created by Denisse Fierro Arcos"}
+We are striving towards regional model ensembles - case studies with more than one model per region - to help support regional scale climate risk assessments and fisheries management adaptation plans.
 
-We are striving towards regional model ensembles - case studies with more than one model per region (identified regional case study leaders in **bold**).
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| **Region**                          | **EwE**                 | **Mizer**                  | **Osmose**                 | **Atlantis**                           |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| North Sea                           | **Chris Lynam**         | Mike Spence                | Morgane Travers            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Mediterranean                       | **Marta Coll**          |                            | Marta Coll                 |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Benguela                            | Lynne Shannon           |                            | Ricardo Oliveros-Ramos     | **Kelly Ortega**                       |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Peru/Chile                          |                         |                            | **Ricardo Oliveros-Ramos** |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Southeast Australia                 | Javier Porobic          | Camilla Novaglio           |                            | Beth Fulton                            |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| East Antarctica/Prydz Bay/Kerguelen | Roshni Subramaniamoshni | **Kieran Murphy,**         |                            | Ilaria Stollberg , Javier Porobic      |
+|                                     |                         |                            |                            |                                        |
+|                                     |                         | Romain Forestier           |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Chatham Rise                        | Samik Datta (RPath)     | Samik Datta & Alice Rogers |                            | VidetteMcGregor                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Tasman/Goldern Bays                 | Samik Datta (RPath)     | Samik Datta & Alice Rogers |                            | VidetteMcGregor                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Bering Sea                          | Andy Whitehouse (RPath) | Jon Reum                   |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Baltic Sea                          | Susa Niiranen           | Max Lindmark               |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Nordi and Barents Sea               |                         |                            |                            | Bérengère Husson                       |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Hawaii Longline                     |                         | Phoebe Woodworth-Jefcoats  |                            | James Ruzicka & Caren Barcelo(ECOTRAN) |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Eastern Scotian Shelf               |                         | Ezekiel Adekoya            |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| California Current                  | Laura Koehn             |                            |                            | Isaac Kaplan                           |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Puget Sound                         |                         |                            |                            | Hem Morzaria-Luna                      |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Cook Strait                         | Tyler Eddy              |                            |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| NE Brazil                           | Leonardo Capitani       |                            |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
+| Gulf of Alaska                      | Bia Dias                | Cheryl Barnes              |                            |                                        |
++-------------------------------------+-------------------------+----------------------------+----------------------------+----------------------------------------+
 
 #### 
