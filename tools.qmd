@@ -4,7 +4,7 @@ title: "Data and Tools"
 
 We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.
 
-Please check our publication policy if you would like to use these data for peer-reviewed research.
+Please check our [Terms of Use](https://www.isimip.org/gettingstarted/terms-of-use/) (via ISIMIP) if you would like to use these data for peer-reviewed research.
 
 #### FishMIP Shiny
 

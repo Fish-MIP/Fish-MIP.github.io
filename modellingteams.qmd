@@ -6,8 +6,16 @@ FishMIP simulations would not happen without the contributions of many marine ec
 
 For more detailed information on each modelling team's past contributions to ISIMIP simulations and how to cite their outputs please see [here.](https://www.isimip.org/impactmodels/)
 
-FishMIP is an open community and continues to grow. Currently we have 9 global modelling teams and over 30 regional marine ecosystem modellers spanning. Please refer to our Protocol Page to participate in our Simulation Rounds.
+FishMIP is an open community and continues to grow. Currently our ensemble comprises up to 9 global models and over 30 regional marine ecosystem models. Please refer to our Protocol Page to participate in our Simulation Rounds.
 
-+------------------------------------------------------------------+
-| ![Blanchard et al. 2024](images/testimage_global_regional.png)   |
-+------------------------------------------------------------------+
++--------------------------------------------------------------------------------+
+| [Global](globalmodels.html)                                                    |
+|                                                                                |
+| ![Tittensor et al. 2021](images/tittensoretal2021.png)                         |
++--------------------------------------------------------------------------------+
+| [Regional](regionalmodels.html)                                                |
+|                                                                                |
+| ![Ortega et al. 2024](aus_nz_map.jpg){alt="Tittensor et al. 2021" width="668"} |
++--------------------------------------------------------------------------------+
+
+#### 
