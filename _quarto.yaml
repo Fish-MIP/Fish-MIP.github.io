@@ -17,10 +17,10 @@ website:
         menu: 
           - text: Science Coordination Group
             href: sciencegroup.qmd
-          - text: Working Groups
-            href: workinggroups.qmd
           - text: Modelling Teams
             href: modellingteams.qmd
+          - text: Working Groups
+            href: workinggroups.qmd
      # - text: Models
      #   menu: 
      #     - text: Global
