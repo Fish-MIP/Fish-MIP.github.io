@@ -1,5 +1,5 @@
 ---
-title: "Modeling Teams"
+title: "Modelling Teams"
 ---
 
 FishMIP simulations would not happen without the contributions of many marine ecosystem modellers working together from different regions of the world.
@@ -42,7 +42,7 @@ Our current global model members are listed below.
 
 ### Regional Modelling Teams
 
-#### Lead coordinator: Kelly Ortega Cisneros
+Lead coordinator: Kelly Ortega Cisneros
 
 Model sub-group leads:
 
