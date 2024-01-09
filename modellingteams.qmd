@@ -42,23 +42,11 @@ Our current global model members are listed below.
 
 ### Regional Modelling Teams
 
-Lead coordinator: Kelly Ortega Cisneros
-
-Model sub-group leads:
-
-+----------------+-----------------------------------+
-| EwE            | Marta Coll                        |
-+----------------+-----------------------------------+
-| Mizer          | Phoebe Woodworth-Jefcoats         |
-+----------------+-----------------------------------+
-| OSMOSE         | Yunne Shin                        |
-+----------------+-----------------------------------+
-| Atlantis       | Kelly Ortega                      |
-+----------------+-----------------------------------+
+Regional Ecosystem Model coordinators: Kelly Ortega (overall lead & Atlantis), Marta Coll (EwE), Phoebe Woodworth-Jefcoats (mizer), Yunne Shin (OSMOSE)
 
 ![Figure created by Denisse Fierro Arcos](FishMIP_regional_models.png)
 
-We are excited to currently have over 30 regional marine ecosystem modelers, who have contributed shapefiles to our map below and are planning to contribute to our FishMIP 2.0 simulations. We also welcome variants or these or bespoke model types provided they are published and skill assessed. To ensure consistency and standardisation of our simulations please follow our specific regional model implementation guidelines. Or contact the relevant coordinators above for any questions.
+We are excited to currently have over 30 regional marine ecosystem modelers, who have contributed shapefiles to our map above and are planning to contribute to our FishMIP 2.0 simulations. We also welcome variants or these or bespoke model types provided they are published and skill assessed. To ensure consistency and standardisation of our simulations please follow our specific regional model implementation guidelines. Or contact the relevant coordinators above for any questions.
 
 We are striving towards regional model ensembles - case studies with more than one model per region - to help support regional scale climate risk assessments and fisheries management adaptation plans.
 
