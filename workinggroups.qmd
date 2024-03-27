@@ -10,9 +10,7 @@ To advance FishMIP 2.0, we are in the process of establishing several Working Gr
 
 The FishMIP Model Improvement Working Group is developing tools to assess the reliability of marine ecosystem model ensembles through advanced skill assessment techniques using global and regional observational datasets, ranging from fisheries catches and effort to fish abundance and biomass surveys, including novel data streams (e.g., satellite data, eDNA). This working group will also aim to reduce ensemble projection uncertainty by moving beyond a "model democracy" approach, develop an accurate and accessible FishMIP global model emulator, and develop tools to help build regional marine ecosystem model ensembles spanning a gradient of data-rich to data-poor regions.
 
-Leads: Ryan Heneghan (r.heneghan\@griffith.edu.au) & Daniël van Denderen
-
-(pdvd\@aqua.dtu.dk)
+Leads: Ryan Heneghan (r.heneghan\@griffith.edu.au) & Daniël van Denderen (pdvd\@aqua.dtu.dk)
 
 #### WG2: Socio-economic scenarios
 
@@ -32,7 +30,7 @@ The Biodiversity Conservation Working Group leads the development of modeling ex
 
 Leads: Andrea Bryndum-Buchholz ([andrea.buchholz\@mi.mun.ca](mailto:andrea.buchholz@mi.mun.ca)) & Kelsey Roberts ([kroberts3\@lsu.edu](mailto:kroberts3@lsu.edu)) 
 
-**WG5: Climate change mitigation** 
+#### **WG5: Climate change mitigation** 
 
 The Climate Change Mitigation Working Group explores the potential impacts of climate interventions on marine ecosystems, in an effort to add to the knowledge base around geoengineering impacts and hence inform decision- and policymaking with due consideration of potential impacts on ecosystem services, biodiversity, and food security in future climate scenarios. 
 
