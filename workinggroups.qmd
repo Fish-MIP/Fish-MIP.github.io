@@ -4,25 +4,25 @@ title: "Working Groups"
 
 To advance FishMIP 2.0, we are in the process of establishing several Working Group Projects with specific objectives:
 
-![](images/FAO REPORT FIGURE 20 v2.png){alt="Source: Blanchard & Novaglio, 2024, FAO Technical Paper"}
+![](images/FAO%20REPORT%20FIGURE%2020%20v2.png){alt="Source: Blanchard & Novaglio, 2024, FAO Technical Paper"}
 
 #### WG1: Model improvement & data tools
 
 The FishMIP Model Improvement Working Group is developing tools to assess the reliability of marine ecosystem model ensembles through advanced skill assessment techniques using global and regional observational datasets, ranging from fisheries catches and effort to fish abundance and biomass surveys, including novel data streams (e.g., satellite data, eDNA). This working group will also aim to reduce ensemble projection uncertainty by moving beyond a "model democracy" approach, develop an accurate and accessible FishMIP global model emulator, and develop tools to help build regional marine ecosystem model ensembles spanning a gradient of data-rich to data-poor regions.
 
-Leads: Ryan Heneghan (r.heneghan\@griffith.edu.au) & Daniël van Denderen (pdvd\@aqua.dtu.dk)
+Leads: Ryan Heneghan ([r.heneghan\@griffith.edu.au](mailto:r.heneghan@griffith.edu.au)) & Daniël van Denderen ([pdvd\@aqua.dtu.dk](#0)) 
 
 #### WG2: Socio-economic scenarios
 
 The Socio-economic Scenarios Working Group leads the development, implementation in models, testing and simulation of the Oceanic System Pathways (OSPs), a set of SSP-consistent scenarios of the future of fisheries, including a modelling framework for embedding market and fleet dynamics into ecosystem models, that will, amongst other objectives, help to address where adaptive fisheries management measures are most needed, and which measures can successfully lead to climate resilient fisheries.
 
-Leads: Olivier Maury (olivier.maury\@ird.fr), Derek Tittensor (derek.tittensor\@dal.ca) & Tyler Eddy (tyler.eddy\@mi.mun.ca)
+Leads: Olivier Maury ([olivier.maury\@ird.fr](mailto:olivier.maury@ird.fr)), Derek Tittensor ([derek.tittensor\@dal.ca](mailto:derek.tittensor@dal.ca)) & Tyler Eddy ([tyler.eddy\@mi.mun.ca](mailto:tyler.eddy@mi.mun.ca)) 
 
 #### WG3: Food security
 
 The Food Security Working Group aims at translating and applying FishMIP results for use in climate change impacts, risk, vulnerability assessments on food systems and food security, with a focus on fisheries and aquaculture, but also including joint risks and trade-offs with other sectors  (agriculture, wider questions about diets).
 
-Leads: Camilla Novaglio (Camilla.novaglio\@utas.edu.au) & Julia Blanchard (Julia.blanchard\@utas.edu.au)
+Leads: Camilla Novaglio ([Camilla.novaglio\@utas.edu.au](mailto:Camilla.novaglio@utas.edu.au)) & Julia Blanchard ([Julia.blanchard\@utas.edu.au](mailto:Julia.blanchard@utas.edu.au))
 
 #### WG4: Biodiversity protection
 
