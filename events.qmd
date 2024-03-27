@@ -4,11 +4,6 @@ title: "Upcoming Events"
 
 Check out our upcoming events on this page.
 
-<!-- #### **2024 Kick-off: Community Online Meeting:**  -->
-
-<!-- \[date TBA in February 2024\]\ -->
-<!-- Join to hear about our highlights from 2023 and our plans for 2024 and beyond! -->
-
 #### **FishMIP \@ 2024 Ocean Decade Conference**
 
 Check out our session and official Decade Action in [Barcelona](https://oceandecade.org/events/2024-ocean-decade-conference/), April 10-12, 2024 organised in collaboration with FAO and NOAA.
@@ -17,10 +12,30 @@ Check out our session and official Decade Action in [Barcelona](https://oceandec
 
 The cross-sectoral ISIMIP and PROCLIAS workshop is taking place from **22 - 26 April 2024**. Located at PIK in Potsdam and online everywhere.
 
-Please see programme [here]: (https://www.isimip.org/outcomes/events/upcoming-cross-sectoral-isimip-proclias-workshop-2024/)
+Please see programme [here](https://www.isimip.org/outcomes/events/upcoming-cross-sectoral-isimip-proclias-workshop-2024/).
 
 #### **Ad hoc online modeller meetings**
 
 To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to find our more.
 
-#### **More exciting stuff coming soon!**
+#### Relevant Conferences in 2024/2025:
+
+[World Fisheries Congress](https://wfc2024.fisheries.org/): Seattle, USA, 3-7 March 2024
+
+[MSEAS](https://meetings.pices.int/meetings/international/2024/MSEAS/Background): Yokohama, Japan, 3-7 June 2024
+
+[AMEMR](https://www.amemr.com/): Plymouth, UK, 8-12 July 2024
+
+[ICES ASC](https://www.ices.dk/events/asc/2024/Pages/default.aspx): Gateshead, UK, 9--12 September 2024
+
+[AMSA-NZMSS](https://www.amsa2024.amsa.asn.au/): Joint Australia & New Zealand Marine Science Conference, Hobart, Australia, 15-20 September 2024
+
+[IMBeR IMBIZO](https://imber.info/event/imbizo-7-transitioning-towards-sustainable-ocean-governance-by-2030-commitments-and-challenges/): Rabat, Morocco, 23-26 September 2024
+
+[PICES](https://meetings.pices.int/meetings/annual/2024/pices/scope) Annual Meeting, Honolulu, HI, USA, Oct 26-Nov 1, 2024
+
+[Future Oceans 3](https://imber.info/events/future-oceans/) - IMBeR Open Science Conference 2025, Columbia, March 2025
+
+#### Funding:
+
+[SCOR Working Groups](https://scor-int.org/wp-content/uploads/2024/02/2024-Call-WG-Proposals.pdf): deadline May 17
