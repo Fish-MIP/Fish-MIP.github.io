@@ -18,7 +18,7 @@ Earth System Models:[Colleen Petrik](mailto:colleenpetrik@gmail.com){.email-link
 
 Future Societal Scenarios:[Olivier Maury](mailto:olivier.maury@ird.fr){.email-link} IRD; [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca){.email-link}, Marine Institute Memorial University; [Derek Tittensor](mailto:derek.tittensor@dal.ca){.email-link}, Dalhousie University
 
-Science communication and outreach:[Andrea Bryndum-Buchholz](mailto:andrea.buchholz@mi.mun.ca){.email-link},Marine Institute Memorial University
+Science communication and outreach:[Andrea Bryndum-Buchholz](mailto:andrea.buchholz@mi.mun.ca){.email-link},Marine Institute Memorial University and [Kelsey Roberts](mailto:kroberts3@lsu.edu){.email-link}, Louisiana State University
 
 Data scientist: [Denisse Fierro-Arcos](mailto:lilian.fierroarcos@utas.edu.au){.email-link}, IMAS-University of Tasmania
 
