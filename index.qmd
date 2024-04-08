@@ -5,8 +5,6 @@ backgroundcolor: "#f8f9fa"
 
 ![](images/fush!.jpeg.jpg){.column-screen style="padding: 0em;margin: 0 em" fig-align="center" width="1489"}
 
-#### Fish-MIP will be at Ocean Decade Conference in Spain next week!!
-
 {{< video https://vimeo.com/927985005 >}}
 
 <div>
