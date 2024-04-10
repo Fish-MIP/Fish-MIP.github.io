@@ -5,6 +5,12 @@ backgroundcolor: "#f8f9fa"
 
 ![](images/fush!.jpeg.jpg){.column-screen style="padding: 0em;margin: 0 em" fig-align="center" width="1489"}
 
+::: marquee
+::: content
+###### **Submissions for the 10th anniversary FishMIP special issue "Past & Future of Marine Ecosystems" has been extended to April 30th, 2024. More details [here](https://agupubs.onlinelibrary.wiley.com/hub/journal/23284277/homepage/call-for-papers/si-2023-000500)**
+:::
+:::
+
 {{< video https://vimeo.com/927985005 >}}
 
 <div>
