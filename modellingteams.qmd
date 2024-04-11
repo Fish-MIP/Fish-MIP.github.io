@@ -2,6 +2,31 @@
 title: "Modelling Teams"
 ---
 
+#### Fish-MIP has over 100 members worldwide and the network continues to grow!
+
+```{r, echo=FALSE}
+library(leaflet)
+library(readxl)
+
+# Read data from Excel file
+datab <- read_excel("fishmipmembers11042024.xlsx")
+
+# Add a small offset to the latitude and longitude coordinates
+offset <- seq(0, 0.1, length.out = nrow(datab))
+
+# Jitter the latitude and longitude coordinates
+jittered_lat <- datab$lat + offset
+jittered_lon <- datab$long + offset
+
+# Create Leaflet map
+m <- leaflet(data = datab) %>%
+  addTiles() %>%
+  addMarkers(lng = ~jittered_lon, lat = ~jittered_lat, popup = paste("Name: ", datab$Name, "<br> Affiliation: ", datab$Affiliation, "<br> Contact: ", datab$Email), clusterOptions = NULL)
+
+m
+
+```
+
 FishMIP simulations would not happen without the contributions of many marine ecosystem modellers working together from different regions of the world.
 
 For more detailed information on each modelling team's past contributions to ISIMIP simulations and how to cite their outputs please see [here.](https://www.isimip.org/impactmodels/)
