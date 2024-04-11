@@ -34,7 +34,7 @@ FishMIP is a network of more than 100 marine ecosystem modellers and researchers
 
 ::: {style="margin-left: 1.5em; margin-right: 1.5em"}
 |                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------|
 | ![](nemow.jpg){.column-page fig-align="center" style="padding: 0em" width="1489"}                                                                                                                                              |
 | Our goal is to bring together diverse marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy. |
 
