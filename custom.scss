@@ -359,19 +359,33 @@ th {
   }
 }
 
-//Custom Marquees for select text 
+//Custom Marquees for select text and pausing it when a mouse HOVERS
 .marquee {
   overflow: hidden;
   white-space: nowrap;
   width: 100%;
-  
+
   .content {
     display: inline-block;
     animation: marquee 30s linear infinite; // Adjust animation duration as needed
+    cursor: pointer; // Add cursor pointer to indicate it's clickable
   }
 
   @keyframes marquee {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+  // Pause animation on hover and resume on hover out
+  &:hover .content {
+    animation-play-state: paused;
+  }
+
+  &:not(:hover) .content {
+    animation-play-state: running;
   }
 }
