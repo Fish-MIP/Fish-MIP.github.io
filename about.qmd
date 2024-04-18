@@ -12,4 +12,4 @@ We are using a two-track approach with our simulation experiments (see below). O
 
 More information on our current protocol (contributing to ISIMIP 3a) can be found [**here**](protocols.html).
 
-FishMIP model outputs from past simulation rounds can be found [**here**](data.isimip.org). You are welcome to use these data in your projects, but we encourage you to contact the FishMIP modellers and coordinators responsible for the work, and to reference the [**publications**](https://fish-mip.github.io/publications.html) which provide further details. See ISIMIP's [**Terms of Use**](https://www.isimip.org/gettingstarted/terms-of-use/) for further guidance.
+FishMIP model outputs from past simulation rounds can be found [**here**](https://data.isimip.org/). You are welcome to use these data in your projects, but we encourage you to contact the FishMIP modellers and coordinators responsible for the work, and to reference the [**publications**](https://fish-mip.github.io/publications.html) which provide further details. See ISIMIP's [**Terms of Use**](https://www.isimip.org/gettingstarted/terms-of-use/) for further guidance.
