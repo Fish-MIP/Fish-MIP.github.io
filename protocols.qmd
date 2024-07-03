@@ -37,7 +37,7 @@ Progress towards this deadline will be supported and facilitated through monthly
 
 -   Brainstorming and drafting papers (initially methods and preliminary results)
 
-The FishMIP Model Evaluation protocol can be downloaded from [**here**](https://github.com/Fish-MIP/FishMIP_2022_3a_Protocol) while the official ISIMIP3 protocol is located [**on this website**](https://protocol.isimip.org/#ISIMIP3a/marine-fishery_global/marine-fishery_regional).
+The FishMIP Model Evaluation protocol can be downloaded from [**here**](https://github.com/Fish-MIP/FishMIP_2022_3a_Protocol){.email-link} while the official ISIMIP3 protocol is located [**on this website**](https://protocol.isimip.org/#ISIMIP3a/marine-fishery_global/marine-fishery_regional){.email-link}.
 
 #### 
 
@@ -51,8 +51,8 @@ The goal of FishMIP CMIP6 Phase 1 (commenced in 2020) is to provide input to the
 
 Note that this FishMIP CMIP6 Phase 1 protocol represents only a subset of the full ISIMIP3b protocol with a smaller set of scenarios considered. The FishMIP CMIP6 Phase 2 protocol will build upon these experiments in 2023.
 
-The FishMIP CMIP6 Phase 1 (contributing to ISIMIP3b) protocol can be downloaded [**here**](https://www.isimip.org/documents/483/FishMIP_Phase1_2020_CMIP6_runs_protocol_v1.0.pdf) while the official ISIMIP3 protocol is located [**on this website**](https://protocol.isimip.org/).
+The FishMIP CMIP6 Phase 1 (contributing to ISIMIP3b) protocol can be downloaded [**here**](https://www.isimip.org/documents/483/FishMIP_Phase1_2020_CMIP6_runs_protocol_v1.0.pdf){.email-link} while the official ISIMIP3 protocol is located [**on this website**](https://protocol.isimip.org/){.email-link}.
 
 #### **FishMIP CMIP5 (ISIMIP2)**
 
-The first two rounds of FishMIP simulation protocols were aligned with CMIP5 under the ISIMIP 2 Simulation Round. The [**ISIMIP2a simulation protocol**](https://www.isimip.org/protocol/2a) represents the choices we have made in order to compare as many global and regional models as possible. These include common inputs with respect to climate, physical and chemical data (temperature, currents, salinity, pH, oxygen), biological data (e.g. primary production, phyto- and zooplankton), and fisheries data (effort, catch, fisheries mortality) as well as common outputs including fish biomass and catch as well as other ecosystem parameters.
+The first two rounds of FishMIP simulation protocols were aligned with CMIP5 under the ISIMIP 2 Simulation Round. The [**ISIMIP2a simulation protocol**](https://www.isimip.org/protocol/2a){.email-link} represents the choices we have made in order to compare as many global and regional models as possible. These include common inputs with respect to climate, physical and chemical data (temperature, currents, salinity, pH, oxygen), biological data (e.g. primary production, phyto- and zooplankton), and fisheries data (effort, catch, fisheries mortality) as well as common outputs including fish biomass and catch as well as other ecosystem parameters.

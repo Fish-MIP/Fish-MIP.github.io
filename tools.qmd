@@ -4,11 +4,11 @@ title: "Data and Tools"
 
 We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.
 
-Please check our [Terms of Use](https://www.isimip.org/gettingstarted/terms-of-use/) (via ISIMIP) if you would like to use these data for peer-reviewed research.
+Please check our [Terms of Use](https://www.isimip.org/gettingstarted/terms-of-use/){.email-link} (via ISIMIP) if you would like to use these data for peer-reviewed research.
 
 #### FishMIP Shiny
 
-[[Input Explorer for Regional Modellers]{.underline}](https://0rl5bx-julia0blanchard.shinyapps.io/FishMIP_Input_Explorer/)[:]{.underline} Check out our "beta" version Shinyapp to examine and domain inputs per regional ecosystem model domain.
+[[Input Explorer for Regional Modellers]{.underline}](https://0rl5bx-julia0blanchard.shinyapps.io/FishMIP_Input_Explorer/){.email-link}[:]{.underline} Check out our "beta" version Shinyapp to examine and domain inputs per regional ecosystem model domain.
 
 [Country-level Ensemble Model Outputs:]{.underline} Coming soon! To visualise spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.
 
@@ -16,8 +16,8 @@ Please check our [Terms of Use](https://www.isimip.org/gettingstarted/terms-of-u
 
 R/Python tutorials for extracting data from ISIMIP servers, regional-scale model inputs from global gridded Earth System Models, or plotting outputs from FishMIP, using a regional shapefiles.
 
--   [Accessing ISIMIP data](https://github.com/Fish-MIP/FishMIP_NOAA_workshop/blob/main/scripts/Accessing_climate_data_ISIMIP.md)
+-   [Accessing ISIMIP data](https://github.com/Fish-MIP/FishMIP_NOAA_workshop/blob/main/scripts/Accessing_climate_data_ISIMIP.md){.email-link}
 
--   [Creating regional model maps from shapefiles](https://github.com/Fish-MIP/FishMIP_regions)
+-   [Creating regional model maps from shapefiles](https://github.com/Fish-MIP/FishMIP_regions){.email-link}
 
--   [Extracting data using regional mask](https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Extracting_FishMIP_data.md)
+-   [Extracting data using regional mask](https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Extracting_FishMIP_data.md){.email-link}

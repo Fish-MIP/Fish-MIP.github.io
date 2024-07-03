@@ -1,0 +1,25 @@
+---
+date: 09/30/2023
+---
+
+### **Full circle in Hawaii**
+
+![](images/bannerphoto.jpeg)
+
+Ecosystem modellers from NOAA and FishMIP came together in Honolulu for the first joint National Ecosystem Modeling Workshop (NEMoW), to listen and learn from each other about all things regional modeling.
+
+[NEMoWs](https://www.fisheries.noaa.gov/national/ecosystems/national-ecosystem-modeling-workshops) have been around since 2007, with the specific purpose of exploring the establishment of ecosystem model standards for living marine resource management applications and presented an ideal venue to bring together a wide range of regional modelling expertise and to discuss ways of integrating NOAA and FishMIP modeling efforts.
+
+More specifically, the meeting included a mixture of presentations, discussions and hands-on tutorials. Workshop sessions visited key topics including:
+
+1.  Understanding attribution and advancing skill testing in ecosystem models.
+
+2.  Representing temperature-dependencies and other climate forcings in ecosystem models.
+
+3.  Improving methods for downscaling climate projections in both data-rich and data-limited regions.
+
+4.  Evaluating whether global climate projections represent important regional-scale ecosystem processes.
+
+Our workshop in Honolulu was also a moment of full circle, as we gathered in the very birthplace of Ecopath. [As part of the National Marine Fisheries Service in Hawaii, Jeffrey Polovina and colleagues developed this modeling framework](https://www.pugetsoundinstitute.org/quantitative-models-including-ecopath-take-food-web-studies-to-a-higher-level-of-analysis/) to describe the flow of energy through a specific food web, and has since been expanded, refined and applied to ecosystems throughout the world. Even [FishMIP is using Ecopath](https://fishmip.org/modellingteams.html) for several regions, including Southeast Australia, East Antarctica, and the California Current.
+
+The joint workshop was a success with new ideas and collaborations formed, all inspired by the beauty of Hawaii.
