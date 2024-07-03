@@ -32,8 +32,8 @@ website:
         href: protocols.qmd
       - text: Publications
         href: publications.qmd
-      # - text: Data
-         menu: 
+      - text: Data
+        menu: 
            - text: Outputs
              href: outputs.qmd
            - text: Tools
