@@ -4,7 +4,7 @@ title: "Working Groups"
 
 To advance FishMIP 2.0, we are in the process of establishing several Working Group Projects with specific objectives:
 
-![](images/FAO%20REPORT%20FIGURE%2020%20v2.png){alt="Source: Blanchard & Novaglio, 2024, FAO Technical Paper"}
+![](images/FAO%20REPORT%20FIGURE%2020%20v2.png){.column-screen alt="Source: Blanchard & Novaglio, 2024, FAO Technical Paper"}
 
 #### WG1: Model improvement & data tools
 
