@@ -38,7 +38,6 @@ website:
              href: outputs.qmd
            - text: Tools
              href: tools.qmd
-          # - text: Data & Tools
       #  menu:
       #    - text: Interactive tool
       #      href: datatools/interactivetool.qmd
@@ -48,7 +47,6 @@ website:
           #  href: datatools/tutorials.qmd
         #  - text: Terms of Use
           #  href: datatools/termsofuse.qmd
-           
         #href: tools.qmd
       - text: News
         menu: 
