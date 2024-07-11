@@ -5,6 +5,12 @@ backgroundcolor: "#f8f9fa"
 
 ![](images/fush!.jpeg.jpg){.column-screen style="padding: 0em;margin: 0 em" fig-align="center" width="1489"}
 
+::: marquee
+::: content
+Our latest FAO report "[**Climate change risks to marine ecosystems and fisheries**](https://openknowledge.fao.org/items/ae42f17d-4685-4c7e-8e3d-424cea16c8d4)**"** is now published!
+:::
+:::
+
 {{< video https://vimeo.com/927985005 >}}
 
 <div>

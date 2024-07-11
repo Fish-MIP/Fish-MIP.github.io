@@ -378,7 +378,7 @@ th {
 
   .content {
     display: inline-block;
-    animation: marquee 30s linear infinite; // Adjust animation duration as needed
+    animation: marquee 10s linear infinite; // Adjust animation duration as needed
     cursor: pointer; // Add cursor pointer to indicate it's clickable
   }
 
@@ -394,9 +394,5 @@ th {
   // Pause animation on hover and resume on hover out
   &:hover .content {
     animation-play-state: paused;
-  }
-
-  &:not(:hover) .content {
-    animation-play-state: running;
   }
 }
