@@ -32,12 +32,12 @@ website:
         href: protocols.qmd
       - text: Publications
         href: publications.qmd
-      - text: Data
-        menu: 
-           - text: Outputs
-             href: outputs.qmd
-           - text: Tools
-             href: tools.qmd
+     # - text: Data
+      #  menu: 
+       #    - text: Outputs
+        #     href: outputs.qmd
+         #  - text: Tools
+          #   href: tools.qmd
       #  menu:
       #    - text: Interactive tool
       #      href: datatools/interactivetool.qmd
