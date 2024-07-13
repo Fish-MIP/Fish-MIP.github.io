@@ -380,6 +380,7 @@ th {
     display: inline-block;
     animation: marquee 10s linear infinite; // Adjust animation duration as needed
     cursor: pointer; // Add cursor pointer to indicate it's clickable
+    font-size: 1em; // Increase font size as needed
   }
 
   @keyframes marquee {
