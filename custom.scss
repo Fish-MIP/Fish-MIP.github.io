@@ -122,7 +122,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 // Navbar
 .navbar {
   padding-top: 0em; /* Add some padding to the top of the navbar */
-  padding-bottom: 0.5em; /* Add some padding to the bottom of the navbar */
+  padding-bottom: 1em; /* Add some padding to the bottom of the navbar */
 
   @media (max-width: 768px) {
     padding-top: 0.5em; /* Adjust padding for smaller screens */
@@ -132,7 +132,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   &-nav {
     .nav-link {
       padding-top: 0.5rem;
-      padding-bottom: 0.5rem;
+      padding-bottom: 1rem;
       color: $navyblue2 !important;
 
       @media (max-width: 768px) {
@@ -323,27 +323,22 @@ th {
 
 .navbar {
   padding-top: 0em;
-  padding-bottom: -1em;
+  padding-bottom: 0 !important; /* Set padding-bottom to 0 */
   font-size: 1.05em;
 }
 .navbar {
-  margin-bottom: -1;
+  margin-bottom: 0 !important; /* Remove any bottom margin */
 }
 
 /*-- Custom CSS to remove space between navbar and image banner --*/
 .banner {
-  margin-top: 0; /* Set the margin-top to 0 for the .banner class */
+  margin-top: 0 !important; /* Set the margin-top to 0 for the .banner class */
+  padding-top: 0 !important; /* Ensure padding-top is also 0 */
 }
-
-
 
 .image-container .figure {
-  margin-top: 0; /* Remove the top margin */
-  margin-bottom: 0; /* Remove the bottom margin */
-}
-
-.navbar {
-  margin-bottom: 0; /* Remove any bottom margin from the navbar */
+  margin-top: 0 !important; /* Remove the top margin */
+  margin-bottom: 0 !important; /* Remove the bottom margin */
 }
 
 .responsive-img {

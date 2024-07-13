@@ -3,7 +3,9 @@ page-layout: custom
 backgroundcolor: "#f8f9fa"
 ---
 
+::: {.image-container .figure}
 ![](images/fush!.jpeg.jpg){.column-screen style="padding: 0em;margin: 0 em" fig-align="center" width="1489"}
+:::
 
 ::: marquee
 ::: content
