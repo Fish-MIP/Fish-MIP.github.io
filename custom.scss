@@ -321,11 +321,17 @@ th {
 
 /*-- Custom CSS to remove space between navbar and image banner --*/
 .banner {
-  margin-top: 0 !important; /* Remove top margin */
-  padding-top: 0 !important; /* Remove top padding */
+  margin-top: -1rem !important; /* Remove top margin */
+  padding-top: -1rem !important; /* Remove top padding */
 }
 
 .image-container .figure {
   margin-top: 0 !important; /* Remove top margin */
   padding-top: 0 !important; /* Remove top padding */
 }
+
+/*-- Custom CSS to remove space between navbar and image banner --*/
+.banner {
+  margin-top: 0; /* Set the margin-top to 0 for the .banner class */
+}
+

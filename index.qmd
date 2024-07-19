@@ -3,8 +3,9 @@ page-layout: custom
 backgroundcolor: "#f8f9fa"
 ---
 
-![](images/fush!.jpeg.jpg){.banner fig-align="center" width="1489"}
-
+::: {#shutterstock .column-screen style="padding: 0em;margin-top: -1em"}
+![](images/fush!.jpeg.jpg){.banner fig-align="center"}
+:::
 ::: marquee
 ::: content
 Our latest FAO report "[**Climate change risks to marine ecosystems and fisheries**](https://openknowledge.fao.org/items/ae42f17d-4685-4c7e-8e3d-424cea16c8d4)**"** is now published!
