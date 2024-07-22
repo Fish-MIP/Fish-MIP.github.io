@@ -335,3 +335,19 @@ th {
   margin-top: 0; /* Set the margin-top to 0 for the .banner class */
 }
 
+//Custom Marquees for select text 
+.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+
+  .content {
+    display: inline-block;
+    animation: marquee 20s linear infinite; // Adjust animation duration as needed
+  }
+
+  @keyframes marquee {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+}
