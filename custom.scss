@@ -340,14 +340,24 @@ th {
   overflow: hidden;
   white-space: nowrap;
   width: 100%;
+}
 
-  .content {
-    display: inline-block;
-    animation: marquee 20s linear infinite; // Adjust animation duration as needed
-  }
+.marquee .content {
+  display: inline-block;
+  animation: marquee 20s linear infinite; /* Adjust animation duration as needed */
+}
 
-  @keyframes marquee {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
+/* Define the marquee animation */
+@keyframes marquee {
+  from {
+    transform: translateX(100%);
   }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+/* Pause animation on hover */
+.marquee .content:hover {
+  animation-play-state: paused;
 }

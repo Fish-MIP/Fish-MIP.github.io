@@ -10,7 +10,7 @@ website:
     background: primary
     logo: "one_line_colour_logo.png"
     logo-alt: FishMIP
-    logo-href: /home.html
+    logo-href: /index.html
     right:
       - href: index.qmd
         text: Home
