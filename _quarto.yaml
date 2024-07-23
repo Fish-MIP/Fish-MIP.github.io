@@ -4,7 +4,8 @@ project:
 
 website:
 #  title: "Fish-MIP"
-  #image: "logo_test.png"
+  image: "one_line_colour_logo.png"
+  favicon: FishMIP_assets/one line logo/pngs/one-line-colour-logo_transparent_background.png
   navbar:
     background: primary
     logo: "one_line_colour_logo.png"
