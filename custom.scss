@@ -92,7 +92,7 @@ $input-group-addon-bg:                  $gray-300 !default;
 
 // Navbar
 
-$navbar-padding-y:                  -1rem !default;
+$navbar-padding-y:                  0rem !default;
 $navbar-dark-hover-color:           $white !default;
 $navbar-light-color:                rgba($black, .3) !default;
 $navbar-light-hover-color:          $gray-900 !default;
@@ -120,13 +120,28 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   padding-bottom: 0 !important; /* Remove bottom padding */
   margin-bottom: 0 !important; /* Remove bottom margin */
   font-size: 1.05em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
   &-nav {
+    display: flex;
+    align-items: center;
+    margin: 0; /* Ensure no extra margin */
+    
+    .nav-item {
+      margin-right: 0.5rem; /* Adjust spacing between nav items */
+      
+      &:last-child {
+        margin-right: 0; /* No margin for the last item */
+      }
+    }
+
     .nav-link {
       padding-top: 0.5rem;
-      padding-bottom: 1rem;
+      padding-bottom: 0.5rem; /* Ensure consistent padding */
       color: $navyblue2 !important;
-
+      
       @media (max-width: 768px) {
         padding-top: 0.25rem;
         padding-bottom: 0.25rem;
@@ -135,10 +150,23 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   }
 
   &-brand {
-    margin-right: 1rem;
+    margin-right: 0rem;
+  }
 
-    @media (max-width: 768px) {
-      margin-right: 0.5rem;
+  .navbar-search {
+    display: flex;
+    align-items: center;
+
+    input[type="search"] {
+      margin-right: 0.5rem; /* Space between input and button */
+      height: 2.5rem; /* Ensure the height matches other navbar items */
+      padding: 0.5rem; /* Adjust padding for better alignment */
+      line-height: 1.5; /* Ensure line-height is consistent */
+    }
+
+    button {
+      height: 2.5rem; /* Match height with input field */
+      padding: 0 1rem; /* Ensure button padding is consistent */
     }
   }
 }
@@ -156,7 +184,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 }
 
 .nav-item {
-  margin-right: 0.5rem;
+  margin-right: 0rem;
 }
 
 // Buttons
@@ -166,7 +194,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   text-transform: uppercase;
 
   &-sm {
-    font-size: 10px;
+    font-size: 1rem;
   }
 
   &-warning {
@@ -321,18 +349,13 @@ th {
 
 /*-- Custom CSS to remove space between navbar and image banner --*/
 .banner {
-  margin-top: -1rem !important; /* Remove top margin */
-  padding-top: -1rem !important; /* Remove top padding */
-}
-
-.image-container .figure {
-  margin-top: 0 !important; /* Remove top margin */
-  padding-top: 0 !important; /* Remove top padding */
+  margin-top: 0; /* Set the margin-top to 0 for the .banner class */
 }
 
 /*-- Custom CSS to remove space between navbar and image banner --*/
-.banner {
-  margin-top: 0; /* Set the margin-top to 0 for the .banner class */
+.image-container .figure {
+  margin-top: 0 !important; /* Remove top margin */
+  padding-top: 0 !important; /* Remove top padding */
 }
 
 //Custom Marquees for select text 

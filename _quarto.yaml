@@ -11,6 +11,7 @@ website:
     logo: "one_line_colour_logo.png"
     logo-alt: FishMIP
     logo-href: /index.html
+    collapse-below: lg
     right:
       - href: index.qmd
         text: Home
