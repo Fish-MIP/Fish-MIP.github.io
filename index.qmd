@@ -6,9 +6,12 @@ backgroundcolor: "#f8f9fa"
 ::: {#shutterstock .column-screen style="padding: 0em;margin-top: -1em"}
 ![](images/fush!.jpeg.jpg){.banner fig-align="center"}
 :::
+
 ::: marquee
 ::: content
 Our latest FAO report "[**Climate change risks to marine ecosystems and fisheries**](https://openknowledge.fao.org/items/ae42f17d-4685-4c7e-8e3d-424cea16c8d4)**"** is now published!
+
+"**Fish face vast decline if emissions are not reduced!**"- Prof Julia Blanchard, IMAS, UTAS. Read Prof Blanchard's Dialogue Earth article [here](https://dialogue.earth/en/ocean/fish-face-vast-decline-if-emissions-are-not-reduced/).
 :::
 :::
 
