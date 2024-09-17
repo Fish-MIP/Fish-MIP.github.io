@@ -36,17 +36,18 @@ website:
         href: protocols.qmd
       - text: Publications
         href: publications.qmd
-      - text: Data Tools
+      - text: Data & Tools
+        href: tools.qmd 
       #  menu: 
        #    - text: Outputs
         #     href: outputs.qmd
          #  - text: Tools
           #   href: tools.qmd
-        menu:
-          - text: Input Explorer 
-            href: datatools/interactivetool.qmd
-          - text: Country level outputs
-            href: datatools/inputexplorer.qmd
+        #menu:
+        #  - text: Input Explorer 
+        #    href: datatools/interactivetool.qmd
+        #  - text: Country level outputs
+        #    href: datatools/inputexplorer.qmd
          # - text: Tutorials
           #  href: datatools/tutorials.qmd
         #  - text: Terms of Use
