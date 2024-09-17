@@ -1,0 +1,9 @@
+---
+format: html
+---
+
+## Explore the beta version of our interactive input explorer here!
+
+```{=html}
+<iframe width="780" height="500" src="http://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FishMIP_Input_Explorer/" title="Regional Climate Forcing Data Explorer"></iframe>
+```

@@ -1,0 +1,9 @@
+---
+format: html
+---
+
+## Explore the beta version of climate forcing data explorer here!
+
+```{=html}
+<iframe width="780" height="500" src="https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FAO_report_shiny/" title="World maps of projected fish biomass change"></iframe>
+```
