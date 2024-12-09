@@ -7,13 +7,13 @@ backgroundcolor: "#f8f9fa"
 ![](images/fush!.jpeg.jpg){.banner fig-align="center"}
 :::
 
-::: marquee
+:::: marquee
 ::: content
 Our latest FAO report "[**Climate change risks to marine ecosystems and fisheries**](https://openknowledge.fao.org/items/ae42f17d-4685-4c7e-8e3d-424cea16c8d4)**"** is now published!
 
 "**Fish face vast decline if emissions are not reduced!**"- Prof Julia Blanchard, IMAS, UTAS. Read Prof Blanchard's Dialogue Earth article [here](https://dialogue.earth/en/ocean/fish-face-vast-decline-if-emissions-are-not-reduced/).
 :::
-:::
+::::
 
 {{< video https://vimeo.com/927985005 >}}
 
@@ -37,9 +37,9 @@ FishMIP is a network of more than 100 marine ecosystem modellers and researchers
 </div>
 
 ::: {style="margin-left: 1.5em; margin-right: 1.5em"}
-|                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](nemow.jpg){.column-page fig-align="center" style="padding: 0em" width="1489"}                                                                                                                                              |
+|  |
+|----|
+| ![](nemow.jpg){.column-page fig-align="center" style="padding: 0em" width="1489"} |
 | Our goal is to bring together diverse marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy. |
 
 #### Part of a wider climate impact model community
