@@ -3,7 +3,7 @@ date: 06/04/2025
 author: Andrea Bryndum-Buchholz
 ---
 
-# **Kicking of the FishMIP-OSP Project** 
+# **Kicking of the FishMIP-OSP Project**
 
 ![Core FishMIP-OSP members at virtual kick-off meeting](images/kickoff_meeting_Zoom_group_screenshot.png){fig-alt="Core FishMIP-OSP members at virtual kick-off meeting" fig-align="center"}
 

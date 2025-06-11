@@ -1,21 +1,22 @@
 [
   {
+    "listing": "/simulations.html",
+    "items": [
+      "/simulations/fishmipCMIP5.html",
+      "/simulations/CMIP6phase1.html",
+      "/simulations/isimip3a.html"
+    ]
+  },
+  {
     "listing": "/blogs.html",
     "items": [
+      "/blogs/FishMIP_OSP_May2025_VirtKickoff.html",
       "/blogs/FishMIP-in-Hawaii.html",
       "/blogs/fishMIP-NOAAworkshop092023.html",
       "/blogs/fishmipatprcolias.html",
       "/blogs/fishmip-at-ECC05.html",
       "/blogs/blogA.html",
       "/blogs/fishMIP2022workshop.html"
-    ]
-  },
-  {
-    "listing": "/simulations.html",
-    "items": [
-      "/simulations/fishmipCMIP5.html",
-      "/simulations/CMIP6phase1.html",
-      "/simulations/isimip3a.html"
     ]
   }
 ]
