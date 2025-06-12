@@ -71,7 +71,7 @@ website:
       background: "#9FD0D7" 
       left: "Copyright &copy; 2023 [Fish-MIP](https://github.com/Fish-MIP)"
       center: "Built using [Quarto](https://quarto.org/)"
-      right: "<img src='FishMIP_assets/UN_OceanDecadeLogo.png' alt='UN Ocean Decade Logo' style='height: 7.5em; vertical-align: middle;'>"
+      right: "<img src='/FishMIP_assets/UN_OceanDecadeLogo.png' alt='UN Ocean Decade Logo' style='height: 7.5em; vertical-align: middle;'>"
 format:
   html:
     theme: custom.scss
