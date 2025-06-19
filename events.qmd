@@ -2,21 +2,15 @@
 title: "Upcoming Events"
 ---
 
-Check out our upcoming events on this page.
+**FishMIP Regional Modelling Workshop** '*Advancing Regional Marine Ecosystem Modelling: From Southern Ocean to Global Perspectives* '. **June 24th-27th, 2025, Hobart, Australia and online (zoom)**.
 
-#### **Ad hoc online modeller meetings**
+**Ad hoc online modeller meetings**
 
 To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to find our more.
 
-#### Relevant Conferences in 2024/2025:
+#### Relevant Conferences in 2025
 
-[AMSA-NZMSS](https://www.amsa2024.amsa.asn.au/){.email-link}: Joint Australia & New Zealand Marine Science Conference, Hobart, Australia, 15-20 September 2024
-
-[IMBeR IMBIZO](https://imber.info/event/imbizo-7-transitioning-towards-sustainable-ocean-governance-by-2030-commitments-and-challenges/){.email-link}: Rabat, Morocco, 23-26 September 2024
-
-[PICES](https://meetings.pices.int/meetings/annual/2024/pices/scope){.email-link} Annual Meeting, Honolulu, HI, USA, Oct 26-Nov 1, 2024
-
-[Future Oceans 3](https://imber.info/events/future-oceans/){.email-link} - IMBeR Open Science Conference 2025, Columbia, March 2025
+**ICCB, Brisbane, Australia** - June 15th- 19th 2025
 
 #### Funding:
 

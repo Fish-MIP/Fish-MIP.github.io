@@ -239,6 +239,10 @@ body {
   letter-spacing: 1px;
 }
 
+strong, b {
+  font-weight: 900 !important;
+}
+
 h1,
 h2,
 h3,
@@ -383,4 +387,27 @@ th {
 /* Pause animation on hover */
 .marquee .content:hover {
   animation-play-state: paused;
+}
+
+
+/*email link color */
+.email-link {
+  color: $sblue2 !important;
+}
+
+/* to highlight any text in the website by increasing bold */
+.highlight-bold {
+  color: $gray-900 !important;  
+}
+
+/* making wider table */
+.wide-table {
+  width: 100vw;         /* full viewport width */
+  max-width: 100vw;
+  margin-left: calc(50% - 50vw);  /* center the container breaking out of the content width */
+}
+
+.wide-table table {
+  width: 100%;
+  table-layout: auto;  /* default, lets columns size to content */
 }
