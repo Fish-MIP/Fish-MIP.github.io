@@ -62,7 +62,7 @@ website:
       - text: Join us
         href: joinus.qmd
       - icon: twitter
-        href: https://twitter.com/fishmip
+        href: https://bsky.app/profile/fishmarinemip.bsky.social
         target: _blank
       - icon: github
         href: https://github.com/Fish-MIP

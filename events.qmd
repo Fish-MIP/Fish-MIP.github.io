@@ -4,7 +4,7 @@ title: "Upcoming Events"
 
 **FishMIP Regional Modelling Workshop** '*Advancing Regional Marine Ecosystem Modelling: From Southern Ocean to Global Perspectives* '. **June 24th-27th, 2025, Hobart, Australia and online (zoom)**.
 
-**Ad hoc online modeller meetings**
+#### **Ad hoc online modeller meetings**
 
 To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to find our more.
 
