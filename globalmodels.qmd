@@ -7,7 +7,7 @@ Coordinators: Camilla Novaglio & Ryan Heneghan
 
 | Model           | Modelers                                          |
 |-----------------|---------------------------------------------------|
-| APECOSM         | Olivier Maury, Nicholas Barrier                   |
+| APECOSM         | Olivier Maury, Nicolas Barrier                   |
 | BOATS           | Daniele Bianchi, Jerome Giet, Kim Scherrer        |
 | DBEM            | William Cheung, Juliano Palacios Abrantes         |
 | DBPM            | Julia Blanchard, Camilla Novaglio, Ryan Heneghan  |

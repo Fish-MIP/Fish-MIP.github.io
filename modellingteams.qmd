@@ -22,7 +22,7 @@ Our current global model members are listed below.
 +--------------------------------------------------------------+---------------------------------------------------+
 | Model                                                        | Modellers                                          |
 +==============================================================+===================================================+
-| [APECOSM](https://apecosm.org/)                              | Olivier Maury, Nicholas Barrier                   |
+| [APECOSM](https://apecosm.org/)                              | Olivier Maury, Nicolas Barrier                    |
 +--------------------------------------------------------------+---------------------------------------------------+
 | [BOATS](https://earthsystemdynamics.org/models/boats/)       | Daniele Bianchi, Jerome Giet, Kim Scherrer        |
 +--------------------------------------------------------------+---------------------------------------------------+
