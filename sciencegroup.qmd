@@ -10,7 +10,7 @@ For more specific help or requests you may wish to contact the relevant coordina
 
 **FishMIP overall lead:** [Julia Blanchard](mailto:julia.blanchard@utas.edu.au){.email-link}, IMAS- University of Tasmania
 
-**Global Marine Ecosystem Models and Fisheries Data:** [Camilla Novaglio](mailto:camilla.novaglio@utas.edu.au){.email-link}, IMAS-University of Tasmania & FAO and [Ryan Heneghan](mailto:ryan.heneghan@gmail.com){.email-link}, University of the Sunshine Coast
+**Global Marine Ecosystem Models and Fisheries Data:** [Camilla Novaglio](mailto:camilla.novaglio@leibniz-zmt.de){.email-link}, The Leibniz Centre for Tropical Marine Research (ZMT), and [Ryan Heneghan](mailto:r.heneghan@griffith.edu.au){.email-link}, Griffith University
 
 **Regional Marine Ecosystem Models and Downscaling:** [Kelly Ortega Cisneros](mailto:kelly.ortegacisneros@uct.ac.za){.email-link}, University of Cape Town
 
@@ -18,11 +18,11 @@ For more specific help or requests you may wish to contact the relevant coordina
 
 **Future Societal Scenarios:** [Olivier Maury](mailto:olivier.maury@ird.fr){.email-link} IRD; [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca){.email-link}, Marine Institute Memorial University; [Derek Tittensor](mailto:derek.tittensor@dal.ca){.email-link}, Dalhousie University
 
-**Science communication and outreach:** [Andrea Bryndum-Buchholz](mailto:andrea.buchholz@mi.mun.ca){.email-link},Marine Institute Memorial University and [Kelsey Roberts](mailto:kroberts3@lsu.edu){.email-link}, Louisiana State University
+**Science communication and outreach:** [Andrea Bryndum-Buchholz](mailto:andrea.buchholz@mi.mun.ca){.email-link}, Marine Institute Memorial University and [Kelsey Roberts](mailto:kroberts3@lsu.edu){.email-link}, Louisiana State University
 
 **Data scientist:** [Denisse Fierro-Arcos](mailto:lilian.fierroarcos@utas.edu.au){.email-link}, IMAS-University of Tasmania
 
-**Website:** [Sowdamini Sesha Prasad](mailto:sowdamini.seshaprasad@utas.edu.au){.email-link},IMAS-University of Tasmania
+**Website:** [Sowdamini Sesha Prasad](mailto:sowdamini.seshaprasad@utas.edu.au){.email-link}, IMAS-University of Tasmania
 
 **ISIMIP cross-sectoral studies:** [Julia Blanchard](mailto:julia.blanchard@utas.edu.au){.email-link} & [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca){.email-link}
 
