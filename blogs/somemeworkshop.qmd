@@ -1,6 +1,6 @@
 ---
 author: Sowdamini 
-date: 06/27/2025
+date: 08/27/2025
 categories: [regional modelling, Southern Ocean]
 ---
 
@@ -12,7 +12,8 @@ In June 2025, a group of 20+ scientists from all over the world gathered in chil
 
 Hosted by the Institute for Marine and Antarctic Studies (IMAS), University of Tasmania and co-funded by Australian Centre for Excellence in Antarctic Science (ACEAS), the Australian Antarctic Program Partnership (AAPP), and The Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP), the workshop discussions were collaborative, forward-looking and highlighted the urgency and complexity of modelling marine ecosystems in a changing climate. 
 
-![Dr Kieran Murphy (IMAS, UTAS and workshop coordinator) discussing progress made in Southern Ocean modelling](images/KieranatSOMEME.JPG)\
+![Dr Kieran Murphy (IMAS, UTAS and workshop coordinator) discussing progress made in Southern Ocean modelling](images/KieranatSOMEME.JPG)
+
 **A central theme** was the challenge of uncertainties in ecosystem models with a specific focus on southern ocean regional models as it is data-deficient. While FishMIP 2.0 has made significant advancements in standardising inputs and outputs and incorporating fishing impacts, regional models still face difficulties in downscaling global climate data and capturing fine-scale ecological processes. This is partly due to the diversity of regional models, each built for different purposes under varying assumptions. \
 
 ![Dr Kelly Ortega-Cisneros (University of Cape Town) describing progress made in regional modelling](images/KellyatSOMEME.JPG)
