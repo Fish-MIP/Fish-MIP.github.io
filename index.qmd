@@ -1,6 +1,10 @@
 ---
 page-layout: custom
 backgroundcolor: "#f8f9fa"
+editor: source
+pagetitle: Home | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
 ::: {#shutterstock .column-screen style="padding: 0em;margin-top: -1em"}
@@ -10,7 +14,9 @@ backgroundcolor: "#f8f9fa"
 :::: marquee
 ::: content
 Our latest FAO report "[**Climate change risks to marine ecosystems and fisheries**](https://openknowledge.fao.org/items/ae42f17d-4685-4c7e-8e3d-424cea16c8d4)**"** is now published!
+::: 
 
+::: content
 "**Fish face vast decline if emissions are not reduced!**"- Prof Julia Blanchard, IMAS, UTAS. Read Prof Blanchard's Dialogue Earth article [here](https://dialogue.earth/en/ocean/fish-face-vast-decline-if-emissions-are-not-reduced/).
 :::
 ::::
