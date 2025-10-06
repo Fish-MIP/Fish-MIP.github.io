@@ -21,9 +21,6 @@ Our latest FAO report "[**Climate change risks to marine ecosystems and fisherie
 :::
 ::::
 
-{{< video https://vimeo.com/927985005 >}}
-
-<div>
 
 #### **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)** {style="text-align: center; font-size:1.5rem"}
 
@@ -31,7 +28,11 @@ Our latest FAO report "[**Climate change risks to marine ecosystems and fisherie
 FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.
 :::
 
-<div>
+:::: {.grid .mx-3 .px-4 .my-2 .py-2}
+::: {.g-col-12 .g-col-xl-10 .g-start-xl-2 .text-center}
+{{< video https://vimeo.com/927985005 >}}
+:::
+::::
 
 #### We answer questions about the future of: {style="margin-left: 1em"}
 
