@@ -9,7 +9,7 @@ website:
   navbar:
     background: primary
     logo: "one_line_colour_logo.png"
-    logo-alt: FishMIP
+    logo-alt: FishMIP Home
     logo-href: /index.html
     collapse-below: lg
     right:
@@ -68,14 +68,14 @@ website:
         href: https://github.com/Fish-MIP
         target: _blank
   page-footer:
-      background: "#9FD0D7" 
-      left: "Copyright &copy; 2023 [Fish-MIP](https://github.com/Fish-MIP)"
+      background: primary
+      left: "<img src='/FishMIP_assets/UN_OceanDecadeLogo.png' alt='UN Ocean Decade Logo' style='height: 7.5em; vertical-align: middle;'>"
       center: "Built using [Quarto](https://quarto.org/)"
-      right: "<img src='/FishMIP_assets/UN_OceanDecadeLogo.png' alt='UN Ocean Decade Logo' style='height: 7.5em; vertical-align: middle;'>"
+      right: "Copyright &copy; 2023 [Fish-MIP](https://github.com/Fish-MIP)<br>Built using [Quarto](https://quarto.org/)<br>"
+
 format:
   html:
     theme: custom.scss
-    #css: styles.css
     toc: false
-    editor: visual
+    editor: source
     
