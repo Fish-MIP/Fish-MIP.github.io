@@ -65,12 +65,11 @@ website:
         #    href: datatools/tutorials.qmd
       #    - text: Terms of Use
         #    href: datatools/termsofuse.qmd
-
   page-footer:
       background: primary
       left: "<img src='/FishMIP_assets/UN_OceanDecadeLogo.png' alt='UN Ocean Decade Logo' style='height: 7.5em; vertical-align: middle;'>"
-      center: "Built using [Quarto](https://quarto.org/)"
-      right: "Copyright &copy; 2023 [Fish-MIP](https://github.com/Fish-MIP)<br>Built using [Quarto](https://quarto.org/)<br>"
+      center: "<br>Copyright &copy; 2023 [Fish-MIP](https://github.com/Fish-MIP)"
+      right: "Built using [Quarto](https://quarto.org/)<br>Report website issues [here](https://github.com/Fish-MIP/Fish-MIP.github.io)"
 
 format:
   html:
