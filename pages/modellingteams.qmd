@@ -1,6 +1,10 @@
 ---
-title: "Modelling Teams"
+pagetitle: Modelling Teams | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
+
+# Modelling Teams
 
 FishMIP simulations would not happen without the contributions of many marine ecosystem modellers working together from different regions of the world.
 
@@ -8,11 +12,11 @@ For more detailed information on each modelling team's past contributions to ISI
 
 FishMIP is an open community and continues to grow. Currently our ensemble comprises up to 9 global models and over 30 regional marine ecosystem models. Please refer to our Protocol Page to participate in our Simulation Rounds.
 
-### Global Modelling Teams
+## Global Modelling Teams
 
 **Coordinators:** Camilla Novaglio & Ryan Heneghan
 
-![Tittensor et al. 2021](images/tittensoretal2021.png)
+![Tittensor et al. 2021](../images/tittensoretal2021.png)
 
 Our global model ensemble has evolved through time and has supported a wide range of [studies](publications.html), including policy reports on long-term climate impacts for the IPCC 5th and 6th assessments.
 
@@ -20,21 +24,21 @@ Our current global model members are listed below.
 
 | Model | Modellers |
 |----|----|
-| [APECOSM](https://apecosm.org/) | Olivier Maury, Nicolas Barrier |
-| [BOATS](https://earthsystemdynamics.org/models/boats/) | Daniele Bianchi, Jerome Giet, Kim Scherrer |
-| [DBEM](https://coru.oceans.ubc.ca/research/) | William Cheung, Juliano Palacios Abrantes |
+| [APECOSM](https://apecosm.org/){target="_blank"} | Olivier Maury, Nicolas Barrier |
+| [BOATS](https://earthsystemdynamics.org/models/boats/){target="_blank"} | Daniele Bianchi, Jerome Giet, Kim Scherrer |
+| [DBEM](https://coru.oceans.ubc.ca/research/){target="_blank"} | William Cheung, Juliano Palacios Abrantes |
 | DBPM | Julia Blanchard, Camilla Novaglio, Ryan Heneghan |
-| [EcoOcean](https://ecopathinternational.org/ecoocean/) | Marta Coll, Jeroen Steenbeek, Villy Christensen |
+| [EcoOcean](https://ecopathinternational.org/ecoocean/){target="_blank"} | Marta Coll, Jeroen Steenbeek, Villy Christensen |
 | EcoTroph | Didier Gascuel, Vianney Guibourd de Luzinais |
 | FEISTY | Colleen Petrik, Daniel van Denderen, Ken Andersen |
 | MACROECOLOGICAL | Ryan Heneghan, Simon Jennnings |
-| [ZOOMS](https://github.com/MathMarEcol/ZoopModelSizeSpectra) | Jason Everett, Anthony Richardson |
+| [ZOOMS](https://github.com/MathMarEcol/ZoopModelSizeSpectra){target="_blank"} | Jason Everett, Anthony Richardson |
 
 ### Regional Modelling Teams
 
 **Regional Ecosystem Model coordinators:** Kelly Ortega (overall lead & Atlantis), Marta Coll (EwE), Phoebe Woodworth-Jefcoats (mizer), Yunne Shin (OSMOSE)
 
-![Figure created by Denisse Fierro Arcos](images/FishMIP_regional_models.png)
+![Figure created by Denisse Fierro Arcos](../images/FishMIP_regional_models.png)
 
 We are excited to currently have 34 regional marine ecosystem modelers, who have contributed shapefiles to our map above and are planning to contribute to our FishMIP 2.0 simulations. Not shown in map is KRILLPODYM by David Green and Southern Ocean MICE by Viv Tulloch. We also welcome variants of these or bespoke model types provided they are published and skill assessed. To ensure consistency and standardisation of our simulations please follow our specific regional model implementation guidelines. Or contact the relevant coordinators above for any questions.
 
@@ -124,4 +128,3 @@ We are striving towards regional model ensembles - case studies with more than o
 | :::                                   | :::                                            | :::                                 |                                                 |                                                 |
 +---------------------------------------+------------------------------------------------+-------------------------------------+-------------------------------------------------+-------------------------------------------------+
 
-#### 
