@@ -1,14 +1,14 @@
 ---
-page-layout: custom
-backgroundcolor: "#f8f9fa"
-editor: source
 pagetitle: Home | FishMIP
 description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+
+editor: source
+page-layout: custom
 ---
 
-::: {#shutterstock .column-screen style="padding: 0em;margin-top: -1em"}
-![](images/fush!.jpeg.jpg){.banner fig-align="center"}
+::: {.column-screen style="padding: 0em; margin-top: -1em"}
+![](images/fush.jpg){.banner fig-align="center"}
 :::
 
 :::: marquee
@@ -21,12 +21,19 @@ Our latest FAO report "[**Climate change risks to marine ecosystems and fisherie
 :::
 ::::
 
+:::: {.grid .mx-3 .px-4 .my-2 .py-2}
+::: {.g-col-12 style="margin-left: 1.5em;, margin-left: 1.5em;"}
+# Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)
+:::
 
-#### **Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)** {style="text-align: center; font-size:1.5rem"}
-
-::: {style="font-size: 1.25rem"}
+::: {.g-col-12 .text-center style="font-size: 1.5em"}
 FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.
 :::
+
+::: {.g-col-12 .text-center}
+Our goal is to bring together diverse marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy.
+:::
+::::
 
 :::: {.grid .mx-3 .px-4 .my-2 .py-2}
 ::: {.g-col-12 .g-col-xl-10 .g-start-xl-2 .text-center}
@@ -34,24 +41,62 @@ FishMIP is a network of more than 100 marine ecosystem modellers and researchers
 :::
 ::::
 
-#### We answer questions about the future of: {style="margin-left: 1em"}
+::::: {.grid .mx-4 .px-4 .my-2 .py-2 .align-items-center .jutify-contents-evenly}
+:::: {.g-col-12}
+# We answer questions about the future of:
+::::
 
--   Fish & Fisheries
--   Seafood supply
--   Marine biodiversity
--   Marine ecosystem functioning
-
-</div>
-
-::: {style="margin-left: 1.5em; margin-right: 1.5em"}
-|  |
-|----|
-| ![](nemow.jpg){.column-page fig-align="center" style="padding: 0em" width="1489"} |
-| Our goal is to bring together diverse marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy. |
-
-#### Part of a wider climate impact model community
-
-FishMIP contributes to the [**Intersectoral Impact ModelIntercomparisonProject (ISIMIP)**](https://www.isimip.org/){.email-link}.
+:::: {.grid .g-col-5 .g-start-2 .mx-4 .align-items-center .jutify-contents-evenly}
+::: {.g-col-4}
+![](images/icons/ship-solid-full.svg)
 :::
 
-</div>
+::: {.g-col-8 .text-center}
+### Fish & Fisheries
+:::
+::::
+
+:::: {.grid .g-col-5 .mx-4 .align-items-center .jutify-contents-evenly}
+::: {.g-col-4}
+![](images/icons/utensils-solid-full.svg)
+:::
+
+::: {.g-col-8 .text-center}
+### Seafood supply
+:::
+::::
+
+:::: {.grid .g-col-5 .g-start-2 .mx-4 .align-items-center .jutify-contents-evenly}
+::: {.g-col-4}
+![](images/icons/fish-fins-solid-full.svg)
+:::
+
+::: {.g-col-8 .text-center}
+### Marine biodiversity
+:::
+:::
+
+:::: {.grid .g-col-5 .mx-4 .align-items-center .jutify-contents-evenly}
+::: {.g-col-4}
+![](images/icons/earth-asia-solid-full.svg)
+:::
+
+::: {.g-col-8 .text-center}
+### Marine ecosystem functioning
+:::
+::::
+:::::
+
+:::: {.grid .column-screen .mx-4 .px-3 .my-3}
+::: {.g-col-12 .g-col-xl-10 .g-start-xl-2 .text-center}
+![](images/nemow.jpg){.column-page fig-align="center" style="padding: 0em" width="1489"}
+:::
+
+::: {.g-col-12}
+# Part of a wider climate impact model community
+:::
+
+::: {.g-col-12 .text-center style="margin-bottom: 3em;"}
+FishMIP contributes to the [**Intersectoral Impact ModelIntercomparisonProject (ISIMIP)**](https://www.isimip.org/){.email-link}.
+:::
+::::
