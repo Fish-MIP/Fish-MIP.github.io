@@ -4,7 +4,7 @@ description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 
 listing: 
-  contents: blogs/*qmd
+  contents: ../blogs/*qmd
   type: grid
   sort: "date desc"
   categories: true

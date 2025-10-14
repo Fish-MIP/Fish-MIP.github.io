@@ -3,12 +3,11 @@ project:
   output-dir: docs
 
 website:
-#  title: "Fish-MIP"
-  image: "one_line_colour_logo.png"
+  image: FishMIP_assets/one_line_colour_logo.png
   favicon: FishMIP_assets/one line logo/pngs/one-line-colour-logo_transparent_background.png
   navbar:
     background: primary
-    logo: "one_line_colour_logo.png"
+    logo: FishMIP_assets/one_line_colour_logo.png
     logo-alt: FishMIP Home
     logo-href: /index.html
     collapse-below: lg
@@ -16,15 +15,37 @@ website:
       - href: index.qmd
         text: Home
       - text: Approach
-        href: about.qmd
+        href: pages/about.qmd
       - text: People
         menu: 
           - text: Science Coordination Group
-            href: sciencegroup.qmd
+            href: pages/sciencegroup.qmd
           - text: Modelling Teams
-            href: modellingteams.qmd
+            href: pages/modellingteams.qmd
           - text: Working Groups
-            href: workinggroups.qmd
+            href: pages/workinggroups.qmd
+      - text: Protocols
+        href: pages/protocols.qmd
+      - text: Publications
+        href: pages/publications.qmd
+      - text: Data & Tools
+        href: pages/tools.qmd 
+      - text: News
+        menu: 
+          - text: Events
+            href: pages/events.qmd
+          - text: Blog
+            href: pages/blogs.qmd
+      - text: Join us
+        href: pages/joinus.qmd
+      - icon: twitter
+        href: https://bsky.app/profile/fishmarinemip.bsky.social
+        target: _blank
+      - icon: github
+        href: https://github.com/Fish-MIP
+        target: _blank
+        
+     # Not currently in use:
      # - text: Models
      #   menu: 
      #     - text: Global
@@ -32,41 +53,19 @@ website:
      #     - text: Regional
      #       href: regionalmodels.qmd
         #file: models.qmd
-      - text: Protocols
-        href: protocols.qmd
-      - text: Publications
-        href: publications.qmd
-      - text: Data & Tools
-        href: tools.qmd 
-      #  menu: 
-       #    - text: Outputs
-        #     href: outputs.qmd
-         #  - text: Tools
-          #   href: tools.qmd
-        #menu:
-        #  - text: Input Explorer 
-        #    href: datatools/interactivetool.qmd
-        #  - text: Country level outputs
-        #    href: datatools/inputexplorer.qmd
-         # - text: Tutorials
-          #  href: datatools/tutorials.qmd
-        #  - text: Terms of Use
-          #  href: datatools/termsofuse.qmd
-        #href: tools.qmd
-      - text: News
-        menu: 
-          - text: Events
-            href: events.qmd
-          - text: Blog
-            href: blogs.qmd
-      - text: Join us
-        href: joinus.qmd
-      - icon: twitter
-        href: https://bsky.app/profile/fishmarinemip.bsky.social
-        target: _blank
-      - icon: github
-        href: https://github.com/Fish-MIP
-        target: _blank
+      #    - text: Outputs
+      #      href: outputs.qmd
+       #   - text: Tools
+        #    href: tools.qmd
+      #    - text: Input Explorer 
+      #      href: datatools/interactivetool.qmd
+      #    - text: Country level outputs
+      #      href: datatools/inputexplorer.qmd
+       #   - text: Tutorials
+        #    href: datatools/tutorials.qmd
+      #    - text: Terms of Use
+        #    href: datatools/termsofuse.qmd
+
   page-footer:
       background: primary
       left: "<img src='/FishMIP_assets/UN_OceanDecadeLogo.png' alt='UN Ocean Decade Logo' style='height: 7.5em; vertical-align: middle;'>"
