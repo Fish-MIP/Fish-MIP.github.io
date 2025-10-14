@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  image: FishMIP_assets/one_line_colour_logo.png
-  favicon: FishMIP_assets/one line logo/pngs/one-line-colour-logo_transparent_background.png
+  image: /FishMIP_assets/one_line_colour_logo.png
+  favicon: /FishMIP_assets/one line logo/pngs/one-line-colour-logo_transparent_background.png
   navbar:
     background: primary
     logo: FishMIP_assets/one_line_colour_logo.png
@@ -77,4 +77,7 @@ format:
     theme: custom.scss
     toc: false
     editor: source
+    page-layout: full
+    # grid:
+    #   sidebar-width: 350px
     
