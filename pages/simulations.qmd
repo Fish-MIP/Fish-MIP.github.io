@@ -1,6 +1,6 @@
 ---
 listing: 
-  contents: simulations
+  contents: /simulations
   type: default
   sort: "date desc"
   categories: true

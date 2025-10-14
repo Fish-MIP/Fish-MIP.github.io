@@ -12,7 +12,7 @@ library(leaflet)
 library(readxl)
 
 #Read data from file
-datab <- read_excel("fishmipmembers11042024_V2.xlsx")
+datab <- read_excel("../fishmipmembers11042024_V2.xlsx")
 
 # Add a small offset to the latitude and longitude coordinates- increasing this will cause points to move significantly- CAUTION
 offset <- seq(0, 0.1, length.out = nrow(datab))

@@ -1,0 +1,14 @@
+---
+pagetitle: Blog | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+
+listing: 
+  contents: blogs/*qmd
+  type: grid
+  sort: "date desc"
+  categories: true
+
+editor: source
+page-layout: custom
+---
