@@ -1,12 +1,16 @@
 ---
-title: "Science Coordination"
+pagetitle: Science Coordination Group | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
+
+# Science Coordination Group
 
 All FishMIP activities and simulation experiments are designed and led by a dedicated group of coordinators. For general inquiries please contact us on [fishmip.coordinators\@gmail.com](mailto:fishmip.coordinators@gmail.com){.email-link}
 
 For more specific help or requests you may wish to contact the relevant coordinator(s) below:
 
-#### **The FishMIP Coordination Team:**
+## The FishMIP Coordination Team
 
 **FishMIP overall lead:** [Julia Blanchard](mailto:julia.blanchard@utas.edu.au){.email-link}, IMAS- University of Tasmania
 
@@ -22,18 +26,14 @@ For more specific help or requests you may wish to contact the relevant coordina
 
 **Data scientist:** [Denisse Fierro-Arcos](mailto:lilian.fierroarcos@utas.edu.au){.email-link}, IMAS-University of Tasmania
 
-**Website:** [Sowdamini Sesha Prasad](mailto:sowdamini.seshaprasad@utas.edu.au){.email-link}, IMAS-University of Tasmania
+**Website:** [Sowdamini Sesha Prasad](mailto:sowdamini.seshaprasad@utas.edu.au){.email-link}, IMAS-University of Tasmania, and [Tormey Reimer](mailto:tormey.reimer@utas.edu.au){.email-link}, IMAS-University of Tasmania
 
 **ISIMIP cross-sectoral studies:** [Julia Blanchard](mailto:julia.blanchard@utas.edu.au){.email-link} & [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca){.email-link}
 
-##### Previous Fish-MIP leadership:
+## Previous Fish-MIP leadership
 
--   **Derek Tittensor** (lead coordinator, 2017-2020)
-
--   **Eric Galbraith** (global model coordinator, 2014-2020)
-
--   **Heike Lotze** (lead coordinator, 2014-2016)
-
--   **Tyler Eddy** (regional model coordinator, 2014-2023)
-
--   **William Cheung** (global model coordinator, 2014-2016)
+* **Derek Tittensor** (lead coordinator, 2017-2020)
+* **Eric Galbraith** (global model coordinator, 2014-2020)
+* **Heike Lotze** (lead coordinator, 2014-2016)
+* **Tyler Eddy** (regional model coordinator, 2014-2023)
+* **William Cheung** (global model coordinator, 2014-2016)
