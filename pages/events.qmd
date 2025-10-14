@@ -1,11 +1,15 @@
 ---
-title: "Upcoming Events"
+pagetitle: Upcoming Events | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
-#### **Ad hoc online modeller meetings**
+# Upcoming Events
+
+## Ad hoc online modeller meetings
 
 To assist with simulation rounds we meet regularly with modelers to troubleshoot any issues and implementation. Please contact regional and global model coordinators to find our more.
 
-### Past events
+## Past events
 
-View a list of our past events [here](https://fishmip.org/pastevents.html){.email-link}
+View a list of our past events [here](pastevents.qmd).
