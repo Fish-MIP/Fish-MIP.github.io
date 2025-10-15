@@ -1,25 +1,37 @@
-#### **ISIMIP-Proclias cross-sectoral workshop**
+---
+pagetitle: Past Events | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+---
+
+# Past Events
+
+For a list of upcoming events see [Events](events.qmd).
+
+### ISIMIP-Proclias cross-sectoral workshop
 
 The ISIMIP-Proclias cross-sectoral workshop took place 16-19th May 2022. See full summary [here](https://www.isimip.org/outcomes/cross-sectoral-isimip-and-proclias-workshop-2022/).
 
-#### **FishMIP Community Virtual Meeting**, January 27th, 2023 (7-9 am AEDT)
+### FishMIP Community Virtual Meeting
 
-#### **FishMIP \@ 2024 Ocean Decade Conference**
+January 27th, 2023 (7-9 am AEDT)
 
-Check out our session and official Decade Action in [Barcelona](https://oceandecade.org/events/2024-ocean-decade-conference/), April 10-12, 2024 organised in collaboration with FAO and NOAA.
+### FishMIP \@ 2024 Ocean Decade Conference
 
-#### **ISIMIP-PROCLIAS Cross-Sectoral Workshop**
+Check out our session and official Decade Action in [Barcelona](https://oceandecade.org/events/2024-ocean-decade-conference/){target="_blank}, April 10-12, 2024 organised in collaboration with FAO and NOAA.
 
-The cross-sectoral ISIMIP and PROCLIAS workshop took place from **22 - 26 April 2024**. Located at PIK in Potsdam and online everywhere.
+### ISIMIP-PROCLIAS Cross-Sectoral Workshop
 
-Please see programme [here](https://www.isimip.org/outcomes/events/upcoming-cross-sectoral-isimip-proclias-workshop-2024/).
+The cross-sectoral ISIMIP and PROCLIAS workshop took place from 22 - 26 April 2024. Located at PIK in Potsdam and online everywhere.
 
-[AMSA-NZMSS](https://www.amsa2024.amsa.asn.au/){.email-link}: Joint Australia & New Zealand Marine Science Conference, Hobart, Australia, 15-20 September 2024
+Please see programme [here](https://www.isimip.org/outcomes/events/upcoming-cross-sectoral-isimip-proclias-workshop-2024/){target="_blank}.
 
-[IMBeR IMBIZO](https://imber.info/event/imbizo-7-transitioning-towards-sustainable-ocean-governance-by-2030-commitments-and-challenges/){.email-link}: Rabat, Morocco, 23-26 September 2024
+[AMSA-NZMSS](https://www.amsa2024.amsa.asn.au/){target="_blank}: Joint Australia & New Zealand Marine Science Conference, Hobart, Australia, 15-20 September 2024
 
-[PICES](https://meetings.pices.int/meetings/annual/2024/pices/scope){.email-link} Annual Meeting, Honolulu, HI, USA, Oct 26-Nov 1, 2024
+[IMBeR IMBIZO](https://imber.info/event/imbizo-7-transitioning-towards-sustainable-ocean-governance-by-2030-commitments-and-challenges/){target="_blank}: Rabat, Morocco, 23-26 September 2024
 
-[Future Oceans 3](https://imber.info/events/future-oceans/){.email-link} - IMBeR Open Science Conference 2025, Columbia, March 2025
+[PICES](https://meetings.pices.int/meetings/annual/2024/pices/scope){target="_blank} Annual Meeting, Honolulu, HI, USA, Oct 26-Nov 1, 2024
+
+[Future Oceans 3](https://imber.info/events/future-oceans/){target="_blank} - IMBeR Open Science Conference 2025, Columbia, March 2025
 
 **FishMIP Regional Modelling Workshop** '*Advancing Regional Marine Ecosystem Modelling: From Southern Ocean to Global Perspectives* '. **June 24th-27th, 2025, Hobart, Australia and online (zoom)**.

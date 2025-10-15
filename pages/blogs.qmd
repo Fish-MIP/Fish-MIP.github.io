@@ -10,5 +10,6 @@ listing:
   categories: true
 
 editor: source
-page-layout: custom
 ---
+
+# Welcome to the FishMIP Blog!

@@ -1,9 +1,12 @@
 ---
-title: "Publications"
-editor: visual
+pagetitle: Publications | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
-#### **Peer-reviewed literature**
+# Publications
+
+### Peer-reviewed literature
 
 1.  Cinner, J.E., Thiault, L., Caldwell, I., Ben, J., Blanchard, J.L., Coll, M., Diedrich, A., Eddy, T.D., Everett, J.D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G.G., Heneghan, R., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Müller, C., Novaglio, C., Palacios-Abrantes, J., Petrik, C.M., Rabearisoa, A., Steenbeek, J., Tittensor, D.P., Wamukota, A., Pollnac, R. 2022. [**The potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities**](https://doi.org/10.1038/s41467-022-30991-4). ***Nature Communications***, 13, 11.
 2.  Petrik, C.M., Luo, J.Y., Heneghan, R.F., Everett, J.D., Harrison, C.S., Richardson, A.J. 2022. [**Assessment and constraint of mesozooplankton in CMIP6 Earth system models**.](https://doi.org/10.1029/2022GB007367) ***Global Biogeochemical Cycles***, 36, e2022GB007367.
@@ -17,7 +20,7 @@ editor: visual
 10. Tittensor, D. P., Eddy, T. D., Lotze, H. K., Galbraith, E. D., Cheung, W., Barange, M., Blanchard, J. L., Bopp, L., Bryndum-Buchholz, A., Büchner, M., Bulman, C. M., Carozza, D. A., Christensen, V., Coll, M., Dunne, J. P., Fernandes, J. A., Fulton, E. A., Hobday, A. J., Huber, V., Jennings, S., Jones, M. C., Lehodey, P., Link, J. S., Mackinson, S., Maury, O., Niiranen, S., Oliveros-Ramos, R., Roy, T., Schewe, J., Shin, Y.-J., Silva, T., Stock, C. A., Steenbeek, J., Underwood, P. J., Volkholz, J., Watson, J. R., Walter, N. D. (2018). [**A protocol for the intercomparison of marine fishery and ecosystem models: Fish-MIP v1.0.**](https://www.geosci-model-dev.net/11/1421/2018/) ***Geosci. Model Dev.***, 11: 1421-1442.\
 11. Blanchard, J. L., Watson, R. A., Fulton, E. A., Cottrell, R. S., Nash, K. L., Bryndum-Buchholz, A., Büchner, M., Carozza, D. A., Cheung, W. W. L., Elliott, J., Davidson, L. N. K., Dulvy, N. K., Dunne, J. P., Eddy, T. D., Galbraith, E., Lotze, H. K., Maury, O., Müller, C., Tittensor, D. P., Jennings, S.(2017). [**Linked sustainability challenges and trade-offs among fisheries, aquaculture and agriculture.**](https://www.nature.com/articles/s41559-017-0258-8?mc_cid=afc113a672&mc_eid=5ec9edb8b0) ***Nat. Ecol. Evol.***, 1: 1240-1249.
 
-#### **Fish-MIP contributions to policy documents**
+### Fish-MIP contributions to policy documents
 
 1.  IPCC, (2022): [**Climate Change 2022: Impacts, Adaptation, and Vulnerability.**](https://doi:10.1017/9781009325844.)Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change \[H.-O. Pörtner, D.C. Roberts, M. Tignor, E.S. Poloczanska, K. Mintenbeck, A. Alegría, M. Craig, S. Langsdorf, S. Löschke, V. Möller, A. Okem, B. Rama (eds.)\]. Cambridge University Press. Cambridge University Press, Cambridge, UK and New York, NY, USA, 3056 pp.,
 

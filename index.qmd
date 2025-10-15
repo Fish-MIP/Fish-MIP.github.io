@@ -2,8 +2,6 @@
 pagetitle: Home | FishMIP
 description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
-
-editor: source
 page-layout: custom
 ---
 
