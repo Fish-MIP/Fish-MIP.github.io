@@ -1,8 +1,7 @@
 /*-- scss:defaults --*/
 
-$theme: "lux" !default;
+$theme: "sandstone" !default;
 
-//
 // Color system
 //
 
@@ -32,15 +31,23 @@ $sblue: #658C9F !default;
 $sblue2: #094867 !default;
 $navyblue2: #00165A !default;
 $gray-custom: #9FD0D7 !default;
-$blue3: #0F75BC !default;
 
-// changed from grey to black 
-$primary:       $gray-custom !default; 
-$secondary:     $white !default;
+$fishblue1:   #24265d;
+$fishblue2:   #2c3792;
+$fishblue3:   #3871c1;
+$fishblue4:   #50ade5;
+$fishblue5:   #b9def5;
+
+// Theme colours
+$primary:       $fishblue5; 
+$secondary:     $fishblue2;
+$accent1:       $fishblue2;
+$accent2:       $fishblue3;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
+
 $light:         $white !default;
 $dark:          $gray-800 !default;
 
@@ -54,6 +61,7 @@ $enable-rounded:            false !default;
 
 $body-bg:                   $white;
 $body-color:                $gray-800 !default;
+$body-font-weight:          350;
 
 // Fonts
 
@@ -96,8 +104,8 @@ $input-group-addon-bg:                  $gray-300 !default;
 $navbar-padding-y:                  0rem !default;
 $navbar-dark-hover-color:           $white !default;
 $navbar-light-color:                rgba($black, .3) !default;
-$navbar-light-hover-color:          $gray-900 !default;
-$navbar-light-active-color:         $gray-900 !default;
+$navbar-light-hover-color:          $fishblue3 !default;
+$navbar-light-active-color:         $fishblue1 !default;
 
 // Pagination
 
@@ -105,12 +113,15 @@ $pagination-border-color:           transparent !default;
 $pagination-hover-border-color:     $pagination-border-color !default;
 $pagination-disabled-border-color:  $pagination-border-color !default;
 
+// Links
+
+$link-color:            $fishblue2;
 
 /*-- scss:rules --*/
 
 // Variables
 
-$web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap" !default;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;500;600&display=swap" !default;
 @if $web-font-path {
   @import url($web-font-path);
 }
@@ -141,7 +152,8 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
     .nav-link {
       padding-top: 0.5rem;
       padding-bottom: 0.5rem; /* Ensure consistent padding */
-      color: $navyblue2 !important;
+      font-weight: 550;
+      letter-spacing: 0.5px;
       
       @media (max-width: 768px) {
         padding-top: 0.25rem;
@@ -170,10 +182,6 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
       padding: 0 1rem; /* Ensure button padding is consistent */
     }
   }
-}
-
-.bg-primary {
-  background-color: $gray-custom !important;
 }
 
 .bg-light {
@@ -236,7 +244,6 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 // Typography
 
 body {
-  font-weight: 200;
   letter-spacing: 1px;
 }
 
@@ -379,11 +386,12 @@ th {
   animation-play-state: paused;
 }
 
-/*email link color */
+/*email link color
 
 .email-link {
   color: $sblue2 !important;
 }
+ */
 
 /* to highlight any text in the website by increasing bold */
 .highlight-bold {

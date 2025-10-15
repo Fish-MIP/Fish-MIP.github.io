@@ -13,4 +13,8 @@ listing:
   image-placeholder: "../blogs/images/bannerphoto.jpeg"
 ---
 
+::: {.column-screen style="margin-top: -2.8em;"}
+![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+:::
+
 # Welcome to the FishMIP Blog!

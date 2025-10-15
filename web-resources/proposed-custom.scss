@@ -68,10 +68,12 @@ $h2-font-size:                1.75rem !default;
 $h3-font-size:                1.5rem !default;
 $h4-font-size:                1.25rem !default;
 $h5-font-size:                1rem !default;
-$h6-font-size:                .75rem !default;
+$h6-font-size:                0.75rem !default;
 $p-font-size:                 1.25rem !default;
 $headings-font-weight:        600 !default;
 $headings-color:              $gray-900 !default;
+$body-letter-spacing:         1px;
+$headings-letter-spacing:     2.5px;
 
 // Tables
 
@@ -246,15 +248,11 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 
 body {
   font-weight: 200;
-  letter-spacing: 1px;
+  //letter-spacing: 1px;
 }
 
 strong, b {
   font-weight: 900 !important;
-}
-
-h1, h2, h3, h4, h5 {
-  letter-spacing: 3px;
 }
 
 h1, h2 {

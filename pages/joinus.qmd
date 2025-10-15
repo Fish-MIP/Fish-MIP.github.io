@@ -4,6 +4,10 @@ description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
+::: {.column-screen style="margin-top: -2.8em;"}
+![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+:::
+
 # Join FishMIP
 
 FishMIP is a growing, open, and inclusive network with over 100 members across the globe. Our community consists of ecosystem modellers, Earth System modellers, climate impact researchers, fisheries researchers, policy-makers, in academic and non-academic sectors. We welcome contributions and members from diverse educational and geographic backgrounds at all career stages. ECRs are highly encouraged to apply!

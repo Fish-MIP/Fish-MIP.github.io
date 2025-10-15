@@ -6,7 +6,7 @@ page-layout: custom
 ---
 
 ::: {.column-screen style="padding: 0em; margin-top: -1em"}
-![](images/fush.jpg){.banner fig-align="center"}
+![](images/shutterstock_169126697 (3).jpeg){.banner fig-align="center"}
 :::
 
 :::: marquee
@@ -95,6 +95,6 @@ Our goal is to bring together diverse marine ecosystem models to help better und
 :::
 
 ::: {.g-col-12 .text-center style="margin-bottom: 3em;"}
-FishMIP contributes to the [**Intersectoral Impact ModelIntercomparisonProject (ISIMIP)**](https://www.isimip.org/){.email-link}.
+FishMIP contributes to the [**Intersectoral Impact ModelIntercomparisonProject (ISIMIP)**](https://www.isimip.org/).
 :::
 ::::
