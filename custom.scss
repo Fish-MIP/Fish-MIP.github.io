@@ -401,3 +401,15 @@ th {
   width: 100%;
   table-layout: auto;  /* default, lets columns size to content */
 }
+
+// Centre figure captions
+.figure-caption, figcaption, .figcaption {
+  text-align: center;
+}
+
+// Make the blog post titles look a little nicer
+.quarto-title, quarto-title {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
