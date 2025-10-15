@@ -38,7 +38,7 @@ website:
             href: pages/blogs.qmd
       - text: Join us
         href: pages/joinus.qmd
-      - icon: twitter
+      - icon: bluesky
         href: https://bsky.app/profile/fishmarinemip.bsky.social
         target: _blank
       - icon: github
