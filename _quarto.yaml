@@ -41,6 +41,12 @@ website:
       - icon: bluesky
         href: https://bsky.app/profile/fishmarinemip.bsky.social
         target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/company/fisheries-and-marine-ecosystem-model-intercomparison-project-fishmip
+        target: _blank
+      - text: '{{< iconify fa7-brands:google-scholar style="color:#00165A;" >}}'
+        href: https://scholar.google.com/citations?hl=en&user=qC76LesAAAAJ&view_op=list_works&sortby=pubdate
+        target: _blank
       - icon: github
         href: https://github.com/Fish-MIP
         target: _blank
@@ -79,4 +85,3 @@ format:
     page-layout: full
     # grid:
     #   sidebar-width: 350px
-    
