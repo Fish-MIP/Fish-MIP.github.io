@@ -1,15 +1,20 @@
 ---
-page-layout: full
-backgroundcolor: "#f8f9fa"
+pagetitle: Join Us | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
-Fishmip is a growing, open, and inclusive network with over 100 members across the globe. Our community consists of ecosystem modellers, Earth System modellers, climate impact researchers, fisheries researchers, policy-makers, in academic and non-academic sectors. We welcome contributions and members from diverse educational and geographic backgrounds at all career stages. ECRs are highly encouraged to apply!
+# Join FishMIP
 
-To become a member, please fill out [this form](https://forms.gle/gKbfzWwWR2dQnpgL9) and we will be in touch with you. If you have any queries, please contact our [team](mailto:fishmip.coordinators@gmail.com).
+FishMIP is a growing, open, and inclusive network with over 100 members across the globe. Our community consists of ecosystem modellers, Earth System modellers, climate impact researchers, fisheries researchers, policy-makers, in academic and non-academic sectors. We welcome contributions and members from diverse educational and geographic backgrounds at all career stages. ECRs are highly encouraged to apply!
+
+To become a member, please fill out [this form](https://forms.gle/gKbfzWwWR2dQnpgL9){target="_blank"} and we will be in touch with you. If you have any queries, please contact our [team](mailto:fishmip.coordinators@gmail.com).
+
+## Locations of our members
 
 ```{r, echo=FALSE}
-library(leaflet)
-library(readxl)
+suppressWarnings(library(leaflet, quietly = T, warn.conflicts = F))
+suppressWarnings(library(readxl, quietly = T, warn.conflicts = F))
 
 #Read data from file
 datab <- read_excel("../fishmipmembers11042024_V2.xlsx")

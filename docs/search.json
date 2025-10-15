@@ -93,9 +93,9 @@
   {
     "objectID": "pages/joinus.html",
     "href": "pages/joinus.html",
-    "title": "",
+    "title": "Join FishMIP",
     "section": "",
-    "text": "Fishmip is a growing, open, and inclusive network with over 100 members across the globe. Our community consists of ecosystem modellers, Earth System modellers, climate impact researchers, fisheries researchers, policy-makers, in academic and non-academic sectors. We welcome contributions and members from diverse educational and geographic backgrounds at all career stages. ECRs are highly encouraged to apply!\nTo become a member, please fill out this form and we will be in touch with you. If you have any queries, please contact our team.\n\n\nWarning: package 'leaflet' was built under R version 4.4.3\n\n\nWarning: package 'readxl' was built under R version 4.4.3"
+    "text": "FishMIP is a growing, open, and inclusive network with over 100 members across the globe. Our community consists of ecosystem modellers, Earth System modellers, climate impact researchers, fisheries researchers, policy-makers, in academic and non-academic sectors. We welcome contributions and members from diverse educational and geographic backgrounds at all career stages. ECRs are highly encouraged to apply!\nTo become a member, please fill out this form and we will be in touch with you. If you have any queries, please contact our team."
   },
   {
     "objectID": "pages/blogs.html",
