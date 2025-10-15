@@ -44,7 +44,7 @@ $danger:        $red !default;
 $light:         $white !default;
 $dark:          $gray-800 !default;
 
-$min-contrast-ratio:   2.3 !default;
+$min-contrast-ratio:   1.9 !default;
 
 // Options
 
@@ -52,7 +52,8 @@ $enable-rounded:            false !default;
 
 // Body
 
-$body-color:                $gray-700 !default;
+$body-bg:                   $white;
+$body-color:                $gray-800 !default;
 
 // Fonts
 
@@ -243,13 +244,12 @@ strong, b {
   font-weight: 900 !important;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-{
+h1, h2, h3, h4, h5 {
   letter-spacing: 3px;
+}
+
+h1, h2 {
+  text-align: center;
 }
 
 body {
@@ -320,18 +320,7 @@ th {
 // Containers
 
 .list-group-item {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  .h1,
-  .h2,
-  .h3,
-  .h4,
-  .h5,
-  .h6 {
+  h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: inherit;
   }
 }
@@ -349,6 +338,7 @@ th {
   max-height: 70px;
   width: auto;
   align-items: baseline;
+  margin: 0.5rem 0 0.5rem 0;
 }
 
 /*-- Custom CSS to remove space between navbar and image banner --*/
@@ -362,7 +352,7 @@ th {
   padding-top: 0 !important; /* Remove top padding */
 }
 
-//Custom Marquees for select text 
+// Custom Marquees for select text 
 .marquee {
   overflow: hidden;
   white-space: nowrap;
@@ -389,8 +379,8 @@ th {
   animation-play-state: paused;
 }
 
-
 /*email link color */
+
 .email-link {
   color: $sblue2 !important;
 }
@@ -411,3 +401,15 @@ th {
   width: 100%;
   table-layout: auto;  /* default, lets columns size to content */
 }
+
+// Centre figure captions
+.figure-caption, figcaption, .figcaption {
+  text-align: center;
+}
+
+// Make the blog post titles look a little nicer
+.quarto-title, quarto-title {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+

@@ -1,0 +1,28 @@
+---
+pagetitle: Science Coordination Group | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+---
+
+# Data and Tools
+
+We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.
+Please check our [Terms of Use](https://www.isimip.org/gettingstarted/terms-of-use/){target="_blank"} (via ISIMIP) if you would like to use these data for peer-reviewed research.
+
+## FishMIP Shiny
+
+[Country-level Ensemble Model Outputs](https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FAO_report_shiny/){target="_blank"}:
+Check out our Shinyapp (beta version) to visualise spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.
+
+[Input Explorer for Regional Modellers](https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FishMIP_Input_Explorer/){target="_blank"}:
+A Shinyapp to examine inputs per regional ecosystem model domain.
+
+## Tutorials
+
+R/Python tutorials for extracting data from ISIMIP servers, regional-scale model inputs from global gridded Earth System Models, or plotting outputs from FishMIP, using a regional shapefiles.
+
+-   [Accessing ISIMIP data](https://github.com/Fish-MIP/FishMIP_NOAA_workshop/blob/main/scripts/Accessing_climate_data_ISIMIP.md){target="_blank"}
+
+-   [Creating regional model maps from shapefiles](https://github.com/Fish-MIP/FishMIP_regions){target="_blank"}
+
+-   [Extracting data using regional mask](https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Extracting_FishMIP_data.md){target="_blank"}

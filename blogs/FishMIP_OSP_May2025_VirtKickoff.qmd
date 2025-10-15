@@ -1,22 +1,21 @@
 ---
+title: Kicking off the FishMIP-OSP Project
 date: 06/04/2025
 author: Andrea Bryndum-Buchholz
 ---
 
-# **Kicking off the FishMIP-OSP Project**
-
 ![Core FishMIP-OSP members at virtual kick-off meeting](images/kickoff_meeting_Zoom_group_screenshot.png){fig-alt="Core FishMIP-OSP members at virtual kick-off meeting" fig-align="center"}
 
-In early May, an exciting new initiative was launched — the [FishMIP-OSP Project](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fishmip_osp/). That’s right, another project packed with acronyms! This project sets out to forecast the future of global fisheries using the Ocean System Pathways (OSPs) scenarios, which outline both historical and projected socio-economic conditions for pelagic and bentho-demersal fisheries, as well as mariculture.
+In early May, an exciting new initiative was launched — the [FishMIP-OSP Project](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fishmip_osp/){targt="_blank"}. That’s right, another project packed with acronyms! This project sets out to forecast the future of global fisheries using the Ocean System Pathways (OSPs) scenarios, which outline both historical and projected socio-economic conditions for pelagic and bentho-demersal fisheries, as well as mariculture.
 
 The FishMIP-OSP project will provide to the FishMIP modeling community the models and drivers needed to simulate fisheries with any ecosystem model. It will streamline and standardize the data inputs and evaluation methods needed to assess the framework. It will also establish the simulation protocols required by the scientific community to produce ensemble projections of marine ecosystems and fisheries, as well as to evaluate historical simulations. The analysis will explore key issues such as climate justice, global food security, equity between the Global North and South, the future of mariculture, and biodiversity protection.
 
-Ultimately, the project's findings seek to inform policymaking at the [FAO](https://www.fao.org/home/en/) and contribute to upcoming [IPCC](https://www.ipcc.ch/) and [IPBES](https://www.ipbes.net/) assessments.
+Ultimately, the project's findings seek to inform policymaking at the [FAO](https://www.fao.org/home/en/){targt="_blank"} and contribute to upcoming [IPCC](https://www.ipcc.ch/){targt="_blank"} and [IPBES](https://www.ipbes.net/){targt="_blank"} assessments.
 
-Funded by and with active facilitation of the [Centre for the Synthesis and Analysis of Biodiversity (CESAB)](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/), this project will run from 2025 – 2028 and bring together specialists in marine ecology, biodiversity, fisheries, fisheries economics, fisheries policy, ecosystem and fleet modeling, climate change, statistical analyses, and scenarios, on a regular basis, either in person or virtually.
+Funded by and with active facilitation of the [Centre for the Synthesis and Analysis of Biodiversity (CESAB)](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/){targt="_blank"}, this project will run from 2025 – 2028 and bring together specialists in marine ecology, biodiversity, fisheries, fisheries economics, fisheries policy, ecosystem and fleet modeling, climate change, statistical analyses, and scenarios, on a regular basis, either in person or virtually.
 
 This May, the core project team met virtually, some more awake than others, as the locations of the diverse team members span multiple time zones, ranging from North America to central Europe, to Oceania.
 
-At the meeting, the project team discussed the roles and contributions of the FishMIP-OSP project members, including the need for a comprehensive communication strategy (btw. you can now find FishMIP on [LinkedIn](https://www.linkedin.com/company/fisheries-and-marine-ecosystem-model-intercomparison-project-fishmip/) and [Bluesky](https://bsky.app/profile/fishmarinemip.bsky.social)) to reach different user groups and the coordination with the International FishMIP community. The team also discussed the project's timeline, with a focus on the upcoming September in-person meeting.
+At the meeting, the project team discussed the roles and contributions of the FishMIP-OSP project members, including the need for a comprehensive communication strategy (btw. you can now find FishMIP on [LinkedIn](https://www.linkedin.com/company/fisheries-and-marine-ecosystem-model-intercomparison-project-fishmip/){targt="_blank"} and [Bluesky](https://bsky.app/profile/fishmarinemip.bsky.social){targt="_blank"}) to reach different user groups and the coordination with the International FishMIP community. The team also discussed the project's timeline, with a focus on the upcoming September in-person meeting.
 
 From 8-12 September 2025, the project team will meet in person in the CESAB offices in Montpellier, France. Stay tuned for project updates on this blog or on FishMIP’s social media.
