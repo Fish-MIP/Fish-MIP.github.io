@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="<p>Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.</p>">
 
-<title>inputexplorer</title>
+<title>Blog | FishMIP</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="..//FishMIP_assets/one line logo/pngs/one-line-colour-logo_transparent_background.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -69,7 +72,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -170,21 +231,209 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="cmVnaW9uYWwlMjBtb2RlbGxpbmc=">regional modelling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U291dGhlcm4lMjBPY2Vhbg==">Southern Ocean <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<section id="explore-the-beta-version-of-climate-forcing-data-explorer-here" class="level2">
-<h2 class="anchored" data-anchor-id="explore-the-beta-version-of-climate-forcing-data-explorer-here">Explore the beta version of climate forcing data explorer here!</h2>
-<iframe width="780" height="500" src="https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FAO_report_shiny/" title="World maps of projected fish biomass change"></iframe>
+<section id="welcome-to-the-fishmip-blog" class="level1">
+<h1>Welcome to the FishMIP Blog!</h1>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="cmVnaW9uYWwlMjBtb2RlbGxpbmclMkNTb3V0aGVybiUyME9jZWFu" data-listing-date-sort="1750946400000" data-listing-file-modified-sort="1758770173651" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="539">
+<a href="../blogs/somemeworkshop.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\blogs\images\FishMIPworkshopparticipantsHobart.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Advancing Regional Marine Ecosystem Modelling: From Southern Ocean to Global Perspectives
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('cmVnaW9uYWwlMjBtb2RlbGxpbmc='); return false;">regional modelling</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U291dGhlcm4lMjBPY2Vhbg=='); return false;">Southern Ocean</div>
+
+</div>
+<div class="card-text listing-description delink">
+In June 2025, a group of 20+ scientists from all over the world gathered in chilly Hobart, Tasmania and online to address a critical challenge- How do we tackle…<strong></strong>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sowdamini
+</div>
+<div class="listing-date">
+Jun 27, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1748959200000" data-listing-file-modified-sort="1760507666477" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="359">
+<a href="../blogs/FishMIP_OSP_May2025_VirtKickoff.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\blogs\images\kickoff_meeting_Zoom_group_screenshot.png" alt="Core FishMIP-OSP members at virtual kick-off meeting" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kicking off the FishMIP-OSP Project
+</h5>
+<div class="card-text listing-description delink">
+In early May, an exciting new initiative was launched — the FishMIP-OSP Project. That’s right, another project packed with acronyms! This project sets out to forecast the…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Andrea Bryndum-Buchholz
+</div>
+<div class="listing-date">
+Jun 4, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1695996000000" data-listing-file-modified-sort="1760507069374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
+<a href="../blogs/FishMIP-in-Hawaii.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\blogs\images\bannerphoto.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Full circle in Hawaii
+</h5>
+<div class="card-text listing-description delink">
+Ecosystem modellers from NOAA and FishMIP came together in Honolulu for the first joint National Ecosystem Modeling Workshop (NEMoW), to listen and learn from each other…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+FishMIP
+</div>
+<div class="listing-date">
+Sep 30, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-date-sort="1693490400000" data-listing-file-modified-sort="1760507450261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<a href="../blogs/fishMIP-NOAAworkshop092023.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\blogs\images\fishmip_at_nemow.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Joint FishMIP-NOAA Workshop
+</h5>
+<div class="card-text listing-description delink">
+<strong>Tuesday, August 29th - Friday, September 1,2023 Honolulu, Hawai’i, USA</strong>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+FishMIP
+</div>
+<div class="listing-date">
+Sep 1, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-date-sort="1690812000000" data-listing-file-modified-sort="1760507860884" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="272">
+<a href="../blogs/fishmipatprcolias.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\blogs\images\FishMIP_PRAGUE.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Future scenarios in the making, in historical Prague
+</h5>
+<div class="card-text listing-description delink">
+In June, several members of FishMIP attended and presented at the cross-sectoral ISIMIP-PROCLIAS workshop in Prague, Czech Republic. During this meeting, a wide variety of…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kelsey Roberts
+</div>
+<div class="listing-date">
+Aug 1, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-date-sort="1688652000000" data-listing-file-modified-sort="1760506902325" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="405">
+<a href="../blogs/fishmip-at-ECC05.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\images\fishmipECC05_1.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bergen: FishMIP at ECCWO5
+</h5>
+<div class="card-text listing-description delink">
+This spring, FishMIP coordinators and modellers descended on the beautiful city of Bergen, on Norway’s west coast. Contrary to everyone’s belief, the sun was shining and…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Andrea Bryndum-Buchholz
+</div>
+<div class="listing-date">
+Jul 7, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-date-sort="1688565600000" data-listing-file-modified-sort="1760506787474" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="497">
+<a href="../blogs/Climate-risk-marine-ecosystems.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\blogs\images\fishmipblog1.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Latest climate change projections reveal higher risks for marine ecosystems
+</h5>
+<div class="card-text listing-description delink">
+Policymakers, scientists, climate experts, and environmental activists came together for the 26<sup>th</sup> United Nations Climate Change Conference (COP26) to negotiate agreements to…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Andrea Bryndum-Buccholz
+</div>
+<div class="listing-date">
+Jul 6, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-date-sort="1665061200000" data-listing-file-modified-sort="1760507554791" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<a href="../blogs/fishMIP2022workshop.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\blogs\images\stjohnspic.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FishMIP 2022 International Workshop
+</h5>
+<div class="card-text listing-description delink">
+<strong>FishMIP 2022 International Workshop, St John’s, Newfoundland Canada and online</strong>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+FishMIP
+</div>
+<div class="listing-date">
+Oct 7, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
