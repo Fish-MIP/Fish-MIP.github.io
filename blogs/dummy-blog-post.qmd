@@ -1,0 +1,33 @@
+---
+title: "A catchy title" # This title appears on the blog listings page and also at the top of the blog entry page
+author: A Very Important Person
+date: 9/23/2025 # WARNING: this date must be formatted MONTH FIRST
+image: "images/bannerphoto.jpeg" # If there are no images in your blog post, you can specify a preview image here. If you don't need this image line, delete it.
+---
+
+<!-- Don't write the title again - if you've set "title" in the yaml header it will appear here automatically as an H1 header. -->
+
+<!-- The first image you include in the body text of your blog will automatically be chosen as the preview image for the listings page. If your blog post doesn't have any images, or you want to use a specific preview image, you can specify one in the header at the top of this page. If you don't want to do that, don't stress - the post will show a placeholder image of some pretty fish. -->
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Pretium tellus duis convallis tempus leo eu aenean. Iaculis massa nisl malesuada lacinia integer nunc posuere. Conubia nostra inceptos himenaeos orci varius natoque penatibus. Nulla molestie mattis scelerisque maximus eget fermentum odio. Blandit quis suspendisse aliquet nisi sodales consequat magna. 
+
+## This is an H2 header
+
+<!-- Include images like this. The text inside [] will appear as a caption below the picture. You can also leave it blank. -->
+
+![Caption goes here](images/bannerphoto.jpeg){width="80%" fig-alt="Alt text for my picture" fig-align="center"}
+
+<!-- Make sure to put your images in blogs/images, not in the main images folder! -->
+
+Velit aliquam imperdiet mollis nullam volutpat porttitor ullamcorper. 
+- Dui felis venenatis ultrices proin libero feugiat tristique. 
+- Cubilia curae hac habitasse platea dictumst lorem ipsum. 
+- Sem placerat in id cursus mi pretium tellus. Fringilla lacus nec metus bibendum egestas iaculis massa. 
+
+### This is an H3 header
+
+<!-- If you want to include a link to an external site, add {target="_blank} after the link URL. This will open the link in a new tab when a user click it. -->
+Taciti sociosqu ad litora torquent per conubia [nostra](https://google.com){target="_blank}. Ridiculus mus donec rhoncus eros lobortis nulla molestie. Mauris pharetra vestibulum fusce dictum risus blandit quis. Finibus facilisis dapibus etiam interdum tortor ligula congue. 
+
+Justo lectus commodo augue arcu dignissim velit aliquam. Primis vulputate ornare sagittis vehicula praesent dui felis. Senectus netus suscipit auctor curabitur facilisi cubilia curae. Quisque faucibus ex sapien vitae pellentesque sem placerat.
+

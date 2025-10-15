@@ -1,10 +1,9 @@
 ---
-author: Sowdamini 
+title: "Advancing Regional Marine Ecosystem Modelling: From Southern Ocean to Global Perspectives"
+author: Sowdamini Sesha Prasad
 date: 08/27/2025
 categories: [regional modelling, Southern Ocean]
 ---
-
-# Advancing Regional Marine Ecosystem Modelling: From Southern Ocean to Global Perspectives
 
 ![Workshop attendees cheerfully gather outside for a group shot despite the freezing cold weather](images/FishMIPworkshopparticipantsHobart.jpg)
 
@@ -24,8 +23,7 @@ The group also discussed the limitations of current Earth system models, the nee
 
 **A highlight of the workshop** was the hands-on session on AI-assisted ecosystem modelling, led by Dr Scott Spillias (CSIRO) and Dr Kieran Murphy. The participants explored how large language models (LLMs) and coding agents like Roo and Github Copilot can be used to assist model development, calibration and code translation. Activities included generating diet matrices, converting codes from one language to another and visualizing model outputs. 
 
-\
-While the potential of AI was clear, participants also acknowledged its limitations, emphasising the need for human oversight and careful validation of AI-generated models. \
+While the potential of AI was clear, participants also acknowledged its limitations, emphasising the need for human oversight and careful validation of AI-generated models.
 
 ![Prof Julia Blanchard (IMAS, UTAS, FishMIP lead) introducing the Ocean system pathways (OSPs) framework](images/JuliaatSOMEME.JPG)
 
