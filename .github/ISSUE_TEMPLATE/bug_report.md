@@ -1,23 +1,23 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: 'Bug: '
+title: "[BUG]: "
 labels: bug
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is - e.g. a broken link, a picture not loading, etc.
+A clear and concise description of what the bug is - e.g. a broken link, a picture not loading, or whatever you feel isn't behaving as expected.
 
 **To Reproduce**
-Let us know exactly where the bug is occurring. Include the page URL, an detailed explanation of what the problem is. If you get an error message, tell us what it says. 
+Let us know exactly where the bug is occurring. This may include specifying the page URL, a detailed explanation of what you were doing when you encountered the problem, and any error messages that came up.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what you expected to happen. If a link is broken, give us the correct link (if you know it).
 
 **Screenshots & Links**
-If applicable, add screenshots to help explain your problem. Links can also be helpful to pinpoint the problem or fix.
+If applicable, add screenshots to help explain your problem. This is particularly important if you're reporting problems in text formatting, picture sizing, or page layouts. Links can also be helpful to pinpoint the problem or fix.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
