@@ -50,6 +50,9 @@ website:
       - icon: github
         href: https://github.com/Fish-MIP
         target: _blank
+      - icon: youtube
+        href: https://www.youtube.com/@FishMIP
+        target: _blank
         
      # Not currently in use:
      # - text: Models
