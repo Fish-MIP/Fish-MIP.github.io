@@ -14,6 +14,6 @@ We use an ensemble modelling approach to combine the results from multiple ecosy
 
 We are using a two-track approach with our simulation experiments (see below). Our major improvements over past protocols include: 1) standardised global fishing drivers and 2) improved representation of coastal processes in our climate forcings. We are currently running simulation experiments to evaluate models for how well they can detect past ecosystem and fisheries changes and to work towards an attribution framework.
 
-More information on our current protocol (contributing to ISIMIP 3a) can be found [**here**](protocols.html){.email-link}.
+More information on our current protocol (contributing to ISIMIP 3a) can be found [**here**](protocols.qmd).
 
-FishMIP model outputs from past simulation rounds can be found [**here**](https://data.isimip.org/){.email-link}. You are welcome to use these data in your projects, but we encourage you to contact the FishMIP modellers and coordinators responsible for the work, and to reference the [**publications**](https://fish-mip.github.io/publications.html){.email-link} which provide further details. See ISIMIP's [**Terms of Use**](https://www.isimip.org/gettingstarted/terms-of-use/){.email-link} for further guidance.
+FishMIP model outputs from past simulation rounds can be found [**here**](https://data.isimip.org/){target="_blank"}. You are welcome to use these data in your projects, but we encourage you to contact the FishMIP modellers and coordinators responsible for the work, and to reference the [**publications**](publications.qmd) which provide further details. See ISIMIP's [**Terms of Use**](https://www.isimip.org/gettingstarted/terms-of-use/){target="_blank"} for further guidance.
