@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/pages/publications_listing.html",
+    "items": []
+  },
+  {
     "listing": "/pages/blogs.html",
     "items": [
       "/blogs/somemeworkshop.html",

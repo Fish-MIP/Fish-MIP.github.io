@@ -1,0 +1,54 @@
+---
+pagetitle: Publications | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+link-external-newwindow: true
+
+listing: 
+- id: journal-articles
+  type: grid
+  sort: "date desc"
+  categories: false
+  fields: [title, date, author, subtitle]
+  date-format: "YYYY"
+  grid-columns: 3
+  sort-ui: [title, date, author]
+
+  # List peer-reviewed publications here
+  contents: 
+    - path: https://doi.org/10.1139/facets-2023-0024
+      link-external: true
+      title: "Applying ensemble ecosystem model projections to future-proof marine conservation planning in the Northwest Atlantic Ocean"
+      subtitle: "FACETS"
+      author: "Bryndum-Buchholz, A., Blanchard, J. L., Coll, M., Pontavice, H. D., Everett, J. D., Guiet, J., Heneghan, R. F., Maury, O., Novaglio, C., Palacios-Abrantes, J. ... & Lotze, H. K."
+      date: "01-01-2023"
+      
+- id: policy-docs
+  type: grid
+  sort: "date desc"
+  categories: false
+  fields: [title, date, author, subtitle]
+  date-format: "YYYY"
+  grid-columns: 3
+  sort-ui: [title, date, author]
+  
+  # List peer-reviewed publications here
+  contents: 
+    - path: https://doi:10.1017/9781009325844
+      link-external: true
+      title: "Climate Change 2022: Impacts, Adaptation, and Vulnerability"
+      subtitle: "Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC)"
+      author: "H.-O. Pörtner, D.C. Roberts, M. Tignor, E.S. Poloczanska, K. Mintenbeck, A. Alegría, M. Craig, S. Langsdorf, S. Löschke, V. Möller, A. Okem, B. Rama (eds.)"
+      date: "01-01-2022"
+---
+
+## Peer-reviewed literature
+
+:::{#journal-articles}
+:::
+
+## FishMIP contributions to policy documents
+
+:::{#policy-docs}
+:::
+
