@@ -22,7 +22,7 @@ For more specific help or requests you may wish to contact the relevant coordina
 
 **Future Societal Scenarios:** [Olivier Maury](mailto:olivier.maury@ird.fr) IRD; [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca), Marine Institute Memorial University; [Derek Tittensor](mailto:derek.tittensor@dal.ca), Dalhousie University
 
-**Science communication and outreach:** [Andrea Bryndum-Buchholz](mailto:andrea.buchholz@mi.mun.ca), Marine Institute Memorial University and [Kelsey Roberts](mailto:kroberts3@lsu.edu), Louisiana State University
+**Science communication and outreach:** [Andrea Bryndum-Buchholz](mailto:andrea.buchholz@mi.mun.ca), Marine Institute Memorial University and [Kelsey Roberts](mailto:kroberts6@umassd.edu), University of Massachusetts Dartmouth
 
 **Data scientist:** [Denisse Fierro-Arcos](mailto:lilian.fierroarcos@utas.edu.au), IMAS-University of Tasmania
 

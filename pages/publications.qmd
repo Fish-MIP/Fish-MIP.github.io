@@ -40,7 +40,7 @@ description-meta: |
 
 * Blanchard, J. L., Watson, R. A., Fulton, E. A., Cottrell, R. S., Nash, K. L., Bryndum-Buchholz, A., Büchner, M., Carozza, D. A., Cheung, W. W. L., Elliott, J., Davidson, L. N. K., Dulvy, N. K., Dunne, J. P., Eddy, T. D., Galbraith, E., Lotze, H. K., Maury, O., Müller, C., Tittensor, D. P., Jennings, S.(2017). [**Linked sustainability challenges and trade-offs among fisheries, aquaculture and agriculture.**](https://www.nature.com/articles/s41559-017-0258-8?mc_cid=afc113a672&mc_eid=5ec9edb8b0){target="_blank"}. **Nature Ecology & Evolution**, 1:1240--1249.
 
-## Fish-MIP contributions to policy documents
+## FishMIP contributions to policy documents
 
 * IPCC, (2022): [**Climate Change 2022: Impacts, Adaptation, and Vulnerability.**](https://doi:10.1017/9781009325844){target="_blank"}. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [H.-O. Pörtner, D.C. Roberts, M. Tignor, E.S. Poloczanska, K. Mintenbeck, A. Alegría, M. Craig, S. Langsdorf, S. Löschke, V. Möller, A. Okem, B. Rama (eds.)]. Cambridge University Press. Cambridge University Press, Cambridge, UK and New York, NY, USA, 3056 pp..
 

@@ -25,12 +25,12 @@ Our current global model members are listed below.
 | Model | Modellers |
 |----|----|
 | [APECOSM](https://apecosm.org/){target="_blank"} | Olivier Maury, Nicolas Barrier |
-| [BOATS](https://earthsystemdynamics.org/models/boats/){target="_blank"} | Daniele Bianchi, Jerome Giet, Kim Scherrer |
+| [BOATS](https://earthsystemdynamics.org/models/boats/){target="_blank"} | Daniele Bianchi, Jerome Guiet, Kim Scherrer |
 | [DBEM](https://coru.oceans.ubc.ca/research/){target="_blank"} | William Cheung, Juliano Palacios Abrantes |
 | DBPM | Julia Blanchard, Camilla Novaglio, Ryan Heneghan |
 | [EcoOcean](https://ecopathinternational.org/ecoocean/){target="_blank"} | Marta Coll, Jeroen Steenbeek, Villy Christensen |
 | EcoTroph | Didier Gascuel, Vianney Guibourd de Luzinais |
-| FEISTY | Colleen Petrik, Daniel van Denderen, Ken Andersen |
+| FEISTY | Colleen Petrik, Daniël van Denderen, Ken Andersen |
 | MACROECOLOGICAL | Ryan Heneghan, Simon Jennnings |
 | [ZOOMS](https://github.com/MathMarEcol/ZoopModelSizeSpectra){target="_blank"} | Jason Everett, Anthony Richardson |
 
