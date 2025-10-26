@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/pages/publications_listing.html",
-    "items": []
-  },
-  {
     "listing": "/pages/blogs.html",
     "items": [
       "/blogs/somemeworkshop.html",
@@ -15,6 +11,10 @@
       "/blogs/Climate-risk-marine-ecosystems.html",
       "/blogs/fishMIP2022workshop.html"
     ]
+  },
+  {
+    "listing": "/pages/publications.html",
+    "items": []
   },
   {
     "listing": "/pages/simulations.html",
