@@ -1,13 +1,18 @@
 ---
-title: Global modelling teams
-editor: visual
+pagetitle: Global modelling teams | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
+
+::: {.column-screen style="margin-top: -2.8em;"}
+![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+:::
 
 Coordinators: Camilla Novaglio & Ryan Heneghan
 
 | Model           | Modelers                                          |
 |-----------------|---------------------------------------------------|
-| APECOSM         | Olivier Maury, Nicolas Barrier                   |
+| APECOSM         | Olivier Maury, Nicolas Barrier                    |
 | BOATS           | Daniele Bianchi, Jerome Giet, Kim Scherrer        |
 | DBEM            | William Cheung, Juliano Palacios Abrantes         |
 | DBPM            | Julia Blanchard, Camilla Novaglio, Ryan Heneghan  |

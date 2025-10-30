@@ -167,3 +167,7 @@ listing:
       author: "Díaz, S., Settele, J., Brondizio E.S., Ngo, H. T. , Guèze, M., Agard, J., Arneth, A., Balvanera, P., Brauman, K. A., Butchart, S. H. M., Chan, K. M. A., Garibaldi, L. A., Ichii, K., Liu, J., Subramanian, S. M., Midgley, G. F., Miloslavich, P., Molnár, Z., Obura, D., Pfaff, A., Polasky, S., Purvis, A., Razzaque, J., Reyers, B., Chowdhury, R. R., Shin, Y.-J., Visseren-Hamakers, I. J., Willis, K. J., Zayas, C. N. (eds.)"
       date: "01-01-2019"
 ---
+
+::: {.column-screen style="margin-top: -2.8em;"}
+![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+:::

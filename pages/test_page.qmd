@@ -1,6 +1,7 @@
 ---
-title: "test_page"
-format: html
+pagetitle: "test_page"
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
 ::: {.column-screen style="margin-top: -2.8em;"}

@@ -1,7 +1,12 @@
 ---
-title: Regional modelling teams
-editor: visual
+pagetitle: Regional modelling teams | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
+
+::: {.column-screen style="margin-top: -2.8em;"}
+![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+:::
 
 Kelly Ortega Cisneros (lead coordinator)
 

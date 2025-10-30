@@ -1,11 +1,14 @@
 ---
-title: "Members"
-editor: visual
+pagetitle: Members | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
-### Current FishMIP Members:
+::: {.column-screen style="margin-top: -2.8em;"}
+![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+:::
 
-------------------------------------------------------------------------
+### Current FishMIP Members
 
 Manuel Barange (FAO, Italy)
 
