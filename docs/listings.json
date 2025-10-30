@@ -13,6 +13,10 @@
     ]
   },
   {
+    "listing": "/pages/publications.html",
+    "items": []
+  },
+  {
     "listing": "/pages/simulations.html",
     "items": [
       "/simulations/CMIP6phase1.html",

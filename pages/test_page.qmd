@@ -1,0 +1,9 @@
+---
+title: "test_page"
+format: html
+---
+
+::: {.column-screen style="margin-top: -2.8em;"}
+![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+:::
+

@@ -51,6 +51,9 @@ website:
       - icon: github
         href: https://github.com/Fish-MIP
         target: _blank
+      - icon: youtube
+        href: https://www.youtube.com/@FishMIP
+        target: _blank
         
      # Not currently in use:
      # - text: Models
@@ -75,8 +78,8 @@ website:
   page-footer:
       background: primary
       left: "<img src='/FishMIP_assets/UN_OceanDecadeLogo.png' alt='UN Ocean Decade Logo' style='height: 7.5em; vertical-align: middle;'>"
-      center: "<br>Copyright &copy; 2023 [Fish-MIP](https://github.com/Fish-MIP)"
-      right: "Built using [Quarto](https://quarto.org/)<br>Report website issues [here](https://github.com/Fish-MIP/Fish-MIP.github.io)"
+      center: "<br>Copyright &copy; 2023 [FishMIP](https://github.com/Fish-MIP)"
+      right: "Built using [Quarto](https://quarto.org/)<br>Report website issues [here](https://github.com/Fish-MIP/Fish-MIP.github.io/issues)"
 
 format:
   html:
@@ -84,5 +87,6 @@ format:
     toc: false
     editor: source
     page-layout: full
+    anchor-sections: false
     # grid:
     #   sidebar-width: 350px
