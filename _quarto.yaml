@@ -25,6 +25,8 @@ website:
             href: pages/modellingteams.qmd
           - text: Working Groups
             href: pages/workinggroups.qmd
+          - text: Join us
+            href: pages/joinus.qmd
       - text: Protocols
         href: pages/protocols.qmd
       - text: Publications
@@ -37,8 +39,6 @@ website:
             href: pages/events.qmd
           - text: Blog
             href: pages/blogs.qmd
-      - text: Join us
-        href: pages/joinus.qmd
       - icon: bluesky
         href: https://bsky.app/profile/fishmarinemip.bsky.social
         target: _blank
