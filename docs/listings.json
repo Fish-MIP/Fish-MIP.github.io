@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/pages/simulations.html",
+    "items": [
+      "/simulations/CMIP6phase1.html",
+      "/simulations/fishmipCMIP5.html",
+      "/simulations/isimip3a.html"
+    ]
+  },
+  {
     "listing": "/pages/blogs.html",
     "items": [
       "/blogs/somemeworkshop.html",
@@ -15,13 +23,5 @@
   {
     "listing": "/pages/publications.html",
     "items": []
-  },
-  {
-    "listing": "/pages/simulations.html",
-    "items": [
-      "/simulations/CMIP6phase1.html",
-      "/simulations/fishmipCMIP5.html",
-      "/simulations/isimip3a.html"
-    ]
   }
 ]
