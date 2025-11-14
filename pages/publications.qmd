@@ -15,7 +15,7 @@ listing:
   sort-ui: [title, date, author]
 
   contents: 
-  # List peer-reviewed publications here
+  # List peer-reviewed publications here. I have limited the author list to ten (the first nine and the last one) to save on page space
     - path: https://doi.org/10.1139/facets-2023-0024
       link-external: true
       title: "Applying ensemble ecosystem model projections to future-proof marine conservation planning in the Northwest Atlantic Ocean"
