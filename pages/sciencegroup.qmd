@@ -4,10 +4,11 @@ description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
-::: {.column-screen style="margin-top: -2.8em;"}
-![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+::: {.column-screen style="margin-top: -2.9em;"}
+![](../images/shutterstock_169126697%20(4).jpeg){.banner fig-align="center"}
 :::
 
+::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5}
 # Science Coordination Group
 
 All FishMIP activities and simulation experiments are designed and led by a dedicated group of coordinators. For general inquiries please contact us on [fishmip.coordinators\@gmail.com](mailto:fishmip.coordinators@gmail.com)
@@ -41,3 +42,4 @@ For more specific help or requests you may wish to contact the relevant coordina
 * **Heike Lotze** (lead coordinator, 2014-2016)
 * **Tyler Eddy** (regional model coordinator, 2014-2023)
 * **William Cheung** (global model coordinator, 2014-2016)
+:::

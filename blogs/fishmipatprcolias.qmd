@@ -2,6 +2,9 @@
 title: Future scenarios in the making, in historical Prague
 author: Kelsey Roberts
 date: 08/01/2023
+format:
+  html:
+    page-layout: article
 ---
 
 In June, several members of FishMIP attended and presented at the [cross-sectoral ISIMIP-PROCLIAS workshop in Prague,](https://www.isimip.org/outcomes/upcoming-cross-sectoral-isimip-proclias-workshop-2023/){target="_blank"} Czech Republic. During this meeting, a wide variety of plenary sessions and parallel meetings took place and individual sectors (e.g., forest, water, fisheries, agriculture, permafrost, health, lakes) provided updates on recent simulation results as well as initiatives to properly address representative key risks highlighted in the IPCC report. Myself, Julia Blanchard, Camilla Novaglio and Tyler Eddy participated in an afternoon panel session to present recent Fish-MIP results to the broader ISIMIP community on pathways to reduce uncertainties in the marine ecosystem models and mismatches in global vs. regional model climate projections, respectively.

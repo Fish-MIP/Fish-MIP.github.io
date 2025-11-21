@@ -3,6 +3,9 @@ title: "A catchy title" # This title appears on the blog listings page and also 
 author: A Very Important Person
 date: 9/23/2025 # WARNING: this date must be formatted MONTH FIRST
 image: "images/bannerphoto.jpeg" # If there are no images in your blog post, you can specify a preview image here. If you don't need this image line, delete it.
+format:
+  html:
+    page-layout: article
 ---
 
 <!-- Don't write the title again - if you've set "title" in the yaml header it will appear here automatically as an H1 header. -->

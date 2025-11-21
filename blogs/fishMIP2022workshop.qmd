@@ -2,6 +2,9 @@
 title: FishMIP 2022 International Workshop
 author: FishMIP
 date: 10/07/2022
+format:
+  html:
+    page-layout: article
 ---
 
 **FishMIP 2022 International Workshop, St John's, Newfoundland Canada and online**

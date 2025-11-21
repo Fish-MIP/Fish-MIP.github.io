@@ -4,10 +4,11 @@ description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
-::: {.column-screen style="margin-top: -2.8em;"}
-![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+::: {.column-screen style="margin-top: -2.9em;"}
+![](../images/shutterstock_169126697%20(4).jpeg){.banner fig-align="center"}
 :::
 
+::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5}
 # Upcoming Events
 
 ## Ad-hoc online modeller meetings
@@ -17,3 +18,4 @@ To assist with simulation rounds we meet regularly with modelers to troubleshoot
 ## Past events
 
 View a list of our past events [here](pastevents.qmd).
+:::

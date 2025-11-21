@@ -351,6 +351,7 @@ th {
 /*-- Custom CSS to remove space between navbar and image banner --*/
 .banner {
   margin-top: 0; /* Set the margin-top to 0 for the .banner class */
+  padding-top: 0;
 }
 
 /*-- Custom CSS to remove space between navbar and image banner --*/
@@ -424,3 +425,27 @@ th {
 .listing-author {
   text-transform: none;
 }
+
+.quarto-listing {
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+}
+
+@media(min-width: 992px) {
+    body .page-columns {
+        display: block;
+    }
+}
+
+@media(max-width: 991.98px) {
+    body .page-columns {
+        display: block;
+    }
+}
+
+@media(max-width: 767.98px) {
+    body .page-columns,body.fullcontent:not(.floating):not(.docked) .page-columns,body.slimcontent:not(.floating):not(.docked) .page-columns,body.docked .page-columns,body.docked.slimcontent .page-columns,body.docked.fullcontent .page-columns,body.floating .page-columns,body.floating.slimcontent .page-columns,body.floating.fullcontent .page-columns {
+        display: block;
+    }
+}
+

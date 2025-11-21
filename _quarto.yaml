@@ -86,7 +86,5 @@ format:
     theme: custom.scss
     toc: false
     editor: source
-    page-layout: full
     anchor-sections: false
-    # grid:
-    #   sidebar-width: 350px
+    page-layout: full

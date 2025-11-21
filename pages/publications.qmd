@@ -168,6 +168,26 @@ listing:
       date: "01-01-2019"
 ---
 
-::: {.column-screen style="margin-top: -2.8em;"}
-![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+::: {.column-screen style="margin-top: -2.9em;"}
+![](../images/shutterstock_169126697%20(4).jpeg){.banner fig-align="center"}
+:::
+
+::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5}
+# Publications
+
+Below is a list of publications about FishMIP's models, protocols, data, and analysis. If you would like your publication added to this list, please email [Julia Blanchard](mailto:julia.blanchard@utas.edu.au).
+
+## Peer-reviewed articles
+:::
+
+::: {#journal-articles}
+
+:::
+
+::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5}
+## Reports & policy documents
+:::
+
+::: {#policy-docs}
+
 :::

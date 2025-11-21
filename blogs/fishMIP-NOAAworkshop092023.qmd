@@ -2,6 +2,9 @@
 title: Joint FishMIP-NOAA Workshop
 author: FishMIP
 date: 09/01/2023
+format:
+  html:
+    page-layout: article
 ---
 
 **Tuesday, August 29th - Friday, September 1,2023 Honolulu, Hawai'i, USA**

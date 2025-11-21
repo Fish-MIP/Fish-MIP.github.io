@@ -2,6 +2,9 @@
 title: "Bergen: FishMIP at ECCWO5"
 author: Andrea Bryndum-Buchholz
 date: 07/07/2023
+format:
+  html:
+    page-layout: article
 ---
 
 This spring, FishMIP coordinators and modellers descended on the beautiful city of Bergen, on Norway's west coast. Contrary to everyone's belief, the sun was shining and stayed with us all week. The occasion that brought us together --- the 5th Symposium on the Effects of Climate Change on the World's Ocean. At this symposium, scientists from all corners of the world highlighted the latest information on how oceans are changing, the inherent risks that come with those changes, and strategies for increasing climate resilience, mitigation, and adaptation.

@@ -3,6 +3,9 @@ title: "Advancing Regional Marine Ecosystem Modelling: From Southern Ocean to Gl
 author: Sowdamini Sesha Prasad
 date: 08/27/2025
 categories: [regional modelling, Southern Ocean]
+format:
+  html:
+    page-layout: article
 ---
 
 ![Workshop attendees cheerfully gather outside for a group shot despite the freezing cold weather](images/FishMIPworkshopparticipantsHobart.jpg)

@@ -2,7 +2,14 @@
 pagetitle: Home | FishMIP
 description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
-page-layout: custom
+format:
+  html:
+    page-layout: custom
+    grid:
+      body-width: 1000px
+      sidebar-width: 200px
+      margin-width: 200px
+      gutter-width: 1.5em
 ---
 
 ::: {.column-screen style="padding: 0em; margin-top: -1em"}

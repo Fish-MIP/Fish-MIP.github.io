@@ -4,10 +4,11 @@ description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
-::: {.column-screen style="margin-top: -2.8em;"}
-![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+::: {.column-screen style="margin-top: -2.9em;"}
+![](../images/shutterstock_169126697%20(4).jpeg){.banner fig-align="center"}
 :::
 
+::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5}
 # Data and Tools
 
 We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.
@@ -30,3 +31,4 @@ R/Python tutorials for extracting data from ISIMIP servers, regional-scale model
 -   [Creating regional model maps from shapefiles](https://github.com/Fish-MIP/FishMIP_regions){target="_blank"}
 
 -   [Extracting data using regional mask](https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Extracting_FishMIP_data.md){target="_blank"}
+:::

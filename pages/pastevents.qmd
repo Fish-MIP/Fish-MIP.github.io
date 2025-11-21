@@ -4,10 +4,11 @@ description-meta: |
     Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
 ---
 
-::: {.column-screen style="margin-top: -2.8em;"}
-![](../images/shutterstock_169126697 (4).jpeg){.banner fig-align="center"}
+::: {.column-screen style="margin-top: -2.9em;"}
+![](../images/shutterstock_169126697%20(4).jpeg){.banner fig-align="center"}
 :::
 
+::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5}
 # Past Events
 
 For a list of upcoming events see [Events](events.qmd).
@@ -39,3 +40,4 @@ Please see programme [here](https://www.isimip.org/outcomes/events/upcoming-cros
 [Future Oceans 3](https://imber.info/events/future-oceans/){target="_blank"} - IMBeR Open Science Conference 2025, Columbia, March 2025
 
 **FishMIP Regional Modelling Workshop** '*Advancing Regional Marine Ecosystem Modelling: From Southern Ocean to Global Perspectives* '. **June 24th-27th, 2025, Hobart, Australia and online (zoom)**.
+:::

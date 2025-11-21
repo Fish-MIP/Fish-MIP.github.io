@@ -2,6 +2,9 @@
 title: Full circle in Hawaii
 author: FishMIP
 date: 09/30/2023
+format:
+  html:
+    page-layout: article
 ---
 
 ![](images/bannerphoto.jpeg)
