@@ -27,12 +27,16 @@ website:
             href: pages/workinggroups.qmd
           - text: Join us
             href: pages/joinus.qmd
-      - text: Protocols
-        href: pages/protocols.qmd
+      # - text: OSP
+      #   href: pages/OSP.qmd
       - text: Publications
         href: pages/publications.qmd
       - text: Data & Tools
-        href: pages/tools.qmd 
+        menu:
+          - text: Protocols
+            href: pages/protocols.qmd
+          - text: Tools
+            href: pages/tools.qmd 
       - text: News
         menu: 
           - text: Events
