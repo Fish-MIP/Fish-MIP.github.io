@@ -196,6 +196,23 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;3
   margin-right: 0rem;
 }
 
+.navbar-logo {
+  height: 100%;
+  max-height: 70px;
+  width: auto;
+  align-items: baseline;
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+// Footer
+
+.nav-footer {
+  color: black;
+  & a {
+    color: var(--bs-secondary);
+  }
+}
+
 // Buttons
 
 .btn {
@@ -344,15 +361,6 @@ th {
   }
 }
 
-/*-- navbar --*/
-.navbar-logo {
-  height: 100%;
-  max-height: 70px;
-  width: auto;
-  align-items: baseline;
-  margin: 0.5rem 0 0.5rem 0;
-}
-
 /*-- Custom CSS to remove space between navbar and image banner --*/
 .banner {
   margin-top: 0; /* Set the margin-top to 0 for the .banner class */
@@ -391,13 +399,6 @@ th {
 .marquee .content:hover {
   animation-play-state: paused;
 }
-
-/*email link color
-
-.email-link {
-  color: $sblue2 !important;
-}
- */
 
 /* to highlight any text in the website by increasing bold */
 .highlight-bold {
