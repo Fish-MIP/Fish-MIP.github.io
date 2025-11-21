@@ -139,6 +139,13 @@ listing:
   
   # List policy docs here
   contents: 
+    - path: https://doi.org/10.4060/cd1379en
+      link-external: true
+      title: "Climate change risks to marine ecosystems and fisheries"
+      subtitle: "Projections to 2100 from the Fisheries and Marine Ecosystem Model Intercomparison Project"
+      author: "J. Blanchard, C. Novaglio"
+      date: "01-01-2024"
+
     - path: https://doi.org/10.1017/9781009325844
       link-external: true
       title: "Climate Change 2022: Impacts, Adaptation, and Vulnerability"
