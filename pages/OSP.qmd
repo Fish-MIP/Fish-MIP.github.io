@@ -1,0 +1,67 @@
+---
+pagetitle: Join Us | FishMIP
+description-meta: |
+    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+---
+
+::: {.column-screen style="margin-top: -2.9em;"}
+![](../images/shutterstock_169126697%20(4).jpeg){.banner fig-align="center"}
+:::
+
+::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5 style="margin-bottom: 3.5rem;"}
+# Ocean System Pathways
+
+### What are the Ocean System Pathways?
+
+The Ocean System Pathways (OSPs) are a scenario framework designed to explore future states of marine ecosystems, fisheries, and aquaculture, by linking socio-economic, management and environmental drivers. In other words, they extend the widely used Shared Socioeconomic Pathways (SSPs) from climate research into the ocean domain, leading to five OSPs. These OSPs consider capture fisheries and aquaculture; they also explicitly consider policy and justice issues, such as climate justice, food security, equitable fisheries. The key components of the OSP framework are described below, details are provided in these published papers.
+
+## Key components of the OSP framework
+
+#### Qualitative storylines
+For each OSP, a narrative storyline describes how drivers, such as economic growth, trade, technology, governance regimes, management effectiveness, equity, evolve in the ocean context. 
+
+::: {.p style="color: #007bff;"}
+* OSP1: “Sustainability first” – strong environmental and trade cooperation, effective governance, sustainable fisheries, strong stewardship. 
+:::
+
+::: {.p style="color: #fd7e14;"}
+* OSP2: “Conventional trends” – business-as-usual continuation of current trajectories, moderate governance, moderate sustainability.  
+:::
+
+::: {.p style="color: #919aa1;"}
+* OSP3: “Dislocation” – fragmented world, weak governance, strong shocks/trends, fisheries and ecosystems under stress.
+:::
+
+::: {.p style="color: #d9534f;"}
+* OSP4: “Global elite and inequality” – high economic growth driven by elites, high technology but weak distributional equity, perhaps strong exploitation of marine resources for a few.  
+:::
+
+::: {.p style="color: #6f42c1;"}
+* OSP5: “High-tech and market” – rapid technological change, strong markets, maybe decoupling of growth from environmental constraints, but possibly heavy resource pressure and weak governance or weak sustainability priorities.  
+:::
+
+#### Quantitative driver trajectories
+The qualitative storylines are translated into numerical model-drivers, for example, fishing effort, governance index, aquaculture expansion, trade flows, so that marine ecosystem and fisheries models can simulate outcomes.
+
+#### “Plug-in” simulation models
+A set of standardised models to plug diverse scenarios i.e., bio-economic and social developments into the FishMIP framework, enabling comparison across models. 
+
+## Protocols
+
+Blue Transformation Protocol: This modeling protocol defines targeted OSP scenarios that are based on the FAO Blue Transformation priorities. FAO’s Blue Transformation outlines a vision to expand aquatic food systems and increase their contribution to global food security. Here, OSP scenarios are informed by priorities in fisheries management, future aquaculture expansion, as well as international trade rules and supply chain changes.
+
+![Images from [Business Standard](https://www.business-standard.com/world-news/g20-backs-fao-s-blue-transformation-for-sustainable-fisheries-aquaculture-124091400068_1.html){target="_blank"} (left) and [FAO 2022](https://doi.org/10.4060/cc0459en){target="_blank} (right)](../images/Aquatic_Food_Systems.png)
+
+Nature Futures Framework (NFF) Protocol: This modeling protocol uses the NFF to define relevant and targeted OSP scenarios that simulate “nature for nature”, “nature as culture”, and “nature for society” scenarios within the ocean realm. The NFF is a flexible, heuristic tool developed under by the Intergovernmental Science‑Policy Platform on Biodiversity and Ecosystem Services (IPBES) to support the development of scenarios and models of desirable futures for people, nature and the Earth’s systems of life. This framework deliberately aims for nature-centric scenarios that address the diversity of human-nature relationships; it also emphasises positive visions rather than simply projecting business-as-usual or worst-case futures. 
+
+![Image from [IPBES (2023)](https://zenodo.org/records/8171339){target="_blank}](../images/IPBES_2023.png)
+
+## Data 
+
+OSP data coming soon...
+
+## Publications
+
+* Maury, O., Tittensor, D. P., Eddy, T. D., Allison, E. H., Bahri, T., Barrier, N., ... & Blanchard, J. (2025). The Ocean System Pathways (OSPs): A new scenario and simulation framework to investigate the future of the world fisheries. Earth's Future, 13(3), e2024EF004851. [https://doi.org/10.1029/2024EF004851](https://doi.org/10.1029/2024EF004851){target="_blank}
+* Maury, O., Campling, L., Arrizabalaga, H., Aumont, O., Bopp, L., Merino, G., ... & Van Ruijven, B. J. (2017). From shared socio-economic pathways (SSPs) to oceanic system pathways (OSPs): Building policy-relevant scenarios for global oceanic ecosystems and fisheries. Global Environmental Change, 45, 203-216. [https://doi.org/10.1016/j.gloenvcha.2017.06.007](https://doi.org/10.1016/j.gloenvcha.2017.06.007){target="_blank}
+:::
