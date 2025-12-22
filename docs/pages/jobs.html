@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="<p>We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.</p>">
+<meta name="description" content="<p>A list of current job listings that might be of interest to FishMIP members and researchers.</p>">
 
-<title>Science Coordination Group | FishMIP</title>
+<title>Job Listings | FishMIP</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="..//FishMIP_assets/one line logo/pngs/one-line-colour-logo_transparent_background.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -70,7 +72,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-jobs-academic .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-jobs-academic'] = new List('listing-jobs-academic', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -206,26 +266,46 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </div>
-<section id="data-tools" class="level1 column-screen mx-3 mx-lg-4 mx-xl-5 px-3 px-lg-4 px-xl-5">
-<h1>Data &amp; Tools</h1>
-<p>We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data. Please check our <a href="https://www.isimip.org/gettingstarted/terms-of-use/" target="_blank">Terms of Use</a> (via ISIMIP) if you would like to use these data for peer-reviewed research.</p>
-<section id="fishmip-shiny" class="level2">
-<h2 data-anchor-id="fishmip-shiny">FishMIP Shiny</h2>
-<p><a href="https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FAO_report_shiny/" target="_blank">Country-level Ensemble Model Outputs</a>: Check out our Shinyapp (beta version) to visualise spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.</p>
-<p><a href="https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FishMIP_Input_Explorer/" target="_blank">Input Explorer for Regional Modellers</a>: A Shinyapp to examine inputs per regional ecosystem model domain.</p>
-</section>
-<section id="tutorials" class="level2">
-<h2 data-anchor-id="tutorials">Tutorials</h2>
-<p>R/Python tutorials for extracting data from ISIMIP servers, regional-scale model inputs from global gridded Earth System Models, or plotting outputs from FishMIP, using a regional shapefiles.</p>
-<ul>
-<li><p><a href="https://github.com/Fish-MIP/FishMIP_NOAA_workshop/blob/main/scripts/Accessing_climate_data_ISIMIP.md" target="_blank">Accessing ISIMIP data</a></p></li>
-<li><p><a href="https://github.com/Fish-MIP/FishMIP_regions" target="_blank">Creating regional model maps from shapefiles</a></p></li>
-<li><p><a href="https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Extracting_FishMIP_data.md" target="_blank">Extracting data using regional mask</a></p></li>
-</ul>
-</section>
-</section>
+<section id="current-job-listings" class="level1">
+<h1>Current Job Listings</h1>
+<p>Below you’ll find a list of current job listings that might be of interest to FishMIP members and researchers. To submit a job listing for this page, fill out <a href="https://forms.gle/sjEBYrJxq5KsRWM8A">this form</a>.</p>
+<div id="listing-jobs-academic" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1763700691384" data-listing-reading-time-sort="2" data-listing-word-count-sort="330">
+<a href="../jobs/dummy-job-posting.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="../images/icons/scroll-solid-full.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="current-job-listings">
+Position title
+</h5>
+<div class="card-text listing-description delink">
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Pretium tellus duis convallis tempus leo eu aenean. Iaculis massa nisl malesuada lacinia integer nunc posuere.…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Institution
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div id="jobs-professional">
+
+</div>
+<div id="jobs-hdr">
+
+</div>
+<div id="jobs-other">
+
+</div>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

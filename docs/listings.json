@@ -22,6 +22,12 @@
     ]
   },
   {
+    "listing": "/pages/jobs.html",
+    "items": [
+      "/jobs/dummy-job-posting.html"
+    ]
+  },
+  {
     "listing": "/pages/publications.html",
     "items": []
   }
