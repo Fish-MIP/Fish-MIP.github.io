@@ -1,7 +1,7 @@
 ---
 pagetitle: Our Approach | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    We use an ensemble modelling approach to combine the results from multiple ecosystem models, all forced by standardized inputs and scenarios.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

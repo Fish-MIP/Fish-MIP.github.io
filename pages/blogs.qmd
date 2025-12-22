@@ -1,7 +1,7 @@
 ---
 pagetitle: Blog | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    Welcome to the FishMIP blog!
 
 listing: 
 - id: blog

@@ -1,7 +1,7 @@
 ---
 pagetitle: Members | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    A list of our current and former members, coordinators and contributors.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

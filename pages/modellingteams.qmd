@@ -1,7 +1,7 @@
 ---
 pagetitle: Modelling Teams | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    FishMIP simulations would not happen without the contributions of many marine ecosystem modellers working together from different regions of the world.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

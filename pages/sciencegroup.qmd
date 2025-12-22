@@ -1,7 +1,7 @@
 ---
 pagetitle: Science Coordination Group | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    All FishMIP activities and simulation experiments are designed and led by a dedicated group of coordinators.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

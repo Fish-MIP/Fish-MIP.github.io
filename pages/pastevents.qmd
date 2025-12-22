@@ -1,7 +1,7 @@
 ---
 pagetitle: Past Events | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    A list of past events within the FishMIP network.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

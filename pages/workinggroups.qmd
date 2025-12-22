@@ -1,7 +1,7 @@
 ---
 pagetitle: Working Groups | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    To advance FishMIP 2.0 we are in the process of establishing several Working Group Projects.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

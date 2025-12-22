@@ -1,7 +1,7 @@
 ---
 pagetitle: Global modelling teams | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    A list of coordinators, contributors and modellers within our global modelling teams.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}
@@ -13,7 +13,7 @@ description-meta: |
 
 Coordinators: Camilla Novaglio & Ryan Heneghan
 
-| Model           | Modelers                                          |
+| Model           | Modellers                                          |
 |-----------------|---------------------------------------------------|
 | APECOSM         | Olivier Maury, Nicolas Barrier                    |
 | BOATS           | Daniele Bianchi, Jerome Giet, Kim Scherrer        |

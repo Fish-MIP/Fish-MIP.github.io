@@ -1,7 +1,7 @@
 ---
 pagetitle: Science Coordination Group | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}
