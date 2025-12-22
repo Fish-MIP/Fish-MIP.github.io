@@ -1,0 +1,40 @@
+---
+pagetitle: Job Listings | FishMIP
+description-meta: |
+    A list of current job listings that might be of interest to FishMIP members and researchers.
+
+listing: 
+- id: jobs-academic
+  contents: 
+    - "../jobs/*qmd"
+    - "!../blogs/dummy-blog-post.qmd"
+  type: grid
+  sort: "date desc"
+  image-placeholder: "../images/icons/scroll-solid-full.png"
+  include:
+    type: academic
+---
+
+::: {.column-screen style="margin-top: -2.9em;"}
+![](../images/shutterstock_169126697%20(4).jpeg){.banner fig-align="center"}
+:::
+
+# Current Job Listings
+
+Below you'll find a list of current job listings that might be of interest to FishMIP members and researchers. To submit a job listing for this page, fill out [this form](https://forms.gle/sjEBYrJxq5KsRWM8A).
+
+::: {#jobs-academic}
+
+:::
+
+::: {#jobs-professional}
+
+:::
+
+::: {#jobs-hdr}
+
+:::
+
+::: {#jobs-other}
+
+:::
