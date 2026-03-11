@@ -90,6 +90,6 @@ format:
     theme: custom.scss
     toc: false
     editor: source
-    embed-resources: true
+    embed-resources: false
     anchor-sections: false
     page-layout: full
