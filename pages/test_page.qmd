@@ -1,7 +1,7 @@
 ---
 pagetitle: Test Page | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    This is just a test page. How did you even get here?
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

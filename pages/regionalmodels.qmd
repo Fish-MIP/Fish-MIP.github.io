@@ -1,7 +1,7 @@
 ---
 pagetitle: Regional modelling teams | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    We are excited to currently have over 30 regional marine ecosystem modelers, who have contributed shapefiles to our map below and are planning to contribute to our FishMIP 2.0 simulations.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

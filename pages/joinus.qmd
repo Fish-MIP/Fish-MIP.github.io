@@ -1,7 +1,7 @@
 ---
 pagetitle: Join Us | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    FishMIP is a growing, open, and inclusive network with over 100 members across the globe.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

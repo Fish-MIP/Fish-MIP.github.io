@@ -1,7 +1,7 @@
 ---
 pagetitle: Simulation Experiments and Protocols | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    Protocols to help allow different ecosystem models to contribute to FishMIP.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}

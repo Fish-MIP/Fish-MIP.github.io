@@ -1,7 +1,7 @@
 ---
 pagetitle: Publications | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    Browse FishMIP-related publications and reports written by our friends and collaborators.
 link-external-newwindow: true
 
 listing: 

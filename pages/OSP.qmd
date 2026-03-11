@@ -1,7 +1,7 @@
 ---
-pagetitle: Join Us | FishMIP
+pagetitle: Ocean System Pathways | FishMIP
 description-meta: |
-    Welcome to the Fisheries and Marine Ecosystem Model Intercomparison Project.
+    The Ocean System Pathways (OSPs) are a scenario framework designed to explore future states of marine ecosystems, fisheries, and aquaculture, by linking socio-economic, management and environmental drivers.
 ---
 
 ::: {.column-screen style="margin-top: -2.9em;"}
