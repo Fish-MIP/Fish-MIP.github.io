@@ -22,7 +22,7 @@ format:
 :::
 
 ::: {.g-col-12 .text-center style="font-size: 1.5em"}
-FishMIP is a network of more than 100 marine ecosystem modellers and researchers from around the world.
+FishMIP is a network of more than 170 marine ecosystem modellers and researchers from around the world.
 :::
 
 ::: {.g-col-12 .text-center}
