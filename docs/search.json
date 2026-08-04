@@ -341,5 +341,12 @@
     "title": "FishMIP CMIP5 (ISIMIP2)",
     "section": "",
     "text": "FishMIP CMIP5 (ISIMIP2)\nThe first two rounds of FishMIP simulation protocols were aligned with CMIP5 under the ISIMIP 2 Simulation Round. The ISIMIP2a simulation protocol represents the choices we have made in order to compare as many global and regional models as possible. These include common inputs with respect to climate, physical and chemical data (temperature, currents, salinity, pH, oxygen), biological data (e.g. primary production, phyto- and zooplankton), and fisheries data (effort, catch, fisheries mortality) as well as common outputs including fish biomass and catch as well as other ecosystem parameters."
+  },
+  {
+    "objectID": "pages/tools.html#fishmip-apps-for-data-exploration",
+    "href": "pages/tools.html#fishmip-apps-for-data-exploration",
+    "title": "Data & Tools",
+    "section": "FishMIP Apps for Data Exploration",
+    "text": "FishMIP Apps for Data Exploration\n\nCountry-level Ensemble Model Outputs: Check out our Shinyapp (beta version) to visualise spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.\nInput Explorer for Regional Modellers: Examine inputs per regional ecosystem model domain.\nSouthern Ocean Projections Explorer: Explore mean changes in marine biomass estimated by the FishMIP ensemble (including 10 marine ecosystem models) relative to the reference period (2005-2014) for Antarctic waters."
   }
 ]

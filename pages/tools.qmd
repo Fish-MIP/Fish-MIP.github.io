@@ -1,5 +1,5 @@
 ---
-pagetitle: Science Coordination Group | FishMIP
+pagetitle: Data & Tools | FishMIP
 description-meta: |
     We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.
 ---
@@ -9,18 +9,22 @@ description-meta: |
 :::
 
 ::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5}
+
 # Data & Tools
 
 We are developing a wide range of community tools and apps for ecosystem modelers and policy end-users of our simulation data.
 Please check our [Terms of Use](https://www.isimip.org/gettingstarted/terms-of-use/){target="_blank"} (via ISIMIP) if you would like to use these data for peer-reviewed research.
 
-## FishMIP Shiny
+## FishMIP Apps for Data Exploration
 
-[Country-level Ensemble Model Outputs](https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FAO_report_shiny/){target="_blank"}:
+-   [Country-level Ensemble Model Outputs](https://fishmip.global-ecosystem-model.cloud.edu.au/shiny/FAO_report_shiny/){target="_blank"}:
 Check out our Shinyapp (beta version) to visualise spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.
 
-[Input Explorer for Regional Modellers](https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FishMIP_Input_Explorer/){target="_blank"}:
-A Shinyapp to examine inputs per regional ecosystem model domain.
+-   [Input Explorer for Regional Modellers](https://fishmip.global-ecosystem-model.cloud.edu.au/shiny/FishMIP_Input_Explorer/){target="_blank"}:
+Examine inputs per regional ecosystem model domain.
+
+-   [Southern Ocean Projections Explorer](https://fishmip.global-ecosystem-model.cloud.edu.au/shiny/ACEAS_legacy_app/){target="_blank"}: Explore mean changes in marine biomass estimated by the FishMIP ensemble (including 10 marine ecosystem models) relative to the reference period (2005-2014) for Antarctic waters.
+
 
 ## Tutorials
 
@@ -31,4 +35,5 @@ R/Python tutorials for extracting data from ISIMIP servers, regional-scale model
 -   [Creating regional model maps from shapefiles](https://github.com/Fish-MIP/FishMIP_regions){target="_blank"}
 
 -   [Extracting data using regional mask](https://github.com/Fish-MIP/FishMIP_extracting-data/blob/main/Scripts/Extracting_FishMIP_data.md){target="_blank"}
+
 :::
