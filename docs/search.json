@@ -14,11 +14,11 @@
     "text": "FishMIP CMIP6 Phase 1\nThe goal of FishMIP CMIP6 Phase 1 (commenced in 2020) is to provide input to the IPCC WGII AR6 report. This necessitates submitting a manuscript by November 1st 2020. The focus of this simulation round will be on (a) new FishMIP outputs using climate scenarios from the CMIP6 earth-system model forcings; (b) exploring fishing impacts in addition to those of climate; (c) comparison to a no-climate change pre-industrial control baseline (which was not available for the last round of simulations), and (d) if possible, validation against observed catches.\nNote that this FishMIP CMIP6 Phase 1 protocol represents only a subset of the full ISIMIP3b protocol with a smaller set of scenarios considered. The FishMIP CMIP6 Phase 2 protocol will build upon these experiments in 2023.\nThe FishMIP CMIP6 Phase 1 (contributing to ISIMIP3b) protocol can be downloaded here while the official ISIMIP3 protocol is located on this website."
   },
   {
-    "objectID": "pages/tools.html#fishmip-shiny",
-    "href": "pages/tools.html#fishmip-shiny",
+    "objectID": "pages/tools.html#fishmip-apps-for-data-exploration",
+    "href": "pages/tools.html#fishmip-apps-for-data-exploration",
     "title": "Data & Tools",
-    "section": "FishMIP Shiny",
-    "text": "FishMIP Shiny\nCountry-level Ensemble Model Outputs: Check out our Shinyapp (beta version) to visualise spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.\nInput Explorer for Regional Modellers: A Shinyapp to examine inputs per regional ecosystem model domain."
+    "section": "FishMIP Apps for Data Exploration",
+    "text": "FishMIP Apps for Data Exploration\n\nCountry-level Ensemble Model Outputs: Check out our Shinyapp (beta version) to visualise spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.\nInput Explorer for Regional Modellers: Examine inputs per regional ecosystem model domain.\nSouthern Ocean Projections Explorer: Explore mean changes in marine biomass estimated by the FishMIP ensemble (including 10 marine ecosystem models) relative to the reference period (2005-2014) for Antarctic waters."
   },
   {
     "objectID": "pages/tools.html#tutorials",
@@ -341,12 +341,5 @@
     "title": "FishMIP CMIP5 (ISIMIP2)",
     "section": "",
     "text": "FishMIP CMIP5 (ISIMIP2)\nThe first two rounds of FishMIP simulation protocols were aligned with CMIP5 under the ISIMIP 2 Simulation Round. The ISIMIP2a simulation protocol represents the choices we have made in order to compare as many global and regional models as possible. These include common inputs with respect to climate, physical and chemical data (temperature, currents, salinity, pH, oxygen), biological data (e.g. primary production, phyto- and zooplankton), and fisheries data (effort, catch, fisheries mortality) as well as common outputs including fish biomass and catch as well as other ecosystem parameters."
-  },
-  {
-    "objectID": "pages/tools.html#fishmip-apps-for-data-exploration",
-    "href": "pages/tools.html#fishmip-apps-for-data-exploration",
-    "title": "Data & Tools",
-    "section": "FishMIP Apps for Data Exploration",
-    "text": "FishMIP Apps for Data Exploration\n\nCountry-level Ensemble Model Outputs: Check out our Shinyapp (beta version) to visualise spatially aggregated data of projected changes in potential fish biomass, under alternative climate emission scenarios.\nInput Explorer for Regional Modellers: Examine inputs per regional ecosystem model domain.\nSouthern Ocean Projections Explorer: Explore mean changes in marine biomass estimated by the FishMIP ensemble (including 10 marine ecosystem models) relative to the reference period (2005-2014) for Antarctic waters."
   }
 ]
