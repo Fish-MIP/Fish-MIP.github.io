@@ -8,6 +8,12 @@
     ]
   },
   {
+    "listing": "/pages/jobs.html",
+    "items": [
+      "/jobs/dummy-job-posting.html"
+    ]
+  },
+  {
     "listing": "/pages/blogs.html",
     "items": [
       "/blogs/OSP_Montpellier_2025.html",
@@ -19,12 +25,6 @@
       "/blogs/fishmip-at-ECC05.html",
       "/blogs/Climate-risk-marine-ecosystems.html",
       "/blogs/fishMIP2022workshop.html"
-    ]
-  },
-  {
-    "listing": "/pages/jobs.html",
-    "items": [
-      "/jobs/dummy-job-posting.html"
     ]
   },
   {

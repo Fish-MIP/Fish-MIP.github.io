@@ -92,6 +92,6 @@ Our goal is to bring together diverse marine ecosystem models to help better und
 :::
 
 ::: {.g-col-12 .text-center style="margin-bottom: 3em;"}
-FishMIP contributes to the [**Intersectoral Impact ModelIntercomparisonProject (ISIMIP)**](https://www.isimip.org/).
+FishMIP contributes to the [**Intersectoral Impact Model IntercomparisonProject (ISIMIP)**](https://www.isimip.org/).
 :::
 ::::

@@ -19,7 +19,7 @@ To advance FishMIP 2.0, we are in the process of establishing several Working Gr
 * [WG4: Biodiversity protection](workinggroups.qmd#sec-wg4)
 * [WG5: Climate change mitigation](workinggroups.qmd#sec-wg5)
 
-![Figure adapted from [Blanchard & Novaglio (2024)](https://doi.org/10.4060/cd1379en){target="_blank"}, *Climate change risks to marine ecosystems and fisheries: Projections to 2100 from the Fisheries and Marine Ecosystem Model Intercomparison Project*.](../images/FAO_report_figure_20_v2_small.png){width="85"}
+![Figure adapted from [Blanchard & Novaglio (2024)](https://doi.org/10.4060/cd1379en){target="_blank"}, *Climate change risks to marine ecosystems and fisheries: Projections to 2100 from the Fisheries and Marine Ecosystem Model Intercomparison Project*.](../images/FAO_report_figure_20_v2_small.png){width="75"}
 
 ## WG1: Model improvement & data tools {#sec-wg1}
 

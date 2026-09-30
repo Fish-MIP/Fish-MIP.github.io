@@ -42,7 +42,7 @@ Our current global model members are listed below.
 **Regional Ecosystem Model coordinators:** Kelly Ortega (overall lead & Atlantis), Marta Coll (EwE), Phoebe Woodworth-Jefcoats (mizer), Yunne Shin (OSMOSE)
 
 ::: {.center}
-![Figure created by Denisse Fierro Arcos](../images/FishMIP_regional_models - small.png)
+![Map of current regional FishMIP models. Figure created by Denisse Fierro Arcos.](../images/FishMIP_regional_models - small.png)
 :::
 
 We are excited to currently have 34 regional marine ecosystem modelers, who have contributed shapefiles to our map above and are planning to contribute to our FishMIP 2.0 simulations. Not shown in map is KRILLPODYM by David Green and Southern Ocean MICE by Viv Tulloch. We also welcome variants of these or bespoke model types provided they are published and skill assessed. To ensure consistency and standardisation of our simulations please follow our specific regional model implementation guidelines. Or contact the relevant coordinators above for any questions.

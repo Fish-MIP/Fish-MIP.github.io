@@ -11,35 +11,61 @@ description-meta: |
 ::: {.column-screen .mx-3 .mx-lg-4 .mx-xl-5 .px-3 .px-lg-4 .px-xl-5}
 # Science Coordination Group
 
-All FishMIP activities and simulation experiments are designed and led by a dedicated group of coordinators. For general inquiries please contact us on [fishmip.coordinators\@gmail.com](mailto:fishmip.coordinators@gmail.com)
-
-For more specific help or requests you may wish to contact the relevant coordinator(s) below:
+All FishMIP activities and simulation experiments are designed and led by a dedicated group of coordinators. For general inquiries please contact us on [fishmip.coordinators\@gmail.com](mailto:fishmip.coordinators@gmail.com). For more specific help or requests you may wish to contact the relevant coordinator(s) below.
 
 ## The FishMIP Coordination Team
 
-**FishMIP overall lead:** [Julia Blanchard](mailto:julia.blanchard@utas.edu.au), IMAS- University of Tasmania
+<!-- **FishMIP overall lead:** [Julia Blanchard](mailto:julia.blanchard@utas.edu.au), IMAS- University of Tasmania -->
 
-**Global Marine Ecosystem Models and Fisheries Data:** [Camilla Novaglio](mailto:camilla.novaglio@leibniz-zmt.de), The Leibniz Centre for Tropical Marine Research (ZMT), and [Ryan Heneghan](mailto:r.heneghan@griffith.edu.au), Griffith University
+<!-- **Global Marine Ecosystem Models and Fisheries Data:** [Camilla Novaglio](mailto:camilla.novaglio@leibniz-zmt.de), The Leibniz Centre for Tropical Marine Research (ZMT), and [Ryan Heneghan](mailto:r.heneghan@griffith.edu.au), Griffith University -->
 
-**Regional Marine Ecosystem Models and Downscaling:** [Kelly Ortega Cisneros](mailto:kelly.ortegacisneros@uct.ac.za), University of Cape Town
+<!-- **Regional Marine Ecosystem Models and Downscaling:** [Kelly Ortega Cisneros](mailto:kelly.ortegacisneros@uct.ac.za), University of Cape Town -->
 
-**Earth System Models:** [Colleen Petrik](mailto:colleenpetrik@gmail.com), Scripps Institute of Oceanography and [Cheryl Harrison](mailto:chsharrison@gmail.com), Louisiana State University
+<!-- **Earth System Models:** [Colleen Petrik](mailto:colleenpetrik@gmail.com), Scripps Institute of Oceanography and [Cheryl Harrison](mailto:chsharrison@gmail.com), Louisiana State University -->
 
-**Future Societal Scenarios:** [Olivier Maury](mailto:olivier.maury@ird.fr) IRD; [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca), Marine Institute Memorial University; [Derek Tittensor](mailto:derek.tittensor@dal.ca), Dalhousie University
+<!-- **Future Societal Scenarios:** [Olivier Maury](mailto:olivier.maury@ird.fr) IRD; [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca), Marine Institute Memorial University; [Derek Tittensor](mailto:derek.tittensor@dal.ca), Dalhousie University -->
 
-**Science communication and outreach:** [Andrea Bryndum-Buchholz](mailto:andrea.buchholz@mi.mun.ca), Marine Institute Memorial University and [Kelsey Roberts](mailto:kroberts6@umassd.edu), University of Massachusetts Dartmouth
+<!-- **Science communication and outreach:** [Andrea Bryndum-Buchholz](mailto:andrea.buchholz@mi.mun.ca), Marine Institute Memorial University and [Kelsey Roberts](mailto:kroberts6@umassd.edu), University of Massachusetts Dartmouth -->
 
-**Data scientist:** [Denisse Fierro-Arcos](mailto:lilian.fierroarcos@utas.edu.au), IMAS-University of Tasmania
+<!-- **Data scientist:** [Denisse Fierro-Arcos](mailto:lilian.fierroarcos@utas.edu.au), IMAS-University of Tasmania -->
 
-**Website:** [Sowdamini Sesha Prasad](mailto:sowdamini.seshaprasad@utas.edu.au), IMAS-University of Tasmania, and [Tormey Reimer](mailto:tormey.reimer@utas.edu.au), IMAS-University of Tasmania
+<!-- **Website:** [Sowdamini Sesha Prasad](mailto:sowdamini.seshaprasad@utas.edu.au), IMAS-University of Tasmania, and [Tormey Reimer](mailto:tormey.reimer@utas.edu.au), IMAS-University of Tasmania -->
 
-**ISIMIP cross-sectoral studies:** [Julia Blanchard](mailto:julia.blanchard@utas.edu.au) & [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca)
+<!-- **ISIMIP cross-sectoral studies:** [Julia Blanchard](mailto:julia.blanchard@utas.edu.au) & [Tyler Eddy](mailto:Tyler.Eddy@mi.mun.ca) -->
+
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                             |                                                                                                                                                           |
++=============================================+===========================================================================================================================================================+
+| ::: bold-p                                  | ::: p                                                                                                                                                     |
+| FishMIP overall leadership                  | [Camilla Novaglio](mailto:camilla.novaglio@leibniz-zmt.de){target="_blank"}, The Leibniz Centre for Tropical Marine Research (ZMT)                        |
+| :::                                         |                                                                                                                                                           |
+|                                             | [Julia Blanchard](mailto:julia.blanchard@utas.edu.au){target="_blank"}, Institute for Marine and Antarctic Studies (IMAS), University of Tasmania         |
+|                                             | :::                                                                                                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ::: bold-p                                  | ::: p                                                                                                                                                     |
+| Global Marine Ecosystem Model Coordinator   | [Ryan Heneghan](mailto:r.heneghan@griffith.edu.au){target="_blank"}, Griffith University                                                                  |
+| :::                                         | :::                                                                                                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ::: bold-p                                  | ::: p                                                                                                                                                     |
+| Regional Marine Ecosystem Model Coordinator | [Kelly Ortega Cisneros](mailto:kelly.ortegacisneros@uct.ac.za){target="_blank"}, University of Cape Town                                                  |
+| :::                                         | :::                                                                                                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ::: bold-p                                  | ::: p                                                                                                                                                     |
+| Earth System Models (CMIP representative)   | [Colleen Petrik](mailto:colleenpetrik@gmail.com){target="_blank"}, Scripps Institute of Oceanography                                                      |
+| :::                                         | :::                                                                                                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ::: bold-p                                  | ::: p                                                                                                                                                     |
+| Data Tools and Communications               | [Denisse Fierro-Arcos](mailto:lilian.fierroarcos@utas.edu.au){target="_blank"}, Institute for Marine and Antarctic Studies (IMAS), University of Tasmania |
+| :::                                         |                                                                                                                                                           |
+|                                             | [Tormey Reimer](mailto:tormey.reimer@utas.edu.au){target="_blank"}, Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (website)   |
+|                                             | :::                                                                                                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Previous Fish-MIP leadership
 
-* **Derek Tittensor** (lead coordinator, 2017-2020)
-* **Eric Galbraith** (global model coordinator, 2014-2020)
-* **Heike Lotze** (lead coordinator, 2014-2016)
-* **Tyler Eddy** (regional model coordinator, 2014-2023)
-* **William Cheung** (global model coordinator, 2014-2016)
+- **Derek Tittensor** (lead coordinator, 2017-2020)
+- **Eric Galbraith** (global model coordinator, 2014-2020)
+- **Heike Lotze** (lead coordinator, 2014-2016)
+- **Tyler Eddy** (regional model coordinator, 2014-2023)
+- **William Cheung** (global model coordinator, 2014-2016)
 :::
